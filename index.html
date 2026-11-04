@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 内容管线指挥台 · Pipeline Command Center</title>
+<style>
+:root{
+  --bg:#070b16; --panel:rgba(15,23,42,.72); --line:rgba(148,163,214,.14);
+  --cyan:#22d3ee; --violet:#a855f7; --green:#34d399; --amber:#fbbf24; --red:#f87171;
+  --txt:#e2e8f0; --dim:#94a3b8;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+  background:var(--bg); color:var(--txt); font-family:"Segoe UI","Microsoft YaHei",sans-serif;
+  min-height:100vh; overflow-x:hidden;
+}
+body::before{
+  content:""; position:fixed; inset:0; z-index:0; pointer-events:none;
+  background:
+    radial-gradient(700px 420px at 12% -8%, rgba(34,211,238,.13), transparent 60%),
+    radial-gradient(760px 480px at 88% 4%, rgba(168,85,247,.13), transparent 60%),
+    radial-gradient(900px 600px at 50% 110%, rgba(52,211,153,.07), transparent 60%),
+    linear-gradient(rgba(148,163,214,.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(148,163,214,.045) 1px, transparent 1px);
+  background-size:auto,auto,auto,44px 44px,44px 44px;
+}
+body::after{
+  content:""; position:fixed; inset:0; z-index:1; pointer-events:none; opacity:.5;
+  background:repeating-linear-gradient(0deg, transparent 0 3px, rgba(0,0,0,.14) 3px 4px);
+  animation:scan 9s linear infinite;
+}
+@keyframes scan{from{background-position:0 0}to{background-position:0 44px}}
+.wrap{position:relative; z-index:2; max-width:1360px; margin:0 auto; padding:26px 28px 60px}
+header{display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; margin-bottom:22px}
+.brand{display:flex; align-items:center; gap:14px}
+.logo{
+  width:46px; height:46px; border-radius:13px; display:grid; place-items:center; font-size:22px;
+  background:linear-gradient(135deg,var(--cyan),var(--violet)); box-shadow:0 0 26px rgba(34,211,238,.45);
+  animation:pulse 2.6s ease-in-out infinite;
+}
+@keyframes pulse{0%,100%{box-shadow:0 0 18px rgba(34,211,238,.35)}50%{box-shadow:0 0 34px rgba(168,85,247,.6)}}
+h1{font-size:23px; letter-spacing:1px; font-weight:700}
+h1 em{
+  font-style:normal;
+  background:linear-gradient(90deg,var(--cyan),var(--violet),var(--green));
+  -webkit-background-clip:text; background-clip:text; color:transparent;
+  background-size:200% auto; animation:shine 4s linear infinite;
+}
+@keyframes shine{to{background-position:200% center}}
+.sub{color:var(--dim); font-size:12.5px; margin-top:3px; letter-spacing:.5px}
+.live{display:flex; align-items:center; gap:8px; font-size:12px; color:var(--green); background:rgba(52,211,153,.08); border:1px solid rgba(52,211,153,.3); padding:7px 14px; border-radius:99px}
+.dot{width:8px; height:8px; border-radius:50%; background:var(--green); animation:blink 1.2s infinite}
+@keyframes blink{50%{opacity:.25}}
+
+/* ===== 阶段流水灯 ===== */
+.flow{position:relative; background:var(--panel); border:1px solid var(--line); border-radius:18px; padding:22px 18px 16px; backdrop-filter:blur(8px); margin-bottom:20px; overflow:hidden}
+.flow h2, .sec h2{font-size:14px; color:var(--dim); letter-spacing:3px; margin-bottom:16px; text-transform:uppercase}
+.stages{display:flex; align-items:flex-start; justify-content:space-between; position:relative; padding:4px 6px 0}
+.stages::before{
+  content:""; position:absolute; left:7%; right:7%; top:34px; height:2px;
+  background:linear-gradient(90deg,rgba(34,211,238,.15),rgba(168,85,247,.55),rgba(52,211,153,.4),rgba(34,211,238,.15));
+  background-size:200% 100%; animation:flowline 3.2s linear infinite;
+}
+@keyframes flowline{to{background-position:-200% 0}}
+.stage{position:relative; z-index:1; flex:1; text-align:center; min-width:96px}
+.sdot{
+  width:52px; height:52px; margin:0 auto 9px; border-radius:16px; display:grid; place-items:center;
+  font-size:23px; background:#0b1226; border:1.5px solid rgba(148,163,214,.28);
+  transition:.35s; position:relative;
+}
+.stage.on .sdot{
+  border-color:var(--cyan); background:linear-gradient(160deg,rgba(34,211,238,.22),rgba(168,85,247,.18));
+  box-shadow:0 0 22px rgba(34,211,238,.5); transform:translateY(-4px);
+}
+.stage.on .sdot::after{
+  content:""; position:absolute; inset:-6px; border-radius:20px; border:1.5px solid rgba(34,211,238,.55);
+  animation:ring 1.6s ease-out infinite;
+}
+@keyframes ring{0%{transform:scale(.82); opacity:.9}100%{transform:scale(1.3); opacity:0}}
+.sname{font-size:12.5px; color:var(--dim); transition:.3s}
+.stage.on .sname{color:#dbeafe; font-weight:600}
+.scount{font-size:11px; color:var(--cyan); margin-top:3px; min-height:14px}
+
+/* ===== 统计卡 ===== */
+.grid{display:grid; gap:16px; margin-bottom:20px}
+.stats{grid-template-columns:repeat(5,1fr)}
+.card{
+  background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:16px 18px;
+  backdrop-filter:blur(8px); position:relative; overflow:hidden;
+}
+.card::before{content:""; position:absolute; top:0; left:0; right:0; height:2px; background:linear-gradient(90deg,var(--cyan),var(--violet)); opacity:.75}
+.card .k{font-size:12px; color:var(--dim); letter-spacing:1px}
+.card .v{font-size:30px; font-weight:800; margin-top:6px; font-variant-numeric:tabular-nums;
+  background:linear-gradient(120deg,#e0f2fe,#c4b5fd); -webkit-background-clip:text; background-clip:text; color:transparent}
+.card .u{font-size:13px; color:var(--dim); font-weight:400; margin-left:4px}
+.card .ico{position:absolute; right:14px; top:14px; font-size:22px; opacity:.28}
+
+/* ===== 双栏 ===== */
+.cols{display:grid; grid-template-columns:1.25fr 1fr; gap:16px; margin-bottom:20px}
+.sec{background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:18px; backdrop-filter:blur(8px)}
+
+/* ===== 日志 ===== */
+#log{
+  height:340px; overflow-y:auto; font-family:Consolas,"Cascadia Mono",monospace; font-size:12.5px;
+  line-height:1.85; padding:4px 6px;
+}
+#log::-webkit-scrollbar{width:6px} #log::-webkit-scrollbar-thumb{background:rgba(34,211,238,.35); border-radius:3px}
+.lg{display:flex; gap:10px; animation:fadein .35s}
+@keyframes fadein{from{opacity:0; transform:translateY(6px)}to{opacity:1; transform:none}}
+.lg .t{color:#475569; flex-shrink:0}
+.lg .tag{flex-shrink:0; font-weight:700}
+.lg .m{color:#cbd5e1; word-break:break-all}
+.ok .tag{color:var(--green)} .info .tag{color:var(--cyan)} .warn .tag{color:var(--amber)} .err .tag{color:var(--red)} .ai .tag{color:var(--violet)}
+
+/* ===== 合集 ===== */
+.cols2{display:grid; grid-template-columns:1fr 1fr; gap:16px}
+.colls{display:grid; grid-template-columns:repeat(4,1fr); gap:12px}
+.coll{
+  border:1px solid var(--line); border-radius:14px; padding:13px 12px; text-align:center;
+  background:linear-gradient(160deg,rgba(30,41,59,.75),rgba(15,23,42,.75)); transition:.3s; cursor:default;
+}
+.coll:hover{transform:translateY(-4px); border-color:rgba(34,211,238,.55); box-shadow:0 8px 26px rgba(34,211,238,.16)}
+.coll .e{font-size:21px; margin-bottom:6px}
+.coll .n{font-size:12.5px; color:#dbeafe; font-weight:600}
+.coll .c{font-size:17px; font-weight:800; color:var(--cyan); margin-top:5px; font-variant-numeric:tabular-nums}
+.coll .s{font-size:10.5px; margin-top:4px; color:var(--amber)}
+.coll.done .s{color:var(--green)}
+
+/* ===== pi 面板 ===== */
+.pi-head{display:flex; align-items:center; gap:10px; margin-bottom:12px}
+.pi-badge{
+  font-size:11px; font-weight:700; letter-spacing:1px; padding:4px 10px; border-radius:99px;
+  background:linear-gradient(90deg,rgba(168,85,247,.25),rgba(34,211,238,.25));
+  border:1px solid rgba(168,85,247,.5); color:#e9d5ff;
+}
+.ask{display:flex; gap:10px; margin-bottom:12px}
+.ask input{
+  flex:1; background:#0b1226; border:1px solid rgba(148,163,214,.3); color:var(--txt);
+  padding:11px 14px; border-radius:10px; font-size:13.5px; outline:none; transition:.25s;
+}
+.ask input:focus{border-color:var(--violet); box-shadow:0 0 16px rgba(168,85,247,.3)}
+.ask button{
+  padding:11px 22px; border:none; border-radius:10px; cursor:pointer; font-weight:700; font-size:13.5px;
+  background:linear-gradient(120deg,var(--violet),var(--cyan)); color:#041018; transition:.25s;
+}
+.ask button:hover{transform:translateY(-1px); box-shadow:0 6px 20px rgba(168,85,247,.4)}
+.ask button:disabled{opacity:.5; cursor:wait; transform:none}
+#answer{
+  min-height:150px; max-height:260px; overflow-y:auto; background:#0b1226; border:1px solid rgba(148,163,214,.22);
+  border-radius:10px; padding:14px; font-size:13.5px; line-height:1.8; color:#cbd5e1; white-space:pre-wrap;
+}
+#answer:empty::before{content:"向 Pi Agent 提问，例如：今天管线交付了几部？合集怎么规划？"; color:#475569}
+#answer::-webkit-scrollbar{width:6px} #answer::-webkit-scrollbar-thumb{background:rgba(168,85,247,.4); border-radius:3px}
+.caret{display:inline-block; width:8px; height:16px; background:var(--violet); animation:blink 1s steps(1) infinite; vertical-align:-2px}
+
+/* ===== 时间线 ===== */
+.tl{list-style:none; max-height:300px; overflow-y:auto}
+.tl li{position:relative; padding:0 0 14px 22px; border-left:2px solid rgba(148,163,214,.2); margin-left:5px}
+.tl li::before{
+  content:""; position:absolute; left:-7px; top:3px; width:12px; height:12px; border-radius:50%;
+  background:var(--bg); border:2.5px solid var(--cyan); box-shadow:0 0 10px rgba(34,211,238,.6);
+}
+.tl li:last-child{border-left-color:transparent}
+.tl .d{font-size:11px; color:var(--dim)}
+.tl .x{font-size:13px; color:#e2e8f0; margin-top:2px}
+.tl .badge{font-size:10.5px; background:rgba(34,211,238,.14); border:1px solid rgba(34,211,238,.4); color:var(--cyan); padding:1px 8px; border-radius:99px; margin-left:8px}
+.tl::-webkit-scrollbar{width:6px} .tl::-webkit-scrollbar-thumb{background:rgba(34,211,238,.35); border-radius:3px}
+
+footer{margin-top:26px; text-align:center; color:#475569; font-size:12px; letter-spacing:.5px}
+footer b{color:var(--dim)}
+@media(max-width:1080px){.stats{grid-template-columns:repeat(2,1fr)} .cols,.cols2{grid-template-columns:1fr} .colls{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="brand">
+    <div class="logo">🎬</div>
+    <div>
+      <h1>AI 内容管线 <em>指挥台</em></h1>
+      <div class="sub">选片 → 下载 → 转写 → 意译 → 封面 → 拼接 → 交付 · 全自动无人值守</div>
+    </div>
+  </div>
+  <div class="live"><span class="dot"></span> PIPELINE ONLINE · <span id="clock">--:--:--</span></div>
+</header>
+
+<!-- 阶段流水灯 -->
+<section class="flow">
+  <h2>Live Pipeline · 实时流水线</h2>
+  <div class="stages" id="stages">
+    <div class="stage" data-k="pick"><div class="sdot">⚡</div><div class="sname">选片引擎</div><div class="scount"></div></div>
+    <div class="stage" data-k="dl"><div class="sdot">📦</div><div class="sname">磁力下载</div><div class="scount"></div></div>
+    <div class="stage" data-k="tr"><div class="sdot">🎙️</div><div class="sname">AI 转写</div><div class="scount"></div></div>
+    <div class="stage" data-k="zh"><div class="sdot">🌐</div><div class="sname">LLM 意译</div><div class="scount"></div></div>
+    <div class="stage" data-k="cover"><div class="sdot">🎨</div><div class="sname">封面生成</div><div class="scount"></div></div>
+    <div class="stage" data-k="burn"><div class="sdot">🔥</div><div class="sname">风景拼接</div><div class="scount"></div></div>
+    <div class="stage" data-k="done"><div class="sdot">✅</div><div class="sname">合集交付</div><div class="scount"></div></div>
+  </div>
+</section>
+
+<!-- 统计 -->
+<section class="grid stats" id="stats">
+  <div class="card"><span class="ico">🎞️</span><div class="k">作品总数</div><div class="v" data-s="works">0</div></div>
+  <div class="card"><span class="ico">⏱️</span><div class="k">内容总时长</div><div class="v" data-s="hours">0<span class="u">小时</span></div></div>
+  <div class="card"><span class="ico">📝</span><div class="k">字幕总块</div><div class="v" data-s="subs">0</div></div>
+  <div class="card"><span class="ico">🧠</span><div class="k">LLM 意译块</div><div class="v" data-s="llm">0</div></div>
+  <div class="card"><span class="ico">🗂️</span><div class="k">内容合集</div><div class="v" data-s="colls">0</div></div>
+</section>
+
+<div class="cols">
+  <!-- 日志 -->
+  <section class="sec">
+    <h2>Live Logs · 管线日志流</h2>
+    <div id="log"></div>
+  </section>
+
+  <!-- Pi 大脑 -->
+  <section class="sec">
+    <div class="pi-head">
+      <span class="pi-badge">POWERED BY PI AGENT SDK</span>
+      <h2 style="margin:0">🧠 Pi 大脑 · 实时问答</h2>
+    </div>
+    <div class="ask">
+      <input id="q" placeholder="问 Pi 管线问题…" onkeydown="if(event.key==='Enter')ask()">
+      <button id="askBtn" onclick="ask()">询问 Pi</button>
+    </div>
+    <div id="answer"></div>
+  </section>
+</div>
+
+<div class="cols2">
+  <!-- 合集矩阵 -->
+  <section class="sec">
+    <h2>Content Collections · 合集矩阵</h2>
+    <div class="colls" id="colls"></div>
+  </section>
+
+  <!-- 时间线 -->
+  <section class="sec">
+    <h2>Recent Deliveries · 最近交付</h2>
+    <ul class="tl" id="tl"></ul>
+  </section>
+</div>
+
+<footer>⚡ Pipeline Command Center · 内部由 <b>Pi Agent SDK</b> 驱动 · 本地演示服务 <b>server.py</b> · 数据源 daily-movie 台账</footer>
+</div>
+
+<script>
+/* ========== 时钟 ========== */
+setInterval(()=>{document.getElementById('clock').textContent=new Date().toLocaleTimeString('zh-CN',{hour12:false})},1000);
+
+/* ========== 统计 ========== */
+async function loadStats(){
+  try{
+    const d = await (await fetch('/api/stats')).json();
+    const set=(k,v)=>{const el=document.querySelector(`[data-s="${k}"]`); if(el){el.firstChild.nodeValue=String(v)}};
+    set('works', d.works); set('hours', d.hours); set('subs', d.subs); set('llm', d.llm); set('colls', d.colls);
+    // 合集
+    const cw=document.getElementById('colls'); cw.innerHTML='';
+    (d.collections||[]).forEach((c,i)=>{
+      const el=document.createElement('div');
+      el.className='coll'+(c.pending?'':' done');
+      el.style.animation=`fadein .4s ${i*.05}s both`;
+      el.innerHTML=`<div class="e">${c.icon||'📁'}</div><div class="n">${c.name}</div><div class="c">${c.count}</div><div class="s">${c.pending?'⏳ 待平台创建':'✓ 已创建'}</div>`;
+      cw.appendChild(el);
+    });
+    // 时间线
+    const tl=document.getElementById('tl'); tl.innerHTML='';
+    (d.timeline||[]).forEach((t,i)=>{
+      const li=document.createElement('li');
+      li.innerHTML=`<div class="d">${t.date}</div><div class="x">${t.title}<span class="badge">${t.note||'交付'}</span></div>`;
+      tl.appendChild(li);
+    });
+    // 阶段计数
+    if(d.stages){
+      document.querySelectorAll('.stage').forEach(s=>{
+        const v=d.stages[s.dataset.k];
+        if(v!==undefined) s.querySelector('.scount').textContent=v>0?`${v} 部`:'';
+      });
+    }
+  }catch(e){console.error(e)}
+}
+
+/* ========== 阶段流水灯动画 ========== */
+let sk=0;
+const stageEls=[...document.querySelectorAll('.stage')];
+setInterval(()=>{
+  stageEls.forEach(e=>e.classList.remove('on'));
+  for(let i=0;i<3;i++){stageEls[(sk+i)%stageEls.length].classList.add('on')}
+  sk=(sk+1)%stageEls.length;
+},1400);
+
+/* ========== 日志流 ========== */
+const logEl=document.getElementById('log');
+const TAGS=[['OK','ok'],['INFO','info'],['WARN','warn'],['ERR','err'],['AI','ai']];
+function addLog(level,msg){
+  const t=new Date().toLocaleTimeString('zh-CN',{hour12:false});
+  const div=document.createElement('div');
+  div.className='lg '+level.toLowerCase();
+  div.innerHTML=`<span class="t">${t}</span><span class="tag">[${level}]</span><span class="m"></span>`;
+  div.querySelector('.m').textContent=msg;
+  logEl.appendChild(div);
+  while(logEl.children>60&&logEl.firstChild)logEl.removeChild(logEl.firstChild);
+  logEl.scrollTop=logEl.scrollHeight;
+}
+let es;
+function connect(){
+  es=new EventSource('/api/stream');
+  es.onmessage=e=>{const d=JSON.parse(e.data); addLog(d.level,d.msg)};
+  es.onerror=()=>{es.close(); setTimeout(connect,3000)};
+}
+connect();
+
+/* ========== Pi 问答 ========== */
+async function ask(){
+  const q=document.getElementById('q'), btn=document.getElementById('askBtn'), ans=document.getElementById('answer');
+  if(!q.value.trim())return;
+  btn.disabled=true; btn.textContent='思考中…';
+  ans.innerHTML='<span class="caret"></span>';
+  const orig=q.value; q.value='';
+  try{
+    const r=await fetch('/api/ask',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({q:orig})});
+    const rd=r.body.getReader(), dec=new TextDecoder();
+    while(true){
+      const {done,value}=await rd.read();
+      if(done)break;
+      ans.textContent+=dec.decode(value,{stream:true});
+      ans.scrollTop=ans.scrollHeight;
+    }
+  }catch(e){ans.textContent+='⚠ '+e}
+  btn.disabled=false; btn.textContent='询问 Pi';
+  q.value=orig;
+}
+loadStats(); setInterval(loadStats,15000);
+</script>
+</body>
+</html>
