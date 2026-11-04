@@ -1,0 +1,52 @@
+# entities
+
+## Concepts
+
+- [add_error.py](adderrorpy.md) — Python script for quick error entry, interactive and non-interactive modes.
+- [add_vocab.py](addvocabpy.md) — Python script for entering new vocabulary word groups into the library.
+- [Calendar](calendar.md) — Optional Obsidian plugin for calendar-view creation of daily records.
+- [ChatGPT](chatgpt.md) — 前年爆火的大语言模型产品，题目文段中作为AI重塑生活的例证
+- [Dataview](dataview.md) — Obsidian plugin used to run the data queries shown on the dashboard.
+- [DeepSeek](deepseek.md) — 最近出圈的国产AI模型，题目文段中作为AI重塑生活的例证
+- [ebbinghaus.py](ebbinghauspy.md) — Python script for Ebbinghaus spaced-repetition review scheduling and tracking.
+- [Hermes](hermes.md) — Agent environment that can restart to expose Memory MCP tools for cross-session queries.
+- [Kanban](kanban.md) — Optional Obsidian plugin for kanban-style review progress management.
+- [Memory MCP](memory-mcp.md) — Knowledge graph layer storing entities, relations, and enabling queries.
+- [MiMo](mimo.md) — AI assistant referenced in the workflow that judges answers and updates mastery levels in the review system.
+- [Minimal Theme](minimal-theme.md) — Optional Obsidian theme for aesthetics.
+- [Obsidian](obsidian.md) — Note-taking tool that hosts the vault; the dashboard uses Dataview queries and markdown links.
+- [Obsidian Dataview](obsidian-dataview.md) — Obsidian plugin used to render overview, category, and due-review tables from vault metadata.
+- [visualize_graph.py](visualizegraphpy.md) — Python script that renders the knowledge graph image and statistics.
+- [weekly_review.py](weeklyreviewpy.md) — Python script that generates weekly review reports and notes.
+- [下文推断题-坑点](%E4%B8%8B%E6%96%87%E6%8E%A8%E6%96%AD%E9%A2%98-%E5%9D%91%E7%82%B9.md) — Pitfall file listing traps for 下文推断 such as skipping steps and contradicting the passage.
+- [下文推断题解题体系](%E4%B8%8B%E6%96%87%E6%8E%A8%E6%96%AD%E9%A2%98%E8%A7%A3%E9%A2%98%E4%BD%93%E7%B3%BB.md) — Knowledge solution-system file for 下文推断 (next-sentence inference) questions referenced by tags.
+- [主旨题](%E4%B8%BB%E6%97%A8%E9%A2%98.md) — 行测言语理解中的核心题型，要求判断文段中心主旨，本文档为其解题体系。
+- [主旨题-坑点](%E4%B8%BB%E6%97%A8%E9%A2%98-%E5%9D%91%E7%82%B9.md) — Pitfall file listing examiner tricks for 主旨题 such as shifted emphasis and partial generalization.
+- [主旨题解题体系](%E4%B8%BB%E6%97%A8%E9%A2%98%E8%A7%A3%E9%A2%98%E4%BD%93%E7%B3%BB.md) — Knowledge solution-system file for 主旨题 (main idea) questions referenced by tags.
+- [十四五](%E5%8D%81%E5%9B%9B%E4%BA%94.md) — 中国国民经济和社会发展第十四个五年规划（2021-2025），其年均增长基期为规划前一年2020
+- [国考](%E5%9B%BD%E8%80%83.md) — China's National Civil Service Exam, whose Data Analysis section has 4 articles and 20 questions.
+- [外交部](%E5%A4%96%E4%BA%A4%E9%83%A8.md) — 题目示范句中'义正词严地声明'的搭配主语，用于说明褒义用法
+- [孙悟空](%E5%AD%99%E6%82%9F%E7%A9%BA.md) — 《西游记》中的虚构角色，题目例句'从化学视角解析孙悟空火眼金睛'中的对象
+- [宋捏捏](%E5%AE%8B%E6%8D%8F%E6%8D%8F.md) — Co-author of the textbook 《资料分析一本通》.
+- [怀瑾](%E6%80%80%E7%91%BE.md) — Co-author of the textbook 《资料分析一本通》.
+- [标签注册表](%E6%A0%87%E7%AD%BE%E6%B3%A8%E5%86%8C%E8%A1%A8.md) — A related note listing the full registry of tags used in the vault.
+- [细节判断题-坑点](%E7%BB%86%E8%8A%82%E5%88%A4%E6%96%AD%E9%A2%98-%E5%9D%91%E7%82%B9.md) — Pitfall file listing coded examiner tricks D01–D13 for 细节判断.
+- [细节判断题解题体系](%E7%BB%86%E8%8A%82%E5%88%A4%E6%96%AD%E9%A2%98%E8%A7%A3%E9%A2%98%E4%BD%93%E7%B3%BB.md) — Knowledge solution-system file for 细节判断 (detail judgment) questions referenced by tags.
+- [考公知识库](%E8%80%83%E5%85%AC%E7%9F%A5%E8%AF%86%E5%BA%93.md)
+- [考官手法](%E8%80%83%E5%AE%98%E6%89%8B%E6%B3%95.md) — A related index of examiner question-crafting techniques (考官手法/README).
+- [行测](%E8%A1%8C%E6%B5%8B.md) — 中国公务员行政职业能力测验，主旨题是其言语理解部分的题型。
+- [言语理解](%E8%A8%80%E8%AF%AD%E7%90%86%E8%A7%A3.md) — 行测中的言语理解与表达板块，逻辑填空题的所属类别。
+- [词语辨析库](%E8%AF%8D%E8%AF%AD%E8%BE%A8%E6%9E%90%E5%BA%93.md) — 本文档迁移词义辨析内容的目标笔记库，供第三层词语辨析查用。
+- [语句填空题-坑点](%E8%AF%AD%E5%8F%A5%E5%A1%AB%E7%A9%BA%E9%A2%98-%E5%9D%91%E7%82%B9.md) — Pitfall file listing six traps for 语句填空 such as process/result confusion.
+- [语句填空题解题体系](%E8%AF%AD%E5%8F%A5%E5%A1%AB%E7%A9%BA%E9%A2%98%E8%A7%A3%E9%A2%98%E4%BD%93%E7%B3%BB.md) — Knowledge solution-system file for 语句填空 (sentence completion) questions referenced by tags.
+- [语句排序题-坑点](%E8%AF%AD%E5%8F%A5%E6%8E%92%E5%BA%8F%E9%A2%98-%E5%9D%91%E7%82%B9.md) — Pitfall file listing coded traps S01–S04 for 语句排序.
+- [语句排序题解题体系](%E8%AF%AD%E5%8F%A5%E6%8E%92%E5%BA%8F%E9%A2%98%E8%A7%A3%E9%A2%98%E4%BD%93%E7%B3%BB.md) — Knowledge solution-system file for 语句排序 (sentence ordering) questions referenced by tags.
+- [资料分析](%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90.md) — 行测中的一个模块，考察对统计资料的快速阅读、分析与计算能力
+- [资料分析-坑点](%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90-%E5%9D%91%E7%82%B9.md) — Pitfall file listing five traps for 资料分析 (time, unit, concept, material location, calculation).
+- [资料分析-材料分类](%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90-%E6%9D%90%E6%96%99%E5%88%86%E7%B1%BB.md) — File classifying data analysis material types (macro economy, trade, livelihood, agriculture, transport, real estate/finance).
+- [资料分析-知识点体系](%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90-%E7%9F%A5%E8%AF%86%E7%82%B9%E4%BD%93%E7%B3%BB.md) — Knowledge system file for 资料分析 (data analysis) covering concepts, formulas, and calculation shortcuts.
+- [《资料分析一本通》](%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90%E4%B8%80%E6%9C%AC%E9%80%9A.md) — 426-page Chinese civil service exam prep textbook on Data Analysis (资料分析) with a structured index.
+- [逻辑填空](%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA.md) — 言语理解中的一种题型，要求根据语境和逻辑关系在空缺处选词。
+- [逻辑填空-坑点](%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-%E5%9D%91%E7%82%B9.md) — Pitfall file listing examiner tricks for 逻辑填空 such as color mismatch, collocation, and object mismatch.
+- [逻辑填空解题体系](%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA%E8%A7%A3%E9%A2%98%E4%BD%93%E7%B3%BB.md) — Knowledge solution-system file for 逻辑填空 (logical cloze) questions referenced by tags.
+- [错题索引（wiki 链接笔记）](%E9%94%99%E9%A2%98%E7%B4%A2%E5%BC%95wiki-%E9%93%BE%E6%8E%A5%E7%AC%94%E8%AE%B0.md) — 文中链接的21道错题分析笔记，每道标注结构类型、核心话题与错因，作为方法论实战案例。

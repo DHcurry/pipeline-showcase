@@ -1,0 +1,330 @@
+{
+ "exported": "loops snapshot",
+ "loops": [
+  {
+   "source": "~\\.pi\\loops\\loops-01a017b5-1aa9-75d5-af6f-b7acdd533770.json",
+   "data": {
+    "nextId": 2,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a0aeac-2223-73d0-9187-61be36742402.json",
+   "data": {
+    "nextId": 2,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a0c6b4-9611-77fd-8308-d9da11aaec0a.json",
+   "data": {
+    "nextId": 62,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a0f5e0-0822-759e-adb5-97b17ce4ca44.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a0f882-27bc-738d-ae8c-acd35b1825f7.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a11a79-5440-726c-830d-2e4b88159599.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a11eea-1f08-7447-b44b-88bc9ec109cf.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a1237e-0ed0-71a1-b172-cca45e1ec1af.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a1242b-66ba-719a-b8d0-5b3e0008f3cf.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a1247d-5477-719a-b8d0-5b416ea60cd7.json",
+   "data": {
+    "nextId": 67,
+    "loops": [
+     {
+      "id": "61",
+      "prompt": "每日电影后处理流水线（cwd=C:/Users/16575/daily-movie，合计超时75分钟），依次运行：\n1. `python -X utf8 subtitle.py`（转写+自动翻中文；产出软字幕，原片不动）\n2. `python -X utf8 translate_srt.py`（补漏：YTS官配英文srt等孤儿字幕自动翻中文）\n3. `python -X utf8 fetch_poster.py`（豆瓣1080封面三份jpg）\n4. `python -X utf8 fetch_intro.py`（简介txt；发现简介与片名明显不符=豆瓣错配→站点详情页重抓覆盖并告知我）\n5. 【标题】对\"已有简介txt但缺 平台标题.txt\"的电影，读简介生成3条12-22字中文平台标题写入该目录（突出看点、不虚假剧透），简报附上标题内容。\n【重要政策】原片永不覆盖：不再单独执行 burn_subs --in-place；字幕烧录由风景拼接的\"同一遍编码\"完成（原片+软字幕 → .ext.mp4 产物含烧录字幕+60分钟风景）。Loop#58 负责每部电影必须拼60分钟风景（用户强调过）。\n【内容方向】电影类已全部过审失败，当前主线=舞台录播模式(daily_movie.py --stage: 音乐剧/演唱会/脱口秀等高分国际节目)，本流水线对舞台内容同样通用（Netflix内嵌中字自动提取为.extracted.srt是优先路径）。\n规则：a) 五步全无新增→只回复\"无待转写\"；b) 有新增→简报各产出（含新标题）；c) 失败排查对应log尾部（CUDA DLL torch\\lib注入、HF small、翻译降级bing→alibaba→youdao→baidu、豆瓣sec挑战Playwright内置）。",
+      "trigger": {
+       "type": "cron",
+       "schedule": "47 */2 * * *"
+      },
+      "status": "active",
+      "recurring": true,
+      "createdAt": 1792635669124,
+      "updatedAt": 1793800182700,
+      "expiresAt": 1793845269124,
+      "fireCount": 162
+     },
+     {
+      "id": "62",
+      "prompt": "电影风景素材拼接（cwd=C:/Users/16575/daily-movie）：运行 `python -X utf8 append_footage.py`（超时60分钟）。它自动挑选\"每日电影中已下载完成+中文字幕就绪+未拼接+不在下载中\"的目标，从 Pexels 素材库（855段/354分钟，不足自动补充）随机选段生成60分钟风景，NVENC单遍编码（含中文字幕烧入）产出 .ext.mp4，原片永不覆盖。规则：1) 无目标→只回复\"无待拼接\"；2) 成功→简报片名/素材段数/编码耗时/总时长；3) 失败读 append.log（素材库空自动补、磁盘<8GB提醒、占用5次重试）；4) 与其它GPU循环共用 subtitle.*.lock，被锁让路属正常。用户强调过：每部电影必须拼60分钟风景。【已内建能力】10bit自动降位、4K自动降档1080p、Netflix内嵌中字(.extracted.srt)可烧、产物缺失/0字节可重建。",
+      "trigger": {
+       "type": "cron",
+       "schedule": "25 */4 * * *"
+      },
+      "status": "active",
+      "recurring": true,
+      "createdAt": 1792935192063,
+      "updatedAt": 1793798860765,
+      "expiresAt": 1794144792063,
+      "fireCount": 60
+     },
+     {
+      "id": "63",
+      "prompt": "每日第1部节目（午间档·舞台录播模式）：运行 `python -X utf8 C:/Users/16575/daily-movie/daily_movie.py --stage`（cwd=C:/Users/16575/daily-movie，超时30分钟）。【背景】电影类全部过审失败，主线=舞台录播模式（用户已指示多元化：音乐剧/演唱会/脱口秀/戏曲/纪录片五路轮换，国际内容为主，评分≥7.5）。--stage 已内建：表演类标题正向闸门、国产晚会黑名单、12部抽样+25做种早退、120/240/360s三点速度采样、慢速车道（过慢不删后台续下+登记history）、老教父站URL归一去重。结果解析：✅ 已入列=成功简报；连败3部=站点磁力异常报尾部；慢车道保留属正常。后续转写/简介/封面/标题/60分钟风景拼接由 Loop#61/#62 自动接力。",
+      "trigger": {
+       "type": "cron",
+       "schedule": "0 12 * * *"
+      },
+      "status": "active",
+      "recurring": true,
+      "createdAt": 1792982118010,
+      "updatedAt": 1793725377999,
+      "expiresAt": 1794191718010,
+      "fireCount": 10
+     },
+     {
+      "id": "64",
+      "prompt": "每日第2部节目（晚间档·舞台录播模式）：运行 `python -X utf8 C:/Users/16575/daily-movie/daily_movie.py --stage`（cwd=C:/Users/16575/daily-movie，超时30分钟）。【背景】电影类全部过审失败，主线=舞台录播模式（用户已指示多元化：音乐剧/演唱会/脱口秀/戏曲/纪录片五路轮换，国际内容为主，评分≥7.5）。--stage 已内建：表演类标题正向闸门、国产晚会黑名单、12部抽样+25做种早退、120/240/360s三点速度采样、慢速车道（过慢不删后台续下+登记history）、老教父站URL归一去重。结果解析：✅ 已入列=成功简报；连败3部=站点磁力异常报尾部；慢车道保留属正常。后续转写/简介/封面/标题/60分钟风景拼接由 Loop#61/#62 自动接力。",
+      "trigger": {
+       "type": "cron",
+       "schedule": "0 20 * * *"
+      },
+      "status": "active",
+      "recurring": true,
+      "createdAt": 1792982140760,
+      "updatedAt": 1793754165063,
+      "expiresAt": 1794191740760,
+      "fireCount": 9
+     }
+    ]
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a12976-ad46-72b7-b2da-cb3267bb8955.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a13d58-102d-7020-97ce-48d6434670fc.json",
+   "data": {
+    "nextId": 22,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a13ed3-5b53-721d-b48d-74ba42b4f586.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a1528b-13a5-770b-acbd-4537fc9a43b4.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a1528c-8af6-729e-aa9e-a843ae73751f.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a1528d-71e1-77aa-a67c-59a04761dec5.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a152d3-367c-70a0-ad57-f6e099fd5bef.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a15c09-bb7e-71d6-a498-d4d868395799.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a16241-5ca0-7501-a711-328feb3d620c.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a16247-50a0-7501-a711-3291bae85367.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a16264-1498-7219-8064-67627f5ec676.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a16265-48ef-7219-8064-6764f90789d5.json",
+   "data": {
+    "nextId": 9,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a16324-c1b8-777e-9d8a-aa8dba745a6a.json",
+   "data": {
+    "nextId": 55,
+    "loops": [
+     {
+      "id": "43",
+      "prompt": "Monitor #43 exited with a failure. Inspect MonitorList, report the failure, and decide whether to retry or recover the command.",
+      "trigger": {
+       "type": "event",
+       "source": "monitor:timeout",
+       "filter": "{\"monitorId\":\"43\"}"
+      },
+      "status": "active",
+      "recurring": false,
+      "createdAt": 1793496773066,
+      "updatedAt": 1793496773066,
+      "expiresAt": 1794101573066,
+      "fireCount": 0
+     }
+    ]
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a17149-d248-742b-b941-b6cc35c11edd.json",
+   "data": {
+    "nextId": 28,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a17206-9bc4-7659-bedd-228b61b7ba78.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a181e5-8a2f-771c-9acf-bc41fe49f79b.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a181eb-a2d9-735c-97cf-4714b6e9647d.json",
+   "data": {
+    "nextId": 6,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a182f4-1dc5-75a8-8729-3770e1b19378.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a18a81-f5bb-7204-8e2e-69c43aa9a06d.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a18bbd-ac8e-73bf-b802-42c3801e5fc8.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a19758-a337-730c-83a4-57893a1912de.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a1975a-c367-71a0-bf9e-7ab46978a157.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a199f4-f6a9-7084-adb6-04dade77c1f8.json",
+   "data": {
+    "nextId": 2,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a1a6cb-9794-71e8-a7b4-3049432266a1.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a1a6d1-789e-75ed-8138-6b08b9cb97b4.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  },
+  {
+   "source": "~\\.pi\\loops\\loops-01a1a6f0-dac9-7494-a9a2-d0c5e293ced3.json",
+   "data": {
+    "nextId": 1,
+    "loops": []
+   }
+  }
+ ]
+}

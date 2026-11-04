@@ -1,0 +1,3408 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-11-04T14:20:44.012Z",
+  "pages": {
+    "concepts/automatic-categorization-via-backlinks": {
+      "type": "concept",
+      "title": "Automatic categorization via backlinks",
+      "description": "Linking each wrong question to a knowledge-system note so the index can classify it automatically.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/dashboard-数据总览": {
+      "type": "concept",
+      "title": "Dashboard (数据总览)",
+      "description": "A Dataview-based overview page aggregating counts, recent entries, error types, and module breakdowns.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/error-type-indexing": {
+      "type": "concept",
+      "title": "Error-type indexing",
+      "description": "Organizing wrong questions by their error type so recurring mistake patterns become visible.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/mastery-tracking": {
+      "type": "concept",
+      "title": "Mastery tracking",
+      "description": "Using a mastery field (e.g., mastery = 0) to flag questions not yet mastered for review.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/spaced-repetition-review-stages": {
+      "type": "concept",
+      "title": "Spaced Repetition Review Stages",
+      "description": "A stage-based review system (stages below 6 are scheduled) that spaces reviews of each word group over time.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/一大一小看乘积": {
+      "type": "concept",
+      "title": "一大一小看乘积",
+      "description": "现期量与增长率一大一小时，比较两者乘积，乘积大的增长量大",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/一应俱全": {
+      "type": "concept",
+      "title": "一应俱全",
+      "description": "强调'该有的都有'的齐备性，适用于商品、设施、物品齐全的场景。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/一搭多验": {
+      "type": "concept",
+      "title": "一搭多验",
+      "description": "用某一空与多个搭配对象逐一验证，以快速排除搭配不当选项。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/三层分析法": {
+      "type": "concept",
+      "title": "三层分析法",
+      "description": "逻辑填空核心框架：语境分析（定方向）→逻辑关系（找线索）→词语辨析（锁答案）。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/三维度辨析法": {
+      "type": "concept",
+      "title": "三维度辨析法",
+      "description": "从语义侧重、适用场景、程度三个维度区分近义成语的辨析方法，其中语义侧重维度最重要。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/两期比例变化": {
+      "type": "concept",
+      "title": "两期比例变化",
+      "description": "a>b比例上升、a<b比例下降、a=b不变；比重变化量=(A/B)×(a-b)/(1+a)",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/乘积增长率": {
+      "type": "concept",
+      "title": "乘积增长率",
+      "description": "r = r₁ + r₂ + r₁×r₂，用于总量=单价×数量情形",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/二十大模型": {
+      "type": "concept",
+      "title": "二十大模型",
+      "description": "The book's framework of 20 canonical Data Analysis question models, each mapped to a dedicated page range.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/交叉验证": {
+      "type": "concept",
+      "title": "交叉验证",
+      "description": "当两个独立技巧推导出同一答案时，该答案可靠性极高的验证方法。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/产销率": {
+      "type": "concept",
+      "title": "产销率",
+      "description": "销量 / 产量",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/估算法": {
+      "type": "concept",
+      "title": "估算法",
+      "description": "选项差距≥10%时，所有数值保留前2位有效数字",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/倍数": {
+      "type": "concept",
+      "title": "倍数",
+      "description": "Multiple ratio comparing one quantity to another.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/倍数特殊表述": {
+      "type": "concept",
+      "title": "倍数特殊表述",
+      "description": "「A是B的n倍」A/B=n，而「A比B多n倍」A/B=n+1，为易错点",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/做题检查流程-answer-checking-workflow": {
+      "type": "concept",
+      "title": "做题检查流程 (Answer-Checking Workflow)",
+      "description": "The four-step process: identify question type, open the matching manual, eliminate traps per the manual, then reverse-derive the distractors.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/八大题型分类": {
+      "type": "concept",
+      "title": "八大题型分类",
+      "description": "将逻辑填空错题划分为转折、并列递进、反义并列、解释对应、因果目的、成语辨析、政策搭配、引号比喻八类的分类索引体系。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/公式记错-formula-error": {
+      "type": "concept",
+      "title": "公式记错 (formula error)",
+      "description": "Error type of inaccurate formula recall; improved by understanding derivations and periodic recitation.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/分总结构": {
+      "type": "concept",
+      "title": "分总结构",
+      "description": "前文铺垫背景/问题/原因，尾句用'因此/可见/总之/可以说'引出结论的结构，主旨看尾句。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/删除测试": {
+      "type": "concept",
+      "title": "删除测试",
+      "description": "把'此外'等补充部分删掉检验核心论证是否仍成立的方法，成立则说明其为补充而非主旨。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/利润率": {
+      "type": "concept",
+      "title": "利润率",
+      "description": "资料分析口径为 利润总额/营业收入，非成本利润率",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/削峰填谷": {
+      "type": "concept",
+      "title": "削峰填谷",
+      "description": "Estimation technique that balances high and low values for easier mental calculation.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/包罗万象": {
+      "type": "concept",
+      "title": "包罗万象",
+      "description": "强调内容丰富、门类多、覆盖广度大，适用于学科、内容、范围广的场景。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/十字交叉法": {
+      "type": "concept",
+      "title": "十字交叉法",
+      "description": "Cross-multiplication method for solving mixed-rate and ratio problems.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/反义并列型": {
+      "type": "concept",
+      "title": "反义并列型",
+      "description": "'不再A而是B'结构要求A与B严格反义，需先锁定反义更明确的一空。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/同比": {
+      "type": "concept",
+      "title": "同比",
+      "description": "与上年同期相比",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/同比环比": {
+      "type": "concept",
+      "title": "同比/环比",
+      "description": "Year-over-year comparison vs. period-over-period (chain) comparison used to describe change in statistics.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/名义增长与实际增长": {
+      "type": "concept",
+      "title": "名义增长与实际增长",
+      "description": "Nominal growth vs. real (inflation-adjusted) growth distinction.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/因果目的型": {
+      "type": "concept",
+      "title": "因果目的型",
+      "description": "后文目的/结果要求前文手段必须能达成该目的，用于反向验证选词。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/坑点层": {
+      "type": "concept",
+      "title": "坑点层",
+      "description": "Tag layer mapping tags to examiner-trick (pitfall) files that describe common wrong-answer traps.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/坑点手册-pitfall-manual": {
+      "type": "concept",
+      "title": "坑点手册 (Pitfall Manual)",
+      "description": "A per-question-type checklist of common traps with an answering/checking process used to eliminate options one by one.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/基期": {
+      "type": "concept",
+      "title": "基期",
+      "description": "题目要求的早于现期的时间",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/基期现期": {
+      "type": "concept",
+      "title": "基期/现期",
+      "description": "Base period (reference period) and current period (present period) used in growth calculations.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/增长率": {
+      "type": "concept",
+      "title": "增长率",
+      "description": "Growth rate, computed as growth amount divided by base period value.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/增长贡献率与拉动增长率": {
+      "type": "concept",
+      "title": "增长贡献率与拉动增长率",
+      "description": "Metrics measuring how much a component contributes to overall growth.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/增长量": {
+      "type": "concept",
+      "title": "增长量",
+      "description": "Growth amount, equal to current period minus base period, or base period times growth rate.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/大大则大": {
+      "type": "concept",
+      "title": "大大则大",
+      "description": "现期量大且增长率大时，增长量一定大",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/存量指标": {
+      "type": "concept",
+      "title": "存量指标",
+      "description": "某个时点的瞬时数值，如年末存款余额、月末库存",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/实验目的-vs-实验发现": {
+      "type": "concept",
+      "title": "实验目的 vs 实验发现",
+      "description": "实验目的是'为什么做实验'（探索/研究+宏观目标），实验发现是'结果说明什么'（如何/怎样+具体机制）。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/审题三步法": {
+      "type": "concept",
+      "title": "审题三步法",
+      "description": "The book's three-step method for reviewing/analyzing question stems before solving.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/审题不仔细-careless-reading": {
+      "type": "concept",
+      "title": "审题不仔细 (careless reading)",
+      "description": "Error type of misreading question requirements; improved by circling keywords and reading questions twice.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/尾数法": {
+      "type": "concept",
+      "title": "尾数法",
+      "description": "Addition/subtraction shortcut using the final digits of numbers.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/干扰项六大类型": {
+      "type": "concept",
+      "title": "干扰项六大类型",
+      "description": "片面、以偏概全、偷换重心、过程当结论、无中生有、偷换概念，用于排除选项陷阱。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/平均数": {
+      "type": "concept",
+      "title": "平均数",
+      "description": "Average value computed from a set of statistical figures.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/年均增长基期": {
+      "type": "concept",
+      "title": "年均增长基期",
+      "description": "普通时间段基期=起始年；五年规划基期=规划前一年",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/年均增长率": {
+      "type": "concept",
+      "title": "年均增长率",
+      "description": "Average annual growth rate over multiple years.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/年均增长量": {
+      "type": "concept",
+      "title": "年均增长量",
+      "description": "(现期量 - 基期量) / n，n为年份差",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/并列结构": {
+      "type": "concept",
+      "title": "并列结构",
+      "description": "用'一方面…另一方面'等标志或多角度展开的结构，无明确中心句，需自行概括共性。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/并列递进型": {
+      "type": "concept",
+      "title": "并列递进型",
+      "description": "并列找近义、递进找程度加重的题型，含并列因果倒置、并列+转折组合、双向vs单向等陷阱。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/应有尽有": {
+      "type": "concept",
+      "title": "应有尽有",
+      "description": "强调'没有遗漏'的齐备性，适用于设备、功能、种类齐全的场景。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/引号比喻型": {
+      "type": "concept",
+      "title": "引号比喻型",
+      "description": "引号内比喻义/比喻实词的题型，引号仅放宽搭配限制而不改变词义核心侧重点。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/必要条件结构": {
+      "type": "concept",
+      "title": "必要条件结构",
+      "description": "'只有A才B/必须…才能…'结构，A是核心对策/前提，B是结果，重点在A。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/总分结构": {
+      "type": "concept",
+      "title": "总分结构",
+      "description": "首句即观点、后文为解释/举例/原因的结构，主旨看首句，需从总起句中找主题词。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/感情色彩分析": {
+      "type": "concept",
+      "title": "感情色彩分析",
+      "description": "语境分析第一层：根据褒义/贬义/中性标志词排除色彩不符的选项。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/感情色彩褒义贬义中性": {
+      "type": "concept",
+      "title": "感情色彩（褒义/贬义/中性）",
+      "description": "词语所附带的褒奖、贬抑或中立的情感倾向，用于逻辑填空的色彩排除",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/成数翻番": {
+      "type": "concept",
+      "title": "成数/翻番",
+      "description": "1成=10%；翻n番=原数×2ⁿ",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/成语辨析型": {
+      "type": "concept",
+      "title": "成语辨析型",
+      "description": "四个选项全为成语、需区分近义成语差异的题型。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/成语辨析煞有介事-vs-义正词严": {
+      "type": "concept",
+      "title": "成语辨析（煞有介事 vs 义正词严）",
+      "description": "辨析外观相似（态度严肃）但感情色彩相反的两个成语：前者假装正经含讽刺，后者理直气壮为褒义",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/截位修正": {
+      "type": "concept",
+      "title": "截位修正",
+      "description": "选项差距<5%时，分母截位后反向修正误差",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/截位计算": {
+      "type": "concept",
+      "title": "截位计算",
+      "description": "Truncation-based calculation that reduces digits to simplify multiplication/division.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/掌握等级-mastery-levels": {
+      "type": "concept",
+      "title": "掌握等级 (Mastery levels)",
+      "description": "Six-level ladder (新学/初识/熟悉/掌握/熟练/精通) mapping correct-answer counts to push intervals from 1 to 30 days.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/插件vs真hermes-技能维护差异": {
+      "type": "concept",
+      "title": "插件vs真Hermes-技能维护差异",
+      "created": "2026-08-12",
+      "updated": "2026-08-12"
+    },
+    "concepts/搭配检验": {
+      "type": "concept",
+      "title": "搭配检验",
+      "description": "通过词语与宾语的典型搭配（如'煞有介事地标注'）判断选项是否成立的验证方法",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/政策搭配型": {
+      "type": "concept",
+      "title": "政策搭配型",
+      "description": "政策类文段有固定官方表述（如'担纲主力''目标引领''XX驱动发展'），需专项积累。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/文段拆解三问": {
+      "type": "concept",
+      "title": "文段拆解三问",
+      "description": "阅读任何文段先回答三问：讲什么（锁定话题）、怎么讲（判断结构）、想说什么（定位中心句），顺序不可乱。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/无所不包": {
+      "type": "concept",
+      "title": "无所不包",
+      "description": "强调'全部包含'、完全没有遗漏，程度最重、表述绝对，适用于知识、内容范围极广的场景。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/时间分配不当-poor-time-allocation": {
+      "type": "concept",
+      "title": "时间分配不当 (poor time allocation)",
+      "description": "Error type of spending too long on one question; improved by strict timing and easy-first ordering.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/显性对应与隐性对应": {
+      "type": "concept",
+      "title": "显性对应与隐性对应",
+      "description": "显性对应靠关联词直接在前后文找反义/近义；隐性对应无明显信号，需结合句间逻辑推导。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/标签注册表": {
+      "type": "concept",
+      "title": "标签注册表",
+      "description": "Controlled-vocabulary registry of tags that must be used for tagging wrong questions, with strict no-invention rules.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/核心话题": {
+      "type": "concept",
+      "title": "核心话题",
+      "description": "文段自始至终围绕展开的主体，通过反复出现的关键词识别，区别于背景信息和举例信息。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/概念混淆-concept-confusion": {
+      "type": "concept",
+      "title": "概念混淆 (concept confusion)",
+      "description": "Error type where similar concepts are mixed up; improved by comparative memorization and concrete examples.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/母题汇总": {
+      "type": "concept",
+      "title": "母题汇总",
+      "description": "Compilation of 500 'mother' practice questions organized into 8 sections by test point.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/比值增长率": {
+      "type": "concept",
+      "title": "比值增长率",
+      "description": "r = (a-b)/(1+b)，用于平均数/比值的同比增速",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/比重": {
+      "type": "concept",
+      "title": "比重",
+      "description": "Proportion/share of a part within a whole in statistical data.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/流量指标": {
+      "type": "concept",
+      "title": "流量指标",
+      "description": "一段时期的累计发生额，如全年GDP、1-6月社零",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/混合增长率": {
+      "type": "concept",
+      "title": "混合增长率",
+      "description": "Growth rate of a combined whole given growth rates of its parts.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/特殊值法": {
+      "type": "concept",
+      "title": "特殊值法",
+      "description": "Using convenient special values (fractions/percentages) to speed up calculations.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/特殊分数法": {
+      "type": "concept",
+      "title": "特殊分数法",
+      "description": "增长率≈1/n时，增长量=现期/(n+1)，减少量=现期/(n-1)",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/环比": {
+      "type": "concept",
+      "title": "环比",
+      "description": "与上一个相邻周期相比",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/现期": {
+      "type": "concept",
+      "title": "现期",
+      "description": "材料给出的统计时间",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/百分点": {
+      "type": "concept",
+      "title": "百分点",
+      "description": "两个百分数的差值，如增速从10%到12%上升2个百分点",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/直除法": {
+      "type": "concept",
+      "title": "直除法",
+      "description": "选项差距<10%时，分子不动、分母保留前3位，除到能区分",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/知识图谱可视化-knowledge-graph-visualization": {
+      "type": "concept",
+      "title": "知识图谱可视化 (knowledge graph visualization)",
+      "description": "Graph view of notes where heavily connected knowledge point nodes indicate weakest areas.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/知识点层": {
+      "type": "concept",
+      "title": "知识点层",
+      "description": "Tag layer mapping fine-grained tags to section headings in solution-system knowledge files.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/粗心-carelessness": {
+      "type": "concept",
+      "title": "粗心 (carelessness)",
+      "description": "Error type of sloppiness; improved by slowing down and using checking mechanisms.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/维护规则": {
+      "type": "concept",
+      "title": "维护规则",
+      "description": "Registry maintenance rule: new tags must be registered before use and propagated to knowledge/pitfall files.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/考公知识库-目录索引": {
+      "type": "concept",
+      "title": "考公知识库-目录索引",
+      "domain": "personal",
+      "created": "2026-08-10",
+      "updated": "2026-08-13"
+    },
+    "concepts/考公错题本": {
+      "type": "concept",
+      "title": "考公错题本",
+      "description": "A personal civil service exam error notebook system combining an Obsidian vault, Memory MCP knowledge graph, and Python scripts.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/考官派生手法": {
+      "type": "concept",
+      "title": "考官派生手法",
+      "description": "从正确答案反推干扰项生成方式：砍掉一半内涵、从单个问题反推对策、取递进尾句前半段当结论。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/考官派生法-examiner-derivation-method": {
+      "type": "concept",
+      "title": "考官派生法 (Examiner Derivation Method)",
+      "description": "A reverse-thinking technique where, after answering, you explain every distractor option as a derivation of the correct answer to confirm your choice.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/自媒体口播工作台": {
+      "type": "concept",
+      "title": "自媒体口播工作台",
+      "created": "2026-08-31",
+      "updated": "2026-08-31"
+    },
+    "concepts/自适应复习系统": {
+      "type": "concept",
+      "title": "自适应复习系统",
+      "description": "A spaced-repetition style system that adjusts flashcard push frequency based on the learner's number of consecutive correct answers.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/色彩排除法": {
+      "type": "concept",
+      "title": "色彩排除法",
+      "description": "依据文段整体感情色彩（如讽刺）排除褒义词或贬义过重词项的解题技巧",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/艾宾浩斯遗忘曲线-ebbinghaus-forgetting-curve": {
+      "type": "concept",
+      "title": "艾宾浩斯遗忘曲线 (Ebbinghaus Forgetting Curve)",
+      "description": "The memory model underlying the spaced-repetition review schedule implemented by the ebbinghaus.py script.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/艾宾浩斯间隔复习-ebbinghaus-spaced-repetition": {
+      "type": "concept",
+      "title": "艾宾浩斯间隔复习 (Ebbinghaus spaced repetition)",
+      "description": "Review schedule with intervals of 1, 2, 4, 7, 15, and 30 days to reinforce learned material.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/行测言语理解": {
+      "type": "concept",
+      "title": "行测言语理解",
+      "description": "Verbal comprehension section of the Chinese civil service exam, covered by six question-type tag families.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/补充结构": {
+      "type": "concept",
+      "title": "补充结构",
+      "description": "明确的结论句（因此后）之后还有'此外/另外'补充另一角度，但补充部分只是强化结论而非并列主旨。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/解释对应型": {
+      "type": "concept",
+      "title": "解释对应型",
+      "description": "空格前后的比喻、解释、冒号内容为直接语义提示的题型，优先匹配。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/计算失误-calculation-error": {
+      "type": "concept",
+      "title": "计算失误 (calculation error)",
+      "description": "Error type where the approach is right but arithmetic is wrong; improved by tidy scratch work and verifying key steps.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/词义边界混淆主脉络与核心": {
+      "type": "concept",
+      "title": "词义边界（混淆主脉络与核心）",
+      "description": "分总·词义边界型错题中常见的坑，需区分'主脉络'与'核心'的词义边界（来自社团流派错题）。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/词语辨析-word-discrimination": {
+      "type": "concept",
+      "title": "词语辨析 (Word Discrimination)",
+      "description": "The practice of accumulating and distinguishing subtle differences between similar Chinese word groups to answer fill-in-the-blank questions.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/语境对应": {
+      "type": "concept",
+      "title": "语境对应",
+      "description": "根据文段关键词（如'假装''编造'）选择语义和色彩与之匹配词语的技巧",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/语境范围分析": {
+      "type": "concept",
+      "title": "语境范围分析",
+      "description": "区分宏观（社会、国家、文明）与微观（个人、具体事物）语境以匹配用词。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/资料分析": {
+      "type": "concept",
+      "title": "资料分析",
+      "description": "Data analysis section of the exam with its own question-type, knowledge, and pitfall tags.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/转折关系型": {
+      "type": "concept",
+      "title": "转折关系型",
+      "description": "前后语义相反的题型，按'转折前后语义相反→选反义词'公式解题。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/转折结构": {
+      "type": "concept",
+      "title": "转折结构",
+      "description": "'但是/然而/却'之后是作者真正想说的内容，主旨看转折词后。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/逆差": {
+      "type": "concept",
+      "title": "逆差",
+      "description": "出口<进口，逆差额=进口-出口",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/递进结构": {
+      "type": "concept",
+      "title": "递进结构",
+      "description": "无结论标志词但有程度加深词（大大地/空前/渐趋/超越）层层推进到尾句末段的结构，主旨看末句。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/逻辑填空-logical-fill-in-the-blank": {
+      "type": "concept",
+      "title": "逻辑填空 (Logical Fill-in-the-blank)",
+      "description": "A Chinese exam question type whose core skill is word discrimination.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/逻辑填空解题体系": {
+      "type": "concept",
+      "title": "逻辑填空解题体系",
+      "description": "行测言语理解中基于七大逻辑关系与词义/色彩辨析的填空题解题方法体系",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/错题图谱": {
+      "type": "concept",
+      "title": "错题图谱",
+      "description": "An auto-generated atlas/index that groups wrong-answer questions by question type and error type.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/错题图谱-wrong-question-map": {
+      "type": "concept",
+      "title": "错题图谱 (Wrong-Question Map)",
+      "description": "A Dataview dynamically grouped index of verified wrong questions, linked as an index page.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/错题本-wrong-question-notebook": {
+      "type": "concept",
+      "title": "错题本 (Wrong question notebook)",
+      "description": "A structured log for recording, analyzing, and conquering exam mistakes across modules and error types.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/错题模板-error-note-template": {
+      "type": "concept",
+      "title": "错题模板 (error note template)",
+      "description": "A note template capturing question, wrong answer, correct answer, error reason, and linked knowledge points.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/错题系统": {
+      "type": "concept",
+      "title": "错题系统",
+      "description": "Review system that records and tags incorrect practice questions using the registered tag vocabulary.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/间隔基期": {
+      "type": "concept",
+      "title": "间隔基期",
+      "description": "与现期间隔1个统计周期的基期",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/间隔增长率": {
+      "type": "concept",
+      "title": "间隔增长率",
+      "description": "Growth rate over an interval spanning two periods, accounting for compounding.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/隐性反推法": {
+      "type": "concept",
+      "title": "隐性反推法",
+      "description": "核心新技法：转折+后文明确价值判断时，从后文价值结论反向推导前文被否定的维度。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/顺差": {
+      "type": "concept",
+      "title": "顺差",
+      "description": "出口>进口，顺差额=出口-进口",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/题型层": {
+      "type": "concept",
+      "title": "题型层",
+      "description": "Top tag layer indicating the mandatory question type of each wrong question (e.g., 逻辑填空, 主旨题).",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "concepts/高位叠加": {
+      "type": "concept",
+      "title": "高位叠加",
+      "description": "Addition technique that accumulates from the high-order digits.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/adderrorpy": {
+      "type": "entity",
+      "title": "add_error.py",
+      "description": "Python script for quick error entry, interactive and non-interactive modes.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/addvocabpy": {
+      "type": "entity",
+      "title": "add_vocab.py",
+      "description": "Python script for entering new vocabulary word groups into the library.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/calendar": {
+      "type": "entity",
+      "title": "Calendar",
+      "description": "Optional Obsidian plugin for calendar-view creation of daily records.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/chatgpt": {
+      "type": "entity",
+      "title": "ChatGPT",
+      "description": "前年爆火的大语言模型产品，题目文段中作为AI重塑生活的例证",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/dataview": {
+      "type": "entity",
+      "title": "Dataview",
+      "description": "Obsidian plugin used to run the data queries shown on the dashboard.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/deepseek": {
+      "type": "entity",
+      "title": "DeepSeek",
+      "description": "最近出圈的国产AI模型，题目文段中作为AI重塑生活的例证",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/ebbinghauspy": {
+      "type": "entity",
+      "title": "ebbinghaus.py",
+      "description": "Python script for Ebbinghaus spaced-repetition review scheduling and tracking.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/hermes": {
+      "type": "entity",
+      "title": "Hermes",
+      "description": "Agent environment that can restart to expose Memory MCP tools for cross-session queries.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/kanban": {
+      "type": "entity",
+      "title": "Kanban",
+      "description": "Optional Obsidian plugin for kanban-style review progress management.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/memory-mcp": {
+      "type": "entity",
+      "title": "Memory MCP",
+      "description": "Knowledge graph layer storing entities, relations, and enabling queries.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/mimo": {
+      "type": "entity",
+      "title": "MiMo",
+      "description": "AI assistant referenced in the workflow that judges answers and updates mastery levels in the review system.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/minimal-theme": {
+      "type": "entity",
+      "title": "Minimal Theme",
+      "description": "Optional Obsidian theme for aesthetics.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/obsidian": {
+      "type": "entity",
+      "title": "Obsidian",
+      "description": "Note-taking tool that hosts the vault; the dashboard uses Dataview queries and markdown links.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/obsidian-dataview": {
+      "type": "entity",
+      "title": "Obsidian Dataview",
+      "description": "Obsidian plugin used to render overview, category, and due-review tables from vault metadata.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/visualizegraphpy": {
+      "type": "entity",
+      "title": "visualize_graph.py",
+      "description": "Python script that renders the knowledge graph image and statistics.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/weeklyreviewpy": {
+      "type": "entity",
+      "title": "weekly_review.py",
+      "description": "Python script that generates weekly review reports and notes.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/下文推断题-坑点": {
+      "type": "entity",
+      "title": "下文推断题-坑点",
+      "description": "Pitfall file listing traps for 下文推断 such as skipping steps and contradicting the passage.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/下文推断题解题体系": {
+      "type": "entity",
+      "title": "下文推断题解题体系",
+      "description": "Knowledge solution-system file for 下文推断 (next-sentence inference) questions referenced by tags.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/主旨题": {
+      "type": "entity",
+      "title": "主旨题",
+      "description": "行测言语理解中的核心题型，要求判断文段中心主旨，本文档为其解题体系。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/主旨题-坑点": {
+      "type": "entity",
+      "title": "主旨题-坑点",
+      "description": "Pitfall file listing examiner tricks for 主旨题 such as shifted emphasis and partial generalization.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/主旨题解题体系": {
+      "type": "entity",
+      "title": "主旨题解题体系",
+      "description": "Knowledge solution-system file for 主旨题 (main idea) questions referenced by tags.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/十四五": {
+      "type": "entity",
+      "title": "十四五",
+      "description": "中国国民经济和社会发展第十四个五年规划（2021-2025），其年均增长基期为规划前一年2020",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/国考": {
+      "type": "entity",
+      "title": "国考",
+      "description": "China's National Civil Service Exam, whose Data Analysis section has 4 articles and 20 questions.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/外交部": {
+      "type": "entity",
+      "title": "外交部",
+      "description": "题目示范句中'义正词严地声明'的搭配主语，用于说明褒义用法",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/孙悟空": {
+      "type": "entity",
+      "title": "孙悟空",
+      "description": "《西游记》中的虚构角色，题目例句'从化学视角解析孙悟空火眼金睛'中的对象",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/宋捏捏": {
+      "type": "entity",
+      "title": "宋捏捏",
+      "description": "Co-author of the textbook 《资料分析一本通》.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/怀瑾": {
+      "type": "entity",
+      "title": "怀瑾",
+      "description": "Co-author of the textbook 《资料分析一本通》.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/标签注册表": {
+      "type": "entity",
+      "title": "标签注册表",
+      "description": "A related note listing the full registry of tags used in the vault.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/细节判断题-坑点": {
+      "type": "entity",
+      "title": "细节判断题-坑点",
+      "description": "Pitfall file listing coded examiner tricks D01–D13 for 细节判断.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/细节判断题解题体系": {
+      "type": "entity",
+      "title": "细节判断题解题体系",
+      "description": "Knowledge solution-system file for 细节判断 (detail judgment) questions referenced by tags.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/考公知识库": {
+      "type": "entity",
+      "title": "考公知识库",
+      "category": "project",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/考官手法": {
+      "type": "entity",
+      "title": "考官手法",
+      "description": "A related index of examiner question-crafting techniques (考官手法/README).",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/行测": {
+      "type": "entity",
+      "title": "行测",
+      "description": "中国公务员行政职业能力测验，主旨题是其言语理解部分的题型。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/言语理解": {
+      "type": "entity",
+      "title": "言语理解",
+      "description": "行测中的言语理解与表达板块，逻辑填空题的所属类别。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/词语辨析库": {
+      "type": "entity",
+      "title": "词语辨析库",
+      "description": "本文档迁移词义辨析内容的目标笔记库，供第三层词语辨析查用。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/语句填空题-坑点": {
+      "type": "entity",
+      "title": "语句填空题-坑点",
+      "description": "Pitfall file listing six traps for 语句填空 such as process/result confusion.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/语句填空题解题体系": {
+      "type": "entity",
+      "title": "语句填空题解题体系",
+      "description": "Knowledge solution-system file for 语句填空 (sentence completion) questions referenced by tags.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/语句排序题-坑点": {
+      "type": "entity",
+      "title": "语句排序题-坑点",
+      "description": "Pitfall file listing coded traps S01–S04 for 语句排序.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/语句排序题解题体系": {
+      "type": "entity",
+      "title": "语句排序题解题体系",
+      "description": "Knowledge solution-system file for 语句排序 (sentence ordering) questions referenced by tags.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/资料分析": {
+      "type": "entity",
+      "title": "资料分析",
+      "description": "行测中的一个模块，考察对统计资料的快速阅读、分析与计算能力",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/资料分析-坑点": {
+      "type": "entity",
+      "title": "资料分析-坑点",
+      "description": "Pitfall file listing five traps for 资料分析 (time, unit, concept, material location, calculation).",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/资料分析-材料分类": {
+      "type": "entity",
+      "title": "资料分析-材料分类",
+      "description": "File classifying data analysis material types (macro economy, trade, livelihood, agriculture, transport, real estate/finance).",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/资料分析-知识点体系": {
+      "type": "entity",
+      "title": "资料分析-知识点体系",
+      "description": "Knowledge system file for 资料分析 (data analysis) covering concepts, formulas, and calculation shortcuts.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/资料分析一本通": {
+      "type": "entity",
+      "title": "《资料分析一本通》",
+      "description": "426-page Chinese civil service exam prep textbook on Data Analysis (资料分析) with a structured index.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/逻辑填空": {
+      "type": "entity",
+      "title": "逻辑填空",
+      "description": "言语理解中的一种题型，要求根据语境和逻辑关系在空缺处选词。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/逻辑填空-坑点": {
+      "type": "entity",
+      "title": "逻辑填空-坑点",
+      "description": "Pitfall file listing examiner tricks for 逻辑填空 such as color mismatch, collocation, and object mismatch.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/逻辑填空解题体系": {
+      "type": "entity",
+      "title": "逻辑填空解题体系",
+      "description": "Knowledge solution-system file for 逻辑填空 (logical cloze) questions referenced by tags.",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "entities/错题索引wiki-链接笔记": {
+      "type": "entity",
+      "title": "错题索引（wiki 链接笔记）",
+      "description": "文中链接的21道错题分析笔记，每道标注结构类型、核心话题与错因，作为方法论实战案例。",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-001": {
+      "type": "source",
+      "title": "README.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-001/extracted.md",
+      "source_id": "SRC-2026-08-10-001",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-002": {
+      "type": "source",
+      "title": "首页.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-002/extracted.md",
+      "source_id": "SRC-2026-08-10-002",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-003": {
+      "type": "source",
+      "title": "标签注册表.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-003/extracted.md",
+      "source_id": "SRC-2026-08-10-003",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-004": {
+      "type": "source",
+      "title": "错题图谱.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-004/extracted.md",
+      "source_id": "SRC-2026-08-10-004",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-005": {
+      "type": "source",
+      "title": "README.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-005/extracted.md",
+      "source_id": "SRC-2026-08-10-005",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-006": {
+      "type": "source",
+      "title": "README.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-006/extracted.md",
+      "source_id": "SRC-2026-08-10-006",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-007": {
+      "type": "source",
+      "title": "INDEX.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-007/extracted.md",
+      "source_id": "SRC-2026-08-10-007",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-008": {
+      "type": "source",
+      "title": "主旨题解题体系.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-008/extracted.md",
+      "source_id": "SRC-2026-08-10-008",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-009": {
+      "type": "source",
+      "title": "逻辑填空解题体系.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-009/extracted.md",
+      "source_id": "SRC-2026-08-10-009",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-010": {
+      "type": "source",
+      "title": "资料分析-知识点体系.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-010/extracted.md",
+      "source_id": "SRC-2026-08-10-010",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-011": {
+      "type": "source",
+      "title": "2026-07-02-AI重塑生活-煞有介事.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-011/extracted.md",
+      "source_id": "SRC-2026-08-10-011",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/SRC-2026-08-10-012": {
+      "type": "source",
+      "title": "一应俱全vs应有尽有vs无所不包vs包罗万象.md",
+      "status": "ingested",
+      "raw_path": "raw/sources/SRC-2026-08-10-012/extracted.md",
+      "source_id": "SRC-2026-08-10-012",
+      "format": "markdown",
+      "captured": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/android-nodejs-binary-compatibility": {
+      "type": "source",
+      "title": "Android Node.js 二进制兼容性要点",
+      "category": "android",
+      "status": "insight",
+      "slug": "android-nodejs-binary-compatibility",
+      "created": "2026-08-23",
+      "updated": "2026-08-23"
+    },
+    "sources/android-nodejs-integration-lessons": {
+      "type": "source",
+      "title": "Android Node.js 集成关键教训",
+      "category": "android",
+      "status": "insight",
+      "slug": "android-nodejs-integration-lessons",
+      "created": "2026-08-23",
+      "updated": "2026-08-23"
+    },
+    "sources/android-pi-agent-final-architecture": {
+      "type": "source",
+      "title": "Android 运行 Pi Agent 的最终架构",
+      "category": "android",
+      "status": "insight",
+      "slug": "android-pi-agent-final-architecture",
+      "created": "2026-08-23",
+      "updated": "2026-08-23"
+    },
+    "sources/bilibili-old-player-endpoint-cid-only-resolution": {
+      "type": "source",
+      "title": "字幕张冠李戴真根因：老 player/v2 端点按 cid 单键解析（非B站偶发）",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "bilibili-old-player-endpoint-cid-only-resolution",
+      "created": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    "sources/crlf-detection-and-invisible-chars": {
+      "type": "source",
+      "title": "行尾检测假阳性与字符串替换引入不可见字符的教训",
+      "category": "backend",
+      "status": "insight",
+      "slug": "crlf-detection-and-invisible-chars",
+      "created": "2026-09-27",
+      "updated": "2026-09-27"
+    },
+    "sources/daily-movie-download-pipeline": {
+      "type": "source",
+      "title": "教父.com 磁力下载管线：无 tracker 磁力必须附加 tracker + 启动验证",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "daily-movie-download-pipeline",
+      "created": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    "sources/dropout-prediction-f2-pipeline": {
+      "type": "source",
+      "title": "辍学预测 F-beta(2) 管线的已验证做法",
+      "category": "datascience",
+      "status": "insight",
+      "slug": "dropout-prediction-f2-pipeline",
+      "created": "2026-10-25",
+      "updated": "2026-10-25"
+    },
+    "sources/emm-within-loop-refit-rules": {
+      "type": "source",
+      "title": "EMM迭代内refit的三条硬规则（RIM实证）",
+      "category": "architecture",
+      "status": "insight",
+      "slug": "emm-within-loop-refit-rules",
+      "created": "2026-10-09",
+      "updated": "2026-10-09"
+    },
+    "sources/generate-plain-text-and-system-prompt-json-trap": {
+      "type": "source",
+      "title": "generate 纯文本化：system prompt 的\"始终输出JSON\"才是惯凶",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "generate-plain-text-and-system-prompt-json-trap",
+      "created": "2026-09-30",
+      "updated": "2026-09-30"
+    },
+    "sources/greeting-ai": {
+      "type": "source",
+      "title": "Learned",
+      "status": "insight",
+      "slug": "greeting-ai",
+      "created": "2026-08-11",
+      "updated": "2026-08-11"
+    },
+    "sources/gtx1650-7b-ram-offload-agent": {
+      "type": "source",
+      "title": "4GB 显卡内存借用方案跑 7B agent",
+      "category": "devops",
+      "status": "insight",
+      "slug": "gtx1650-7b-ram-offload-agent",
+      "created": "2026-08-11",
+      "updated": "2026-08-11"
+    },
+    "sources/gtx1650-llama-cpp-deployment": {
+      "type": "source",
+      "title": "GTX 1650 4GB llama.cpp 本地部署路径",
+      "category": "devops",
+      "status": "insight",
+      "slug": "gtx1650-llama-cpp-deployment",
+      "created": "2026-08-11",
+      "updated": "2026-08-11"
+    },
+    "sources/hypit-caption-demo-film-track-order": {
+      "type": "source",
+      "title": "Hypit 词锚字幕 demo 成功：film Track 先声明在顶层（层叠方向坑）",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "hypit-caption-demo-film-track-order",
+      "created": "2026-09-30",
+      "updated": "2026-09-30"
+    },
+    "sources/hypit-integration-first-light": {
+      "type": "source",
+      "title": "Hypit 集成首战：零凭证全链路出片 + 词锚语法与接入路径",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "hypit-integration-first-light",
+      "created": "2026-09-30",
+      "updated": "2026-09-30"
+    },
+    "sources/hypit-local-whisperx-byok-setup": {
+      "type": "source",
+      "title": "Hypit 拒绝 HypiHub：本地 WhisperX 全配置链（镜像/BUSY/超时三坑）",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "hypit-local-whisperx-byok-setup",
+      "created": "2026-09-30",
+      "updated": "2026-09-30"
+    },
+    "sources/imitate-style-content-separation": {
+      "type": "source",
+      "title": "模仿生成内容/风格分离：事实隔离墙与裸key prompt根因",
+      "category": "backend",
+      "status": "insight",
+      "slug": "imitate-style-content-separation",
+      "created": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    "sources/kaogong-kb-restructure-2026-08-13": {
+      "type": "source",
+      "title": "考公知识库目录结构重构",
+      "category": "考公",
+      "status": "insight",
+      "slug": "kaogong-kb-restructure-2026-08-13",
+      "created": "2026-08-13",
+      "updated": "2026-08-13"
+    },
+    "sources/local-whisper-movie-subtitle-pipeline": {
+      "type": "source",
+      "title": "本地 Whisper 电影字幕管线：cublas PATH 注入与16倍实时基线",
+      "category": "local-ml",
+      "status": "insight",
+      "slug": "local-whisper-movie-subtitle-pipeline",
+      "created": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    "sources/motion-empty-keyframes-and-footage-first": {
+      "type": "source",
+      "title": "动效空帧根因（LLM引用animation不写@keyframes）与参考视频切片优先",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "motion-empty-keyframes-and-footage-first",
+      "created": "2026-09-30",
+      "updated": "2026-09-30"
+    },
+    "sources/next16-turbopack-bracket-api-route-bug": {
+      "type": "source",
+      "title": "Next 16.3.3 Turbopack 不加载 api 方括号目录的 route handler（Windows）",
+      "category": "frontend",
+      "status": "insight",
+      "slug": "next16-turbopack-bracket-api-route-bug",
+      "created": "2026-09-27",
+      "updated": "2026-09-27"
+    },
+    "sources/obs-2026-08-10-": {
+      "type": "source",
+      "title": "Observation: 考公知识库更新工作流确认",
+      "tags": [
+        "考公知识库",
+        "wiki",
+        "工作流"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-10-",
+      "relevance": "high",
+      "observed_at": "2026-08-10T16:11:27.147Z",
+      "source_context": "回答用户\"以后能否直接更新知识库\"",
+      "created": "2026-08-10",
+      "updated": "2026-08-10"
+    },
+    "sources/obs-2026-08-11-esp32": {
+      "type": "source",
+      "title": "Observation: ESP32 桌面机器人项目架构讨论",
+      "tags": [
+        "esp32",
+        "机器人",
+        "硬件",
+        "架构"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-11-esp32",
+      "relevance": "high",
+      "observed_at": "2026-08-11T01:49:36.400Z",
+      "source_context": "QQ 会话讨论 ESP32 接入平台方案",
+      "created": "2026-08-11",
+      "updated": "2026-08-11"
+    },
+    "sources/obs-2026-08-12-": {
+      "type": "source",
+      "title": "Observation: 记录算法三段式与技能\"非自动\"真相",
+      "tags": [
+        "pi-hermes-memory",
+        "记录算法",
+        "skill",
+        "事实核查"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-12-",
+      "relevance": "high",
+      "observed_at": "2026-08-12T06:02:03.368Z",
+      "source_context": "用户追问记录判断规则与技能更新能力是否真实存在",
+      "created": "2026-08-12",
+      "updated": "2026-08-12"
+    },
+    "sources/obs-2026-08-12-ai-ai-portfolio-site": {
+      "type": "source",
+      "title": "Observation: AI 作品集网站 ai-portfolio-site 建成",
+      "tags": [
+        "nextjs",
+        "threejs",
+        "portfolio",
+        "inspiration",
+        "pi-agent"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-12-ai-ai-portfolio-site",
+      "relevance": "high",
+      "observed_at": "2026-08-12T17:19:15.537Z",
+      "source_context": "构建 AI 作品集网站（作品展示+灵感引擎），用户用于短视频主题\"创造自由AI一切\"",
+      "created": "2026-08-12",
+      "updated": "2026-08-12"
+    },
+    "sources/obs-2026-08-12-pi-hermes-memory": {
+      "type": "source",
+      "title": "Observation: pi-hermes-memory 原理书《记忆的工程学》",
+      "tags": [
+        "pi-hermes-memory",
+        "记忆系统",
+        "思维方法",
+        "教学"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-12-pi-hermes-memory",
+      "relevance": "medium",
+      "observed_at": "2026-08-12T05:42:58.540Z",
+      "source_context": "分析 pi-hermes-memory 原理并以书本形式教学",
+      "created": "2026-08-12",
+      "updated": "2026-08-12"
+    },
+    "sources/obs-2026-08-13-": {
+      "type": "source",
+      "title": "Observation: 考公知识库索引更新完成",
+      "tags": [
+        "考公",
+        "知识库",
+        "索引",
+        "wiki"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-13-",
+      "relevance": "high",
+      "observed_at": "2026-08-13T05:32:47.116Z",
+      "source_context": "考公知识库格式整理",
+      "created": "2026-08-13",
+      "updated": "2026-08-13"
+    },
+    "sources/obs-2026-08-13-ai-a": {
+      "type": "source",
+      "title": "Observation: AI陈列馆项目优化策略确定：方案A-陈列功能展示",
+      "tags": [
+        "ai-portfolio",
+        "project-planning",
+        "modular-development"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-13-ai-a",
+      "relevance": "high",
+      "observed_at": "2026-08-13T07:54:02.991Z",
+      "source_context": "AI陈列馆项目协作方法论讨论",
+      "created": "2026-08-13",
+      "updated": "2026-08-13"
+    },
+    "sources/obs-2026-08-13-dataview": {
+      "type": "source",
+      "title": "Observation: 考公知识库 Dataview 统计仪表板完成",
+      "tags": [
+        "考公",
+        "dataview",
+        "统计",
+        "obsidian"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-13-dataview",
+      "relevance": "high",
+      "observed_at": "2026-08-13T07:20:18.454Z",
+      "source_context": "考公知识库统计页面设计",
+      "created": "2026-08-13",
+      "updated": "2026-08-13"
+    },
+    "sources/obs-2026-08-23-pi-agent-android": {
+      "type": "source",
+      "title": "Observation: Pi Agent Android 模拟器测试成功",
+      "tags": [
+        "android",
+        "emulator",
+        "nodejs",
+        "success",
+        "pi-agent"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-23-pi-agent-android",
+      "relevance": "critical",
+      "observed_at": "2026-08-23T08:32:37.859Z",
+      "created": "2026-08-23",
+      "updated": "2026-08-23"
+    },
+    "sources/obs-2026-08-23-pi-agent-android-apk": {
+      "type": "source",
+      "title": "Observation: Pi Agent Android APK 构建方案",
+      "tags": [
+        "android",
+        "apk",
+        "build",
+        "nodejs",
+        "termux",
+        "pi-agent"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-23-pi-agent-android-apk",
+      "relevance": "critical",
+      "observed_at": "2026-08-23T03:29:50.807Z",
+      "created": "2026-08-23",
+      "updated": "2026-08-23"
+    },
+    "sources/obs-2026-08-23-pi-agent-apk-v3-nodejs-mobile-jni": {
+      "type": "source",
+      "title": "Observation: Pi Agent APK v3: nodejs-mobile JNI 方案成功",
+      "tags": [
+        "android",
+        "apk",
+        "nodejs-mobile",
+        "jni",
+        "libnode",
+        "w^x"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-23-pi-agent-apk-v3-nodejs-mobile-jni",
+      "relevance": "critical",
+      "observed_at": "2026-08-23T04:04:44.038Z",
+      "created": "2026-08-23",
+      "updated": "2026-08-23"
+    },
+    "sources/obs-2026-08-23-pi-agent-pi-web-chat-android": {
+      "type": "source",
+      "title": "Observation: Pi Agent + pi-web-chat Android 完整运行成功",
+      "tags": [
+        "android",
+        "pi-agent",
+        "pi-web-chat",
+        "node26",
+        "success"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-23-pi-agent-pi-web-chat-android",
+      "relevance": "critical",
+      "observed_at": "2026-08-23T13:08:41.426Z",
+      "created": "2026-08-23",
+      "updated": "2026-08-23"
+    },
+    "sources/obs-2026-08-27-javafx": {
+      "type": "source",
+      "title": "Observation: JavaFX课程设计项目完成",
+      "status": "observation",
+      "slug": "obs-2026-08-27-javafx",
+      "relevance": "high",
+      "observed_at": "2026-08-27T06:56:22.951Z",
+      "source_context": "完成JavaFX课程设计项目",
+      "created": "2026-08-27",
+      "updated": "2026-08-27"
+    },
+    "sources/obs-2026-08-31-": {
+      "type": "source",
+      "title": "Observation: 自媒体口播工作台设计概念完成",
+      "tags": [
+        "自媒体",
+        "口播",
+        "工作台",
+        "设计",
+        "前端"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-31-",
+      "relevance": "high",
+      "observed_at": "2026-08-31T13:47:03.940Z",
+      "source_context": "设计自媒体口播工作台项目",
+      "created": "2026-08-31",
+      "updated": "2026-08-31"
+    },
+    "sources/obs-2026-08-31-pi-zip": {
+      "type": "source",
+      "title": "Observation: Pi内容导出到桌面zip包",
+      "tags": [
+        "pi",
+        "migration",
+        "export",
+        "zip"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-08-31-pi-zip",
+      "relevance": "medium",
+      "observed_at": "2026-08-31T13:49:31.855Z",
+      "source_context": "用户请求迁移pi环境",
+      "created": "2026-08-31",
+      "updated": "2026-08-31"
+    },
+    "sources/obs-2026-09-01-gnn-rag-baseline": {
+      "type": "source",
+      "title": "Observation: GNN-RAG baseline 实验环境搭建完成",
+      "tags": [
+        "KGQA",
+        "GNN-RAG",
+        "baseline",
+        "experiment",
+        "research"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-01-gnn-rag-baseline",
+      "relevance": "high",
+      "observed_at": "2026-09-01T04:43:56.673Z",
+      "source_context": "GNN-RAG baseline setup and experiment",
+      "created": "2026-09-01",
+      "updated": "2026-09-01"
+    },
+    "sources/obs-2026-09-06-kgqa": {
+      "type": "source",
+      "title": "Observation: KGQA研究第二阶段规划完成",
+      "tags": [
+        "KGQA",
+        "research",
+        "planning",
+        "survey",
+        "reading"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-06-kgqa",
+      "relevance": "high",
+      "observed_at": "2026-09-06T00:46:49.710Z",
+      "source_context": "KGQA research planning stage 2",
+      "created": "2026-09-06",
+      "updated": "2026-09-06"
+    },
+    "sources/obs-2026-09-08-apimimo-flash-gemini-flash-0731-gpt-4o": {
+      "type": "source",
+      "title": "Observation: apimimo 中转别名底模：flash=Gemini、flash-0731=GPT-4o",
+      "tags": [
+        "apimimo",
+        "one-api",
+        "中转",
+        "底模",
+        "deepseek",
+        "gemini",
+        "gpt-4o"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-08-apimimo-flash-gemini-flash-0731-gpt-4o",
+      "relevance": "high",
+      "observed_at": "2026-09-08T02:31:27.847Z",
+      "source_context": "用户询问 cc-switch 里 deepseek 中转的底模到底是什么",
+      "created": "2026-09-08",
+      "updated": "2026-09-08"
+    },
+    "sources/obs-2026-09-08-cc-switch-deepseek-429": {
+      "type": "source",
+      "title": "Observation: cc-switch DeepSeek 中转：上游 429 限流导致间歇性卡住",
+      "tags": [
+        "cc-switch",
+        "deepseek",
+        "中转",
+        "429",
+        "限流",
+        "proxy_config"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-08-cc-switch-deepseek-429",
+      "relevance": "high",
+      "observed_at": "2026-09-08T01:31:33.675Z",
+      "source_context": "排查 cc-switch DeepSeek 中转无法继续操作的原因",
+      "created": "2026-09-08",
+      "updated": "2026-09-08"
+    },
+    "sources/obs-2026-09-08-mimo-relay-anthropic-claude": {
+      "type": "source",
+      "title": "Observation: mimo-relay 底模验证：实际运行在 Anthropic Claude 上",
+      "tags": [
+        "mimo-relay",
+        "底模",
+        "anthropic",
+        "claude",
+        "billing_usage",
+        "usage_source",
+        "apimimo"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-08-mimo-relay-anthropic-claude",
+      "relevance": "critical",
+      "observed_at": "2026-09-08T08:14:31.250Z",
+      "source_context": "用户要求验证 Pi agent 当前使用的 mimo-relay 底模",
+      "created": "2026-09-08",
+      "updated": "2026-09-08"
+    },
+    "sources/obs-2026-09-09-webqsp": {
+      "type": "source",
+      "title": "Observation: WebQSP原始数据与项目数据一致性验证完成",
+      "tags": [
+        "WebQSP",
+        "dataset",
+        "KGQA",
+        "data-comparison",
+        "huggingface"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-09-webqsp",
+      "relevance": "high",
+      "observed_at": "2026-09-09T03:39:25.430Z",
+      "source_context": "WebQSP dataset download and comparison with GNN-RAG project data",
+      "created": "2026-09-09",
+      "updated": "2026-09-09"
+    },
+    "sources/obs-2026-09-10-mmap": {
+      "type": "source",
+      "title": "Observation: MMAP 思维导图开源查看方案部署完成",
+      "tags": [
+        "mmap",
+        "mindmanager",
+        "思维导图",
+        "工具安装",
+        "windows"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-10-mmap",
+      "relevance": "medium",
+      "observed_at": "2026-09-10T01:30:59.532Z",
+      "source_context": "为用户安装打开 .mmap 文件的开源软件",
+      "created": "2026-09-10",
+      "updated": "2026-09-10"
+    },
+    "sources/obs-2026-09-11-deepseek-r1-8b": {
+      "type": "source",
+      "title": "Observation: DeepSeek-R1-8B 本地部署成功",
+      "tags": [
+        "llama-cpp",
+        "GGUF",
+        "R1",
+        "KGQA",
+        "GPU部署"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-11-deepseek-r1-8b",
+      "relevance": "high",
+      "observed_at": "2026-09-11T09:17:40.703Z",
+      "source_context": "部署 DeepSeek-R1-Distill-Llama-8B 本地推理用于 KGQA 实验",
+      "created": "2026-09-11",
+      "updated": "2026-09-11"
+    },
+    "sources/obs-2026-09-14-agent-kg": {
+      "type": "source",
+      "title": "Observation: Agent+KG最新论文调研完成",
+      "status": "observation",
+      "slug": "obs-2026-09-14-agent-kg",
+      "relevance": "critical",
+      "observed_at": "2026-09-14T07:03:35.661Z",
+      "source_context": "农产品AI Agent论文 - 最新文献调研",
+      "created": "2026-09-14",
+      "updated": "2026-09-14"
+    },
+    "sources/obs-2026-09-14-ai-agent": {
+      "type": "source",
+      "title": "Observation: 农产品AI Agent论文写作任务启动",
+      "status": "observation",
+      "slug": "obs-2026-09-14-ai-agent",
+      "relevance": "high",
+      "observed_at": "2026-09-14T04:45:57.955Z",
+      "source_context": "农产品AI Agent论文写作任务",
+      "created": "2026-09-14",
+      "updated": "2026-09-14"
+    },
+    "sources/obs-2026-09-16-geka-agent": {
+      "type": "source",
+      "title": "Observation: GEKA农产品智能问答Agent系统项目完成",
+      "status": "observation",
+      "slug": "obs-2026-09-16-geka-agent",
+      "relevance": "critical",
+      "observed_at": "2026-09-16T12:53:50.402Z",
+      "source_context": "GEKA农产品AI Agent项目+论文完成",
+      "created": "2026-09-16",
+      "updated": "2026-09-16"
+    },
+    "sources/obs-2026-09-20-cv5-vs-bic-full-experiment-launched": {
+      "type": "source",
+      "title": "Observation: CV5 vs BIC full experiment launched",
+      "tags": [
+        "simulation",
+        "CV10",
+        "BIC",
+        "parallel",
+        "experiment"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-20-cv5-vs-bic-full-experiment-launched",
+      "relevance": "medium",
+      "observed_at": "2026-09-20T03:25:10.051Z",
+      "source_context": "RIM DIF/DSF detection simulation study",
+      "created": "2026-09-20",
+      "updated": "2026-09-20"
+    },
+    "sources/obs-2026-09-22-content-creator-ai-infrastructure-refactored-to-pi-agent-sdk": {
+      "type": "source",
+      "title": "Observation: Content Creator AI Infrastructure Refactored to Pi Agent SDK",
+      "tags": [
+        "content-creator-workspace",
+        "pi-agent-sdk",
+        "ai-engine",
+        "refactoring"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-22-content-creator-ai-infrastructure-refactored-to-pi-agent-sdk",
+      "relevance": "critical",
+      "observed_at": "2026-09-22T02:10:37.323Z",
+      "source_context": "AI infrastructure refactoring for content-creator-workspace",
+      "created": "2026-09-22",
+      "updated": "2026-09-22"
+    },
+    "sources/obs-2026-09-22-content-creator-backend-fully-rewritten-in-typescript": {
+      "type": "source",
+      "title": "Observation: Content Creator Backend Fully Rewritten in TypeScript",
+      "tags": [
+        "content-creator-workspace",
+        "typescript-rewrite",
+        "pi-agent-sdk",
+        "bilibili"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-22-content-creator-backend-fully-rewritten-in-typescript",
+      "relevance": "critical",
+      "observed_at": "2026-09-22T02:34:53.900Z",
+      "source_context": "Full TypeScript rewrite of content-creator-workspace backend",
+      "created": "2026-09-22",
+      "updated": "2026-09-22"
+    },
+    "sources/obs-2026-09-22-content-creator-workspace-project-analysis": {
+      "type": "source",
+      "title": "Observation: Content Creator Workspace Project Analysis",
+      "tags": [
+        "content-creator-workspace",
+        "project-architecture"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-22-content-creator-workspace-project-analysis",
+      "relevance": "high",
+      "observed_at": "2026-09-22T01:35:40.605Z",
+      "source_context": "Reading content-creator-workspace project structure",
+      "created": "2026-09-22",
+      "updated": "2026-09-22"
+    },
+    "sources/obs-2026-09-22-v4": {
+      "type": "source",
+      "title": "Observation: 教学方案V4完成",
+      "status": "observation",
+      "slug": "obs-2026-09-22-v4",
+      "relevance": "critical",
+      "observed_at": "2026-09-22T04:36:18.371Z",
+      "source_context": "计算机课堂游戏教学设计重构",
+      "created": "2026-09-22",
+      "updated": "2026-09-22"
+    },
+    "sources/obs-2026-09-22-v5": {
+      "type": "source",
+      "title": "Observation: V5主线从历史重构为应用能力",
+      "status": "observation",
+      "slug": "obs-2026-09-22-v5",
+      "relevance": "high",
+      "observed_at": "2026-09-22T07:02:40.887Z",
+      "source_context": "计算机课堂游戏教学设计重构V4到V5",
+      "created": "2026-09-22",
+      "updated": "2026-09-22"
+    },
+    "sources/obs-2026-09-23-": {
+      "type": "source",
+      "title": "Observation: 可视化幻灯版演示页交付",
+      "status": "observation",
+      "slug": "obs-2026-09-23-",
+      "relevance": "critical",
+      "observed_at": "2026-09-23T02:07:19.217Z",
+      "source_context": "上课演示页重构为可视化幻灯",
+      "created": "2026-09-23",
+      "updated": "2026-09-23"
+    },
+    "sources/obs-2026-09-23-v8": {
+      "type": "source",
+      "title": "Observation: V8体系结构主线方案完成",
+      "status": "observation",
+      "slug": "obs-2026-09-23-v8",
+      "relevance": "critical",
+      "observed_at": "2026-09-23T01:16:29.417Z",
+      "source_context": "计算机课堂游戏教学设计V8体系结构主线",
+      "created": "2026-09-23",
+      "updated": "2026-09-23"
+    },
+    "sources/obs-2026-09-23-v9": {
+      "type": "source",
+      "title": "Observation: V9五游戏嵌入与改造完成",
+      "status": "observation",
+      "slug": "obs-2026-09-23-v9",
+      "relevance": "critical",
+      "observed_at": "2026-09-23T01:31:33.919Z",
+      "source_context": "计算机课堂游戏V9游戏嵌入",
+      "created": "2026-09-23",
+      "updated": "2026-09-23"
+    },
+    "sources/obs-2026-09-28-emm-m-typei-m1": {
+      "type": "source",
+      "title": "Observation: EMM第二M步修复验证：机制修复成功但TypeI根因在M1阈值",
+      "tags": [
+        "EMM",
+        "LASSO",
+        "RIM",
+        "TypeI",
+        "eta-grid",
+        "coordinate-descent"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-28-emm-m-typei-m1",
+      "relevance": "high",
+      "observed_at": "2026-09-28T14:38:05.807Z",
+      "source_context": "EMM第二M步修复与eta网格扩展实验",
+      "created": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    "sources/obs-2026-09-28-qq-bot-7200-leader": {
+      "type": "source",
+      "title": "Observation: QQ Bot 断连已修复：坏锁改名后 7200 接管 leader",
+      "tags": [
+        "qqbot",
+        "pi-qq-integration",
+        "lock",
+        "leader-election"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-28-qq-bot-7200-leader",
+      "relevance": "high",
+      "observed_at": "2026-09-28T14:38:47.830Z",
+      "source_context": "诊断并修复 QQ Bot 无法连接",
+      "created": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    "sources/obs-2026-09-29-": {
+      "type": "source",
+      "title": "Observation: 三层日志系统（后端落盘+客户端上报+全局异常钩子）落地",
+      "tags": [
+        "日志系统",
+        "client_logs",
+        "runtime-logs",
+        "错误排查",
+        "rewrite瞬态"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-29-",
+      "relevance": "high",
+      "observed_at": "2026-09-29T16:06:31.920Z",
+      "source_context": "修复点击创作页 Unexpected token 错误 + 建立日志系统",
+      "created": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    "sources/obs-2026-09-29-70-30": {
+      "type": "source",
+      "title": "Observation: 素材入框协议+生成自检+70/30风格融合三项落地",
+      "tags": [
+        "素材入框",
+        "预览送入",
+        "self_check",
+        "风格融合"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-29-70-30",
+      "relevance": "high",
+      "observed_at": "2026-09-29T14:44:48.354Z",
+      "source_context": "交互方案1+P2自检+风格融合实施",
+      "created": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    "sources/obs-2026-09-29-eta-100-typei-0-26-power-0-72": {
+      "type": "source",
+      "title": "Observation: eta网格扩到100：TypeI减半至0.26但Power降至0.72",
+      "tags": [
+        "EMM",
+        "eta-grid",
+        "BIC",
+        "TypeI",
+        "RIM",
+        "LASSO",
+        "experiment"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-29-eta-100-typei-0-26-power-0-72",
+      "relevance": "high",
+      "observed_at": "2026-09-29T02:06:32.856Z",
+      "source_context": "EMM TypeI根因排查：eta网格扩展实验",
+      "created": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    "sources/obs-2026-09-29-upvideos-12-schema": {
+      "type": "source",
+      "title": "Observation: 风格档案三通道（蒸馏/导入/upvideos拉取）+12字段统一schema落地",
+      "tags": [
+        "风格蒸馏",
+        "导入通道",
+        "style_profiles",
+        "WBI"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-29-upvideos-12-schema",
+      "relevance": "high",
+      "observed_at": "2026-09-29T14:30:53.418Z",
+      "source_context": "content-creator 风格蒸馏管线 P0+P1 实施",
+      "created": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    "sources/obs-2026-09-30-emm-typei-0-495-0-135-power-0-894-0-934": {
+      "type": "source",
+      "title": "Observation: EMM两轮修复完成：TypeI 0.495→0.135，Power 0.894→0.934",
+      "tags": [
+        "EMM",
+        "RIM",
+        "LASSO",
+        "TypeI",
+        "fix",
+        "verification",
+        "alpha-zeta-freeze"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-30-emm-typei-0-495-0-135-power-0-894-0-934",
+      "relevance": "critical",
+      "observed_at": "2026-09-30T05:09:45.677Z",
+      "source_context": "EMM问题诊断与修复全程（问题A+问题B两轮修复+全量验证）",
+      "created": "2026-09-30",
+      "updated": "2026-09-30"
+    },
+    "sources/obs-2026-09-30-github-dhcurry-content-creator-workspace": {
+      "type": "source",
+      "title": "Observation: GitHub迁移完成：DHcurry/content-creator-workspace（密钥零泄漏）",
+      "tags": [
+        "GitHub",
+        "迁移",
+        "memory",
+        "私有仓",
+        "MIGRATION.md"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-30-github-dhcurry-content-creator-workspace",
+      "relevance": "critical",
+      "observed_at": "2026-09-30T15:20:31.077Z",
+      "source_context": "项目+记忆+模型链路迁移GitHub",
+      "created": "2026-09-30",
+      "updated": "2026-09-30"
+    },
+    "sources/obs-2026-09-30-html-llm-html-hypit": {
+      "type": "source",
+      "title": "Observation: HTML动效管线闭环：LLM动态HTML→hypit录制→分镜卡展示",
+      "tags": [
+        "动效",
+        "motion",
+        "hypit",
+        "capture",
+        "HTML渲染",
+        "分镜卡"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-30-html-llm-html-hypit",
+      "relevance": "high",
+      "observed_at": "2026-09-30T09:28:36.389Z",
+      "source_context": "方案一：hypit 动态动效管线实施",
+      "created": "2026-09-30",
+      "updated": "2026-09-30"
+    },
+    "sources/obs-2026-09-30-kv": {
+      "type": "source",
+      "title": "Observation: KV缓存命中率诊断：冷启动+新内容当轮不命中所致",
+      "tags": [
+        "KV缓存",
+        "prompt-cache",
+        "命中率",
+        "context-manager"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-09-30-kv",
+      "relevance": "medium",
+      "observed_at": "2026-09-30T02:27:22.627Z",
+      "source_context": "诊断\"为什么缓存命中这么低\"",
+      "created": "2026-09-30",
+      "updated": "2026-09-30"
+    },
+    "sources/obs-2026-10-09-8-3100": {
+      "type": "source",
+      "title": "Observation: 研究二阶段性汇报出具：8组实验3100次拟合全部完成",
+      "tags": [
+        "研究二",
+        "EMM",
+        "阶段性汇报",
+        "指标",
+        "交付物"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-09-8-3100",
+      "relevance": "high",
+      "observed_at": "2026-10-09T04:38:22.218Z",
+      "source_context": "研究二阶段性汇报（EMM三次修复全流程收尾）",
+      "created": "2026-10-09",
+      "updated": "2026-10-09"
+    },
+    "sources/obs-2026-10-10-loop-1-20-00": {
+      "type": "source",
+      "title": "Observation: 每日电影自动下载系统上线（Loop #1 每天20:00）",
+      "tags": [
+        "daily-movie",
+        "qBittorrent",
+        "自动化",
+        "电影下载"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-10-loop-1-20-00",
+      "relevance": "high",
+      "observed_at": "2026-10-10T10:23:00.961Z",
+      "source_context": "每日一部电影自动化搭建",
+      "created": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    "sources/obs-2026-10-10-uu-windows-wol-bios": {
+      "type": "source",
+      "title": "Observation: UU远程开机诊断：Windows侧WOL全对，疑点在BIOS与校园网辅助设备",
+      "tags": [
+        "WOL",
+        "UU远程",
+        "网络唤醒",
+        "HP",
+        "BIOS",
+        "校园网"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-10-uu-windows-wol-bios",
+      "relevance": "high",
+      "observed_at": "2026-10-10T05:04:22.269Z",
+      "source_context": "诊断 UU远程远程开机失败",
+      "created": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    "sources/obs-2026-10-10-windows-3": {
+      "type": "source",
+      "title": "Observation: Windows两节课课件三件套+3新游戏全套交付",
+      "tags": [
+        "Windows课件",
+        "课堂游戏",
+        "教学方案",
+        "逐字稿"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-10-windows-3",
+      "relevance": "high",
+      "observed_at": "2026-10-10T02:43:00.648Z",
+      "source_context": "Windows操作系统两节课课件全套产出",
+      "created": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    "sources/obs-2026-10-10-windows-v2": {
+      "type": "source",
+      "title": "Observation: Windows课件V2：手机类比+讲解/练习分工改版完成",
+      "tags": [
+        "Windows课件",
+        "手机类比",
+        "练习课",
+        "教学设计"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-10-windows-v2",
+      "relevance": "high",
+      "observed_at": "2026-10-10T02:58:21.863Z",
+      "source_context": "Windows两节课课件手机类比改版",
+      "created": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    "sources/obs-2026-10-10-windows-v3-w1-w2": {
+      "type": "source",
+      "title": "Observation: Windows课件V3：W1纯讲演、W2三场景对照练习",
+      "tags": [
+        "Windows课件",
+        "场景练习",
+        "教学设计"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-10-windows-v3-w1-w2",
+      "relevance": "high",
+      "observed_at": "2026-10-10T03:39:25.249Z",
+      "source_context": "Windows课件第三轮精简：W1去互动+W2场景化",
+      "created": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    "sources/obs-2026-10-10-windows-v4-top10": {
+      "type": "source",
+      "title": "Observation: Windows课件V4：学会看设置三步法+高频Top10技能",
+      "tags": [
+        "Windows课件",
+        "设置",
+        "高频技能",
+        "教学设计"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-10-windows-v4-top10",
+      "relevance": "high",
+      "observed_at": "2026-10-10T04:52:48.316Z",
+      "source_context": "Windows课件第四轮：设置教学重构+高频技能补强",
+      "created": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    "sources/obs-2026-10-11-2026-10-gpu-v3-2": {
+      "type": "source",
+      "title": "Observation: 2026-10 GPU算力行情与 V3.2 部署方案",
+      "tags": [
+        "GPU服务器",
+        "H20",
+        "租赁价格",
+        "DeepSeek",
+        "V3.2",
+        "SGLang",
+        "API价格"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-11-2026-10-gpu-v3-2",
+      "relevance": "medium",
+      "observed_at": "2026-10-11T05:56:59.753Z",
+      "source_context": "用户有机房，要求全量 DeepSeek 更快、更大上下文、更便宜、可接 agent",
+      "created": "2026-10-11",
+      "updated": "2026-10-11"
+    },
+    "sources/obs-2026-10-11-671b-deepseek": {
+      "type": "source",
+      "title": "Observation: 671B 全量 DeepSeek 本地部署最低成本方案调研",
+      "tags": [
+        "deepseek",
+        "671B",
+        "部署",
+        "硬件选型",
+        "llama.cpp",
+        "ktransformers",
+        "mac-studio"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-11-671b-deepseek",
+      "relevance": "medium",
+      "observed_at": "2026-10-11T05:40:28.089Z",
+      "source_context": "回答全量 DeepSeek 最低成本部署方案",
+      "created": "2026-10-11",
+      "updated": "2026-10-11"
+    },
+    "sources/obs-2026-10-11-671b-ktransformers": {
+      "type": "source",
+      "title": "Observation: 二手卡混合跑671B：价格与ktransformers实测",
+      "tags": [
+        "二手显卡",
+        "3090",
+        "价格",
+        "ktransformers",
+        "671B",
+        "混合推理"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-11-671b-ktransformers",
+      "relevance": "medium",
+      "observed_at": "2026-10-11T06:05:45.969Z",
+      "source_context": "用户问个人主机+二手显卡的中和方案",
+      "created": "2026-10-11",
+      "updated": "2026-10-11"
+    },
+    "sources/obs-2026-10-14-r": {
+      "type": "source",
+      "title": "Observation: R系列两节课：五幕角色扮演剧课件交付完成",
+      "tags": [
+        "Windows课件",
+        "角色扮演",
+        "事件卡",
+        "新课"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-14-r",
+      "relevance": "high",
+      "observed_at": "2026-10-14T03:02:52.689Z",
+      "source_context": "Windows课件R系列角色扮演版交付",
+      "created": "2026-10-14",
+      "updated": "2026-10-14"
+    },
+    "sources/obs-2026-10-14-s": {
+      "type": "source",
+      "title": "Observation: S系列设计定稿与课前准备包（含一键脚本实测）",
+      "tags": [
+        "Windows课件",
+        "S系列",
+        "课前准备",
+        "单机教室"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-14-s",
+      "relevance": "high",
+      "observed_at": "2026-10-14T03:42:41.159Z",
+      "source_context": "S系列设计定稿+课前准备包",
+      "created": "2026-10-14",
+      "updated": "2026-10-14"
+    },
+    "sources/obs-2026-10-14-s1-5": {
+      "type": "source",
+      "title": "Observation: S1知识体系课交付：四域体系+本机真图5张嵌入",
+      "tags": [
+        "Windows课件",
+        "S1",
+        "四域体系",
+        "真图截屏"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-14-s1-5",
+      "relevance": "high",
+      "observed_at": "2026-10-14T05:22:13.140Z",
+      "source_context": "S1知识体系课交付",
+      "created": "2026-10-14",
+      "updated": "2026-10-14"
+    },
+    "sources/obs-2026-10-14-s2": {
+      "type": "source",
+      "title": "Observation: S2服务台课补齐：四委托单按四域验收，完整两课包已发",
+      "tags": [
+        "Windows课件",
+        "S2",
+        "委托单",
+        "服务台",
+        "docx"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-14-s2",
+      "relevance": "high",
+      "observed_at": "2026-10-14T05:39:11.655Z",
+      "source_context": "S2补齐与两课包重发",
+      "created": "2026-10-14",
+      "updated": "2026-10-14"
+    },
+    "sources/obs-2026-10-15-": {
+      "type": "source",
+      "title": "Observation: 研究二换机交接包与交接说明已发出",
+      "tags": [
+        "交接",
+        "换机",
+        "handoff",
+        "研究二",
+        "迁移"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-15-",
+      "relevance": "high",
+      "observed_at": "2026-10-15T09:32:19.724Z",
+      "source_context": "研究二换机交接准备",
+      "created": "2026-10-15",
+      "updated": "2026-10-15"
+    },
+    "sources/obs-2026-10-15-ffmpeg-mtx": {
+      "type": "source",
+      "title": "Observation: FFmpeg完整版含MTX 项目解压并运行成功",
+      "tags": [
+        "ffmpeg",
+        "mediamtx",
+        "rtmp",
+        "推流",
+        "直播"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-15-ffmpeg-mtx",
+      "relevance": "medium",
+      "observed_at": "2026-10-15T02:23:29.285Z",
+      "source_context": "解压并运行 FFmpeg完整版含MTX 项目",
+      "created": "2026-10-15",
+      "updated": "2026-10-15"
+    },
+    "sources/obs-2026-10-15-lubot-tk-ffmpeg-mtx": {
+      "type": "source",
+      "title": "Observation: LuBot(TK奥德彪)与FFmpeg+MTX为同一项目，已整合到桌面",
+      "tags": [
+        "LuBot",
+        "TK奥德彪",
+        "虚拟摄像头",
+        "tiktok",
+        "无人直播",
+        "整合"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-15-lubot-tk-ffmpeg-mtx",
+      "relevance": "medium",
+      "observed_at": "2026-10-15T03:24:47.226Z",
+      "source_context": "整合 LuBot.zip 与 FFmpeg完整版含MTX 到桌面文件夹",
+      "created": "2026-10-15",
+      "updated": "2026-10-15"
+    },
+    "sources/obs-2026-10-18-tk": {
+      "type": "source",
+      "title": "Observation: TK直播可视化控制台(按钮)构建完成并全链路验证",
+      "tags": [
+        "控制台",
+        "按钮",
+        "web",
+        "UI",
+        "直播工具"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-18-tk",
+      "relevance": "medium",
+      "observed_at": "2026-10-18T03:13:47.522Z",
+      "source_context": "构建 TK奥德彪直播工具 按钮控制台",
+      "created": "2026-10-18",
+      "updated": "2026-10-18"
+    },
+    "sources/obs-2026-10-19-2026-10": {
+      "type": "source",
+      "title": "Observation: 自媒体变现与信息差渠道调研（2026-10）",
+      "tags": [
+        "自媒体",
+        "变现",
+        "信息差",
+        "商业闭环",
+        "调研"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-19-2026-10",
+      "relevance": "medium",
+      "observed_at": "2026-10-19T05:09:11.338Z",
+      "source_context": "QQ 用户咨询自媒体赚钱与信息差渠道",
+      "created": "2026-10-19",
+      "updated": "2026-10-19"
+    },
+    "sources/obs-2026-10-19-5-fast": {
+      "type": "source",
+      "title": "Observation: 环境配置脚本+真实摄像头5%合层推流完成，fast档实现实时",
+      "tags": [
+        "摄像头合层",
+        "环境配置",
+        "dshow",
+        "overlay",
+        "推流",
+        "实时性"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-19-5-fast",
+      "relevance": "high",
+      "observed_at": "2026-10-19T09:49:05.854Z",
+      "source_context": "实现环境配置入脚本与真实摄像头透明叠加合层",
+      "created": "2026-10-19",
+      "updated": "2026-10-19"
+    },
+    "sources/obs-2026-10-19-lubot-tk-cam-5-blend": {
+      "type": "source",
+      "title": "Observation: LuBot TK Cam 取流+真实摄像头5%合层完成，blend方向坑修复",
+      "tags": [
+        "LuBot",
+        "TK",
+        "Cam",
+        "blend合层",
+        "dshow双摄",
+        "图层方向",
+        "坑"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-19-lubot-tk-cam-5-blend",
+      "relevance": "high",
+      "observed_at": "2026-10-19T11:43:24.752Z",
+      "source_context": "把合层画面接入 LuBot 链路（从 TK Cam 取流）",
+      "created": "2026-10-19",
+      "updated": "2026-10-19"
+    },
+    "sources/obs-2026-10-20-ffmpeg-lubot-tk-cam-5": {
+      "type": "source",
+      "title": "Observation: ffmpeg包装器注入LuBot内部管线成功：TK Cam自带5%摄像头合层",
+      "tags": [
+        "ffmpeg包装器",
+        "LuBot注入",
+        "blend管线",
+        "ffmpeg.orig",
+        "UAC",
+        "性能优化"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-20-ffmpeg-lubot-tk-cam-5",
+      "relevance": "critical",
+      "observed_at": "2026-10-20T13:26:17.925Z",
+      "source_context": "在LuBot软件内部实现真实摄像头5%合层",
+      "created": "2026-10-20",
+      "updated": "2026-10-20"
+    },
+    "sources/obs-2026-10-21-lubot-txt-rtmp-tk-cam-fast-1-0x": {
+      "type": "source",
+      "title": "Observation: LuBot底层已替换为txt脚本管线：RTMP双输出+TK Cam保住，fast档1.0x实时",
+      "tags": [
+        "wrapper-v3",
+        "txt底层替换",
+        "双输出",
+        "TK",
+        "Cam",
+        "fast档",
+        "ghidra断点续传",
+        "REA"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-21-lubot-txt-rtmp-tk-cam-fast-1-0x",
+      "relevance": "critical",
+      "observed_at": "2026-10-21T15:08:55.909Z",
+      "source_context": "把LuBot底层管线替换为txt脚本",
+      "created": "2026-10-21",
+      "updated": "2026-10-21"
+    },
+    "sources/obs-2026-10-21-t": {
+      "type": "source",
+      "title": "Observation: T系列练手两课交付：全员闯关+三幕角色扮演大戏",
+      "tags": [
+        "Windows课件",
+        "T系列",
+        "闯关",
+        "角色扮演"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-21-t",
+      "relevance": "high",
+      "observed_at": "2026-10-21T01:23:23.988Z",
+      "source_context": "T系列练手两课设计交付",
+      "created": "2026-10-21",
+      "updated": "2026-10-21"
+    },
+    "sources/obs-2026-10-21-t1": {
+      "type": "source",
+      "title": "Observation: T1改版：我的电脑探索课，环境差异变宝藏零素材依赖",
+      "tags": [
+        "Windows课件",
+        "T1",
+        "自我探索",
+        "电脑即教材"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-21-t1",
+      "relevance": "high",
+      "observed_at": "2026-10-21T01:33:39.386Z",
+      "source_context": "T1改版自我探索课",
+      "created": "2026-10-21",
+      "updated": "2026-10-21"
+    },
+    "sources/obs-2026-10-22-rea-6-7-0-npm-pi-mcp-ghidra": {
+      "type": "source",
+      "title": "Observation: REA 6.7.0 经 npm 装好并注册进 pi（MCP+技能），缺 Ghidra 引擎",
+      "tags": [
+        "REA",
+        "逆向",
+        "MCP",
+        "pi注册",
+        "Ghidra",
+        "镜像"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-22-rea-6-7-0-npm-pi-mcp-ghidra",
+      "relevance": "high",
+      "observed_at": "2026-10-22T07:18:11.099Z",
+      "source_context": "clone 并接入 GitHub 爆火的 REA 工具",
+      "created": "2026-10-22",
+      "updated": "2026-10-22"
+    },
+    "sources/obs-2026-10-22-rea-ghidra-tkcore-5153-3266": {
+      "type": "source",
+      "title": "Observation: REA+Ghidra系统完成：tkcore首析5153函数/3266字符串",
+      "tags": [
+        "REA",
+        "Ghidra",
+        "系统构建",
+        "tkcore",
+        "首析",
+        "5153函数"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-22-rea-ghidra-tkcore-5153-3266",
+      "relevance": "critical",
+      "observed_at": "2026-10-22T10:12:22.794Z",
+      "source_context": "REA+Ghidra 引擎部署与 tkcore 首次分析",
+      "created": "2026-10-22",
+      "updated": "2026-10-22"
+    },
+    "sources/obs-2026-10-22-tgm2-c-lox-n-20": {
+      "type": "source",
+      "title": "Observation: TGM2\"C组低\"不可证：LOX替代叙事+功效测算(n≈20/组仍翻不了方向)",
+      "tags": [
+        "proteomics",
+        "TGM2",
+        "LOX",
+        "power-analysis",
+        "integrity"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-22-tgm2-c-lox-n-20",
+      "relevance": "high",
+      "observed_at": "2026-10-22T07:05:15.566Z",
+      "source_context": "GJ-rat蛋白组：用户要求证明C组TGM2低",
+      "created": "2026-10-22",
+      "updated": "2026-10-22"
+    },
+    "sources/obs-2026-10-22-tgm2-m1-run-c-ns-ppi": {
+      "type": "source",
+      "title": "Observation: TGM2蛋白组分析：M1失败run剔除后C组略高(ns)，选题依据改走PPI/富集",
+      "tags": [
+        "proteomics",
+        "TGM2",
+        "GJ-rat",
+        "STRING",
+        "M1-outlier",
+        "QC"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-22-tgm2-m1-run-c-ns-ppi",
+      "relevance": "high",
+      "observed_at": "2026-10-22T06:49:43.972Z",
+      "source_context": "GJ-rat蛋白组TGM2目标蛋白分析与绘图",
+      "created": "2026-10-22",
+      "updated": "2026-10-22"
+    },
+    "sources/obs-2026-10-22-tkcore-exe-qt6-cuda-cpu-mediamtx": {
+      "type": "source",
+      "title": "Observation: tkcore.exe 架构读取完成：Qt6六层结构+CUDA/CPU双管线+MediaMTX自管理",
+      "tags": [
+        "rea",
+        "ghidra",
+        "tkcore",
+        "逆向",
+        "架构",
+        "luBot"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-22-tkcore-exe-qt6-cuda-cpu-mediamtx",
+      "relevance": "high",
+      "observed_at": "2026-10-22T11:10:00.202Z",
+      "source_context": "REA 读取 tkcore.exe 功能层架构",
+      "created": "2026-10-22",
+      "updated": "2026-10-22"
+    },
+    "sources/obs-2026-10-23-ed25519-15": {
+      "type": "source",
+      "title": "Observation: 自建卡密系统交付：Ed25519离线授权+网页面板，15项测试全过",
+      "tags": [
+        "卡密",
+        "授权",
+        "ed25519",
+        "离线验证",
+        "设备指纹",
+        "自建系统"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-23-ed25519-15",
+      "relevance": "high",
+      "observed_at": "2026-10-23T02:12:27.341Z",
+      "source_context": "自建卡密授权系统（Ed25519离线授权）开发与测试",
+      "created": "2026-10-23",
+      "updated": "2026-10-23"
+    },
+    "sources/obs-2026-10-23-tk-photoimage-data-base64-ppm-png": {
+      "type": "source",
+      "title": "Observation: 直播工坊预览黑屏修复：Tk PhotoImage data=不认base64 PPM，换PNG帧流",
+      "tags": [
+        "bug修复",
+        "tkinter",
+        "photoimage",
+        "png",
+        "ppm",
+        "预览",
+        "直播工坊"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-23-tk-photoimage-data-base64-ppm-png",
+      "relevance": "medium",
+      "observed_at": "2026-10-23T03:42:21.739Z",
+      "source_context": "修复直播工坊预览黑屏（tk PhotoImage PPM data不支持）",
+      "created": "2026-10-23",
+      "updated": "2026-10-23"
+    },
+    "sources/obs-2026-10-23-v1-0-txt": {
+      "type": "source",
+      "title": "Observation: 直播工坊v1.0交付：自有txt管线+卡密授权的原创桌面软件",
+      "tags": [
+        "直播工坊",
+        "livestudio",
+        "tkinter",
+        "原创软件",
+        "推流",
+        "卡密"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-23-v1-0-txt",
+      "relevance": "high",
+      "observed_at": "2026-10-23T03:27:07.458Z",
+      "source_context": "开发直播工坊 LiveStudio（自有txt管线+自有卡密授权的原创软件）",
+      "created": "2026-10-23",
+      "updated": "2026-10-23"
+    },
+    "sources/obs-2026-10-25-genai-4-e-genai-lab": {
+      "type": "source",
+      "title": "Observation: GenAI实验课4实验完成，交付物在E:\\GenAI_lab\\实验报告",
+      "tags": [
+        "GenAI实验课",
+        "交付",
+        "elasticsearch",
+        "fastsdcpu",
+        "haystack"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-25-genai-4-e-genai-lab",
+      "relevance": "high",
+      "observed_at": "2026-10-25T06:15:55.772Z",
+      "created": "2026-10-25",
+      "updated": "2026-10-25"
+    },
+    "sources/obs-2026-10-25-hudk4050": {
+      "type": "source",
+      "title": "Observation: HUDK4050 辍学预测挑战：数据结构与基线管线完成",
+      "tags": [
+        "dropout-prediction",
+        "hudk4050",
+        "lightgbm",
+        "fbeta"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-25-hudk4050",
+      "relevance": "medium",
+      "observed_at": "2026-10-25T07:56:23.826Z",
+      "source_context": "HUDK4050 F26 辍学预测挑战建模",
+      "created": "2026-10-25",
+      "updated": "2026-10-25"
+    },
+    "sources/obs-2026-10-26-v1-1-12": {
+      "type": "source",
+      "title": "Observation: 直播工坊v1.1交付：图层/摄像头/中继/持久化全对齐，12项测试过",
+      "tags": [
+        "直播工坊",
+        "v1.1",
+        "图层",
+        "摄像头",
+        "中继",
+        "持久化",
+        "交付"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-26-v1-1-12",
+      "relevance": "high",
+      "observed_at": "2026-10-26T12:56:52.715Z",
+      "source_context": "直播工坊 v1.1 全功能对齐 LuBot 开发与测试",
+      "created": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    "sources/obs-2026-10-27-v1-1-1": {
+      "type": "source",
+      "title": "Observation: 直播工坊v1.1.1：摄像头后台扫描+看门狗，设置改动防抖实时重启",
+      "tags": [
+        "bug修复",
+        "摄像头",
+        "实时生效",
+        "防抖",
+        "gui"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-27-v1-1-1",
+      "relevance": "medium",
+      "observed_at": "2026-10-27T01:52:08.279Z",
+      "source_context": "修复直播工坊摄像头调用与设置实时响应",
+      "created": "2026-10-27",
+      "updated": "2026-10-27"
+    },
+    "sources/obs-2026-10-28-": {
+      "type": "source",
+      "title": "Observation: 选片八路品类体系与闸门工程教训（黑名单勿用剧场版/裸词地球）",
+      "tags": [
+        "daily-movie",
+        "选片",
+        "八路品类",
+        "闸门",
+        "慢速车道",
+        "去重"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-28-",
+      "relevance": "high",
+      "observed_at": "2026-10-28T10:52:40.773Z",
+      "source_context": "选片标准对齐与品类八路扩容",
+      "created": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    "sources/obs-2026-10-28-19": {
+      "type": "source",
+      "title": "Observation: 希冀零代码图像分类实验自动化完成：三实验真实数据+19截图报告交付",
+      "tags": [
+        "希冀平台",
+        "零代码图像分类",
+        "CDP自动化",
+        "伪摄像头",
+        "实验报告"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-28-19",
+      "relevance": "high",
+      "observed_at": "2026-10-28T16:41:07.628Z",
+      "source_context": "第1章零代码图像分类实验全程自动化与报告撰写",
+      "created": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    "sources/obs-2026-10-28-deepseek-llm": {
+      "type": "source",
+      "title": "Observation: 字幕主链切换 DeepSeek LLM 意译（脱口秀人设+机翻兜底）",
+      "tags": [
+        "daily-movie",
+        "字幕翻译",
+        "LLM",
+        "deepseek",
+        "脱口秀",
+        "主链切换"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-28-deepseek-llm",
+      "relevance": "high",
+      "observed_at": "2026-10-28T10:52:40.762Z",
+      "source_context": "daily-movie 字幕管线 LLM 意译主链切换",
+      "created": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    "sources/obs-2026-10-28-model-onnx-90": {
+      "type": "source",
+      "title": "Observation: 实验一 model.onnx 本地训练导出并验证通过（识别率90%）",
+      "tags": [
+        "onnx",
+        "mnist",
+        "希冀",
+        "实验一",
+        "导出",
+        "验证"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-28-model-onnx-90",
+      "relevance": "high",
+      "observed_at": "2026-10-28T16:52:00.553Z",
+      "source_context": "本地训练 ONNX 手写数字模型供希冀平台实验一使用",
+      "created": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    "sources/obs-2026-10-28-qq-pi-tui-peerdeps": {
+      "type": "source",
+      "title": "Observation: QQ 链路验证通过；pi-tui 依赖声明改为 peerDeps",
+      "tags": [
+        "qqbot",
+        "pi-hermes-memory",
+        "peerDependencies",
+        "lock",
+        "leader-election"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-28-qq-pi-tui-peerdeps",
+      "relevance": "low",
+      "observed_at": "2026-10-28T09:48:40.313Z",
+      "source_context": "验证 QQ Bot 连接状态并修复扩展依赖告警",
+      "created": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    "sources/obs-2026-10-29-v1-2-307mb-exe-bat": {
+      "type": "source",
+      "title": "Observation: 直播工坊v1.2打包交付：307MB全内置独立exe+安装bat，实测通过",
+      "tags": [
+        "打包",
+        "pyinstaller",
+        "交付",
+        "安装包",
+        "独立exe"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-29-v1-2-307mb-exe-bat",
+      "relevance": "high",
+      "observed_at": "2026-10-29T08:36:18.795Z",
+      "source_context": "直播工坊 v1.2 PyInstaller 打包与安装包交付",
+      "created": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    "sources/obs-2026-10-30-word": {
+      "type": "source",
+      "title": "Observation: Word排版两节课重构：演示跟做+构图把关",
+      "tags": [
+        "word排版",
+        "教案演示跟做",
+        "审美构图",
+        "两节课"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-30-word",
+      "relevance": "high",
+      "observed_at": "2026-10-30T03:32:00.227Z",
+      "source_context": "Word排版两节课重构（演示跟做版）",
+      "created": "2026-10-30",
+      "updated": "2026-10-30"
+    },
+    "sources/obs-2026-10-30-word-30": {
+      "type": "source",
+      "title": "Observation: Word排版实操课教案完成（30个字高级审美训练）",
+      "tags": [
+        "计算机应用技术",
+        "word排版",
+        "教案",
+        "实操",
+        "审美训练"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-30-word-30",
+      "relevance": "high",
+      "observed_at": "2026-10-30T02:47:14.581Z",
+      "source_context": "设计Word排版实操课（技师学院离线机房）",
+      "created": "2026-10-30",
+      "updated": "2026-10-30"
+    },
+    "sources/obs-2026-10-30-word-v3-6": {
+      "type": "source",
+      "title": "Observation: Word排版V3：诗词大会单一主题贯穿6页",
+      "tags": [
+        "word排版",
+        "诗词大会物料册",
+        "教案v3",
+        "单一主题"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-30-word-v3-6",
+      "relevance": "high",
+      "observed_at": "2026-10-30T06:34:17.660Z",
+      "source_context": "Word排版课第三轮重构（单一主题+满课时量）",
+      "created": "2026-10-30",
+      "updated": "2026-10-30"
+    },
+    "sources/obs-2026-10-31-ubuntu-systemd-e2e": {
+      "type": "source",
+      "title": "Observation: 卡密系统上云：Ubuntu systemd部署+远程签发本地验证E2E通过",
+      "tags": [
+        "卡密系统",
+        "云端部署",
+        "paramiko",
+        "ubuntu",
+        "systemd",
+        "面板"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-10-31-ubuntu-systemd-e2e",
+      "relevance": "high",
+      "observed_at": "2026-10-31T01:34:30.675Z",
+      "source_context": "SSH 部署卡密系统到云服务器并验证签发闭环",
+      "created": "2026-10-31",
+      "updated": "2026-10-31"
+    },
+    "sources/obs-2026-11-01-pta-69-1": {
+      "type": "source",
+      "title": "Observation: PTA考试69题答案齐备但超时未交，仅第1题得分",
+      "tags": [
+        "PTA",
+        "SQL考试",
+        "CDP",
+        "protobuf",
+        "超时",
+        "提交"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-11-01-pta-69-1",
+      "relevance": "critical",
+      "observed_at": "2026-11-01T17:14:51.251Z",
+      "source_context": "读取并完成 pintia.cn 考试题目",
+      "created": "2026-11-01",
+      "updated": "2026-11-01"
+    },
+    "sources/obs-2026-11-01-v2-0-e2e-v2": {
+      "type": "source",
+      "title": "Observation: v2.0推进：卡密在线激活E2E过+城市环境助手+v2骨架+虚拟摄像头接口",
+      "tags": [
+        "v2.0",
+        "在线激活",
+        "卡密redeem",
+        "城市环境",
+        "pyvirtualcam",
+        "pyside6"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-11-01-v2-0-e2e-v2",
+      "relevance": "high",
+      "observed_at": "2026-11-01T01:37:06.157Z",
+      "source_context": "v2.0重构阶段：在线激活/城市环境/虚拟摄像头接口/PySide6骨架",
+      "created": "2026-11-01",
+      "updated": "2026-11-01"
+    },
+    "sources/obs-2026-11-01-vbot-tkcore-exe-ffmpeg": {
+      "type": "source",
+      "title": "Observation: VBot(天寅直播助手)tkcore.exe 内嵌与用户脚本同构的 ffmpeg 模板",
+      "tags": [
+        "VBot",
+        "天寅直播助手",
+        "侵权取证",
+        "ffmpeg",
+        "tkcore",
+        "LuBot"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-11-01-vbot-tkcore-exe-ffmpeg",
+      "relevance": "high",
+      "observed_at": "2026-11-01T14:27:46.440Z",
+      "source_context": "VBot.zip 侵权比对取证与文档产出",
+      "created": "2026-11-01",
+      "updated": "2026-11-01"
+    },
+    "sources/obs-2026-11-02-": {
+      "type": "source",
+      "title": "Observation: 虚拟摄像头打通：接收端先行握手+分辨率限制+三次假阳性教训",
+      "tags": [
+        "虚拟摄像头",
+        "unitycapture",
+        "pyvirtualcam",
+        "共享内存",
+        "directshow",
+        "协议"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-11-02-",
+      "relevance": "high",
+      "observed_at": "2026-11-02T11:45:51.202Z",
+      "source_context": "虚拟摄像头协议诊断与v2.0应用级E2E验证",
+      "created": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    "sources/obs-2026-11-02-8": {
+      "type": "source",
+      "title": "Observation: 科研文献字段抽取作业完成：8篇高熵氧化物论文结构化提取",
+      "tags": [
+        "literature-extraction",
+        "schema",
+        "高熵氧化物",
+        "作业"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-11-02-8",
+      "relevance": "high",
+      "observed_at": "2026-11-02T02:37:14.538Z",
+      "source_context": "科研文献字段抽取作业交付",
+      "created": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    "sources/obs-2026-11-02-mit": {
+      "type": "source",
+      "title": "Observation: 自研竖屏虚拟摄像头完成：MIT源码改造+表头插竖屏+两处换装坑",
+      "tags": [
+        "虚拟摄像头",
+        "directshow",
+        "msvc",
+        "unitycapture",
+        "竖屏",
+        "端口移植"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-11-02-mit",
+      "relevance": "high",
+      "observed_at": "2026-11-02T16:20:04.805Z",
+      "source_context": "自研竖屏虚拟摄像头：UnityCapture MIT源码改造+MSVC编译+换装验证",
+      "created": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    "sources/obs-2026-11-02-vbot-v2-12-12": {
+      "type": "source",
+      "title": "Observation: VBot取证v2：算法相似度量化12/12指纹，弃用本机文件时间",
+      "tags": [
+        "VBot",
+        "取证",
+        "算法相似度",
+        "tkcore",
+        "UTF-16",
+        "证据方法论"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-11-02-vbot-v2-12-12",
+      "relevance": "high",
+      "observed_at": "2026-11-02T07:43:33.359Z",
+      "source_context": "按用户纠正重做VBot侵权比对文档v2",
+      "created": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    "sources/obs-2026-11-03-v2-0-device-code-powershell-1-36-verdict-ok": {
+      "type": "source",
+      "title": "Observation: v2.0卡顿根因：device_code每秒起PowerShell卡1.36秒，缓存后VERDICT=OK",
+      "tags": [
+        "性能",
+        "卡顿",
+        "powershell",
+        "device_code",
+        "缓存",
+        "gui"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-11-03-v2-0-device-code-powershell-1-36-verdict-ok",
+      "relevance": "high",
+      "observed_at": "2026-11-03T03:43:31.824Z",
+      "source_context": "直播工坊v2.0 GUI卡顿根因定位与修复",
+      "created": "2026-11-03",
+      "updated": "2026-11-03"
+    },
+    "sources/obs-2026-11-03-vbot-v3": {
+      "type": "source",
+      "title": "Observation: VBot证据包v3：第四代算法基准+逐文件哈希+★证据单独标注",
+      "tags": [
+        "VBot",
+        "取证",
+        "证据包",
+        "v3",
+        "哈希",
+        "第四代算法"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-11-03-vbot-v3",
+      "relevance": "high",
+      "observed_at": "2026-11-03T12:06:42.157Z",
+      "source_context": "按用户要求以第四代算法为基准重做证据包v3",
+      "created": "2026-11-03",
+      "updated": "2026-11-03"
+    },
+    "sources/obs-2026-11-04-vbot1-7-7-lubot-77-2": {
+      "type": "source",
+      "title": "Observation: VBot1.7.7↔LuBot相似度77.2%+痕迹清单+通路结论",
+      "tags": [
+        "VBot1.7.7",
+        "LuBot",
+        "相似度",
+        "痕迹",
+        "通路",
+        "检验"
+      ],
+      "status": "observation",
+      "slug": "obs-2026-11-04-vbot1-7-7-lubot-77-2",
+      "relevance": "high",
+      "observed_at": "2026-11-04T14:20:43.053Z",
+      "source_context": "VBot1.7.7补充检验与业务通路分析",
+      "created": "2026-11-04",
+      "updated": "2026-11-04"
+    },
+    "sources/offline-license-system-design": {
+      "type": "source",
+      "title": "离线授权系统设计：非对称签名上限与吊销分发模型",
+      "category": "security",
+      "status": "insight",
+      "slug": "offline-license-system-design",
+      "created": "2026-10-23",
+      "updated": "2026-10-23"
+    },
+    "sources/onnx-notebook-model-export-pitfalls": {
+      "type": "source",
+      "title": "ONNX 模型本地导出给固定 notebook 用的 4 个坑",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "onnx-notebook-model-export-pitfalls",
+      "created": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    "sources/prepackaged-venv-repair": {
+      "type": "source",
+      "title": "预打包venv异机修复：pyvenv.cfg+fp16复制+路径改写",
+      "category": "devops",
+      "status": "insight",
+      "slug": "prepackaged-venv-repair",
+      "created": "2026-10-25",
+      "updated": "2026-10-25"
+    },
+    "sources/pta-exam-70-ac-full-score": {
+      "type": "source",
+      "title": "PTA SQL考试70题全部AC满分700",
+      "category": "automation",
+      "status": "insight",
+      "slug": "pta-exam-70-ac-full-score",
+      "created": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    "sources/qbittorrent-webui-ini-and-exit-pitfalls": {
+      "type": "source",
+      "title": "qBittorrent 5.x WebUI ini 键位与 GUI 退出三坑",
+      "category": "devops",
+      "status": "insight",
+      "slug": "qbittorrent-webui-ini-and-exit-pitfalls",
+      "created": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    "sources/qq-integration-lock-zero-filled-outage": {
+      "type": "source",
+      "title": "QQ Bot 全线断连根因：lock 文件被写零字节",
+      "category": "devops",
+      "status": "insight",
+      "slug": "qq-integration-lock-zero-filled-outage",
+      "created": "2026-09-28",
+      "updated": "2026-09-28"
+    },
+    "sources/r1-kgqa-degradation-root-cause": {
+      "type": "source",
+      "title": "R1推理模型在KGQA上无法提升的根因",
+      "category": "analylsis",
+      "status": "insight",
+      "slug": "r1-kgqa-degradation-root-cause",
+      "created": "2026-09-13",
+      "updated": "2026-09-13"
+    },
+    "sources/schema-driven-llm-lit-extraction": {
+      "type": "source",
+      "title": "Schema 驱动 LLM 文献抽取：分模块 Prompt + 程序侧校验 + 断言回归",
+      "category": "architecture",
+      "status": "insight",
+      "slug": "schema-driven-llm-lit-extraction",
+      "created": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    "sources/session-json-bracket-repair": {
+      "type": "source",
+      "title": "Session JSON 修复：模型漏闭合符与字符串内插补丁的位置陷阱",
+      "category": "backend",
+      "status": "insight",
+      "slug": "session-json-bracket-repair",
+      "created": "2026-09-27",
+      "updated": "2026-09-27"
+    },
+    "sources/static-courseware-assembly-pipeline": {
+      "type": "source",
+      "title": "静态课件组装流水线：切分旧幻灯+三道校验",
+      "category": "教学课件工程",
+      "status": "insight",
+      "slug": "static-courseware-assembly-pipeline",
+      "created": "2026-10-10",
+      "updated": "2026-10-10"
+    },
+    "sources/subtitle-wrong-video-and-force-whisper": {
+      "type": "source",
+      "title": "字幕张冠李戴事故：归属校验+强制转写双修复",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "subtitle-wrong-video-and-force-whisper",
+      "created": "2026-09-29",
+      "updated": "2026-09-29"
+    },
+    "sources/v1-pack-v2-align-four-blockers": {
+      "type": "source",
+      "title": "V1备料+V2拍后对齐落地：whisperx 三坑与分镜/对齐双链路",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "v1-pack-v2-align-four-blockers",
+      "created": "2026-09-30",
+      "updated": "2026-09-30"
+    },
+    "sources/wbi-mixinkey-join-comma-bug": {
+      "type": "source",
+      "title": "WBI mixinKey 的 join() 逗号 bug：搜索端点不校验 w_rid 掩盖了它数月",
+      "category": "bugfix",
+      "status": "insight",
+      "slug": "wbi-mixinkey-join-comma-bug",
+      "created": "2026-09-29",
+      "updated": "2026-09-29"
+    }
+  }
+}

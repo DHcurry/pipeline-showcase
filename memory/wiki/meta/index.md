@@ -1,0 +1,334 @@
+# Wiki Index
+
+> Auto-generated from meta/registry.json. Do not edit manually.
+
+## Concepts
+
+- [[concepts/艾宾浩斯间隔复习-ebbinghaus-spaced-repetition]] — 艾宾浩斯间隔复习 (Ebbinghaus spaced repetition) *(created: 2026-08-10)*
+- [[concepts/艾宾浩斯遗忘曲线-ebbinghaus-forgetting-curve]] — 艾宾浩斯遗忘曲线 (Ebbinghaus Forgetting Curve) *(created: 2026-08-10)*
+- [[concepts/八大题型分类]] — 八大题型分类 *(created: 2026-08-10)*
+- [[concepts/百分点]] — 百分点 *(created: 2026-08-10)*
+- [[concepts/包罗万象]] — 包罗万象 *(created: 2026-08-10)*
+- [[concepts/倍数]] — 倍数 *(created: 2026-08-10)*
+- [[concepts/倍数特殊表述]] — 倍数特殊表述 *(created: 2026-08-10)*
+- [[concepts/比值增长率]] — 比值增长率 *(created: 2026-08-10)*
+- [[concepts/比重]] — 比重 *(created: 2026-08-10)*
+- [[concepts/必要条件结构]] — 必要条件结构 *(created: 2026-08-10)*
+- [[concepts/标签注册表]] — 标签注册表 *(created: 2026-08-10)*
+- [[concepts/并列递进型]] — 并列递进型 *(created: 2026-08-10)*
+- [[concepts/并列结构]] — 并列结构 *(created: 2026-08-10)*
+- [[concepts/补充结构]] — 补充结构 *(created: 2026-08-10)*
+- [[concepts/插件vs真hermes-技能维护差异]] — 插件vs真Hermes-技能维护差异 *(created: 2026-08-12)*
+- [[concepts/产销率]] — 产销率 *(created: 2026-08-10)*
+- [[concepts/成数翻番]] — 成数/翻番 *(created: 2026-08-10)*
+- [[concepts/成语辨析煞有介事-vs-义正词严]] — 成语辨析（煞有介事 vs 义正词严） *(created: 2026-08-10)*
+- [[concepts/成语辨析型]] — 成语辨析型 *(created: 2026-08-10)*
+- [[concepts/乘积增长率]] — 乘积增长率 *(created: 2026-08-10)*
+- [[concepts/词义边界混淆主脉络与核心]] — 词义边界（混淆主脉络与核心） *(created: 2026-08-10)*
+- [[concepts/词语辨析-word-discrimination]] — 词语辨析 (Word Discrimination) *(created: 2026-08-10)*
+- [[concepts/粗心-carelessness]] — 粗心 (carelessness) *(created: 2026-08-10)*
+- [[concepts/存量指标]] — 存量指标 *(created: 2026-08-10)*
+- [[concepts/错题本-wrong-question-notebook]] — 错题本 (Wrong question notebook) *(created: 2026-08-10)*
+- [[concepts/错题模板-error-note-template]] — 错题模板 (error note template) *(created: 2026-08-10)*
+- [[concepts/错题图谱]] — 错题图谱 *(created: 2026-08-10)*
+- [[concepts/错题图谱-wrong-question-map]] — 错题图谱 (Wrong-Question Map) *(created: 2026-08-10)*
+- [[concepts/错题系统]] — 错题系统 *(created: 2026-08-10)*
+- [[concepts/搭配检验]] — 搭配检验 *(created: 2026-08-10)*
+- [[concepts/大大则大]] — 大大则大 *(created: 2026-08-10)*
+- [[concepts/递进结构]] — 递进结构 *(created: 2026-08-10)*
+- [[concepts/二十大模型]] — 二十大模型 *(created: 2026-08-10)*
+- [[concepts/反义并列型]] — 反义并列型 *(created: 2026-08-10)*
+- [[concepts/分总结构]] — 分总结构 *(created: 2026-08-10)*
+- [[concepts/概念混淆-concept-confusion]] — 概念混淆 (concept confusion) *(created: 2026-08-10)*
+- [[concepts/感情色彩褒义贬义中性]] — 感情色彩（褒义/贬义/中性） *(created: 2026-08-10)*
+- [[concepts/感情色彩分析]] — 感情色彩分析 *(created: 2026-08-10)*
+- [[concepts/干扰项六大类型]] — 干扰项六大类型 *(created: 2026-08-10)*
+- [[concepts/高位叠加]] — 高位叠加 *(created: 2026-08-10)*
+- [[concepts/公式记错-formula-error]] — 公式记错 (formula error) *(created: 2026-08-10)*
+- [[concepts/估算法]] — 估算法 *(created: 2026-08-10)*
+- [[concepts/核心话题]] — 核心话题 *(created: 2026-08-10)*
+- [[concepts/环比]] — 环比 *(created: 2026-08-10)*
+- [[concepts/混合增长率]] — 混合增长率 *(created: 2026-08-10)*
+- [[concepts/基期]] — 基期 *(created: 2026-08-10)*
+- [[concepts/基期现期]] — 基期/现期 *(created: 2026-08-10)*
+- [[concepts/计算失误-calculation-error]] — 计算失误 (calculation error) *(created: 2026-08-10)*
+- [[concepts/间隔基期]] — 间隔基期 *(created: 2026-08-10)*
+- [[concepts/间隔增长率]] — 间隔增长率 *(created: 2026-08-10)*
+- [[concepts/交叉验证]] — 交叉验证 *(created: 2026-08-10)*
+- [[concepts/截位计算]] — 截位计算 *(created: 2026-08-10)*
+- [[concepts/截位修正]] — 截位修正 *(created: 2026-08-10)*
+- [[concepts/解释对应型]] — 解释对应型 *(created: 2026-08-10)*
+- [[concepts/考公错题本]] — 考公错题本 *(created: 2026-08-10)*
+- [[concepts/考公知识库-目录索引]] — 考公知识库-目录索引 *(created: 2026-08-10)*
+- [[concepts/考官派生法-examiner-derivation-method]] — 考官派生法 (Examiner Derivation Method) *(created: 2026-08-10)*
+- [[concepts/考官派生手法]] — 考官派生手法 *(created: 2026-08-10)*
+- [[concepts/坑点层]] — 坑点层 *(created: 2026-08-10)*
+- [[concepts/坑点手册-pitfall-manual]] — 坑点手册 (Pitfall Manual) *(created: 2026-08-10)*
+- [[concepts/利润率]] — 利润率 *(created: 2026-08-10)*
+- [[concepts/两期比例变化]] — 两期比例变化 *(created: 2026-08-10)*
+- [[concepts/流量指标]] — 流量指标 *(created: 2026-08-10)*
+- [[concepts/逻辑填空-logical-fill-in-the-blank]] — 逻辑填空 (Logical Fill-in-the-blank) *(created: 2026-08-10)*
+- [[concepts/逻辑填空解题体系]] — 逻辑填空解题体系 *(created: 2026-08-10)*
+- [[concepts/名义增长与实际增长]] — 名义增长与实际增长 *(created: 2026-08-10)*
+- [[concepts/母题汇总]] — 母题汇总 *(created: 2026-08-10)*
+- [[concepts/逆差]] — 逆差 *(created: 2026-08-10)*
+- [[concepts/年均增长基期]] — 年均增长基期 *(created: 2026-08-10)*
+- [[concepts/年均增长量]] — 年均增长量 *(created: 2026-08-10)*
+- [[concepts/年均增长率]] — 年均增长率 *(created: 2026-08-10)*
+- [[concepts/平均数]] — 平均数 *(created: 2026-08-10)*
+- [[concepts/三层分析法]] — 三层分析法 *(created: 2026-08-10)*
+- [[concepts/三维度辨析法]] — 三维度辨析法 *(created: 2026-08-10)*
+- [[concepts/色彩排除法]] — 色彩排除法 *(created: 2026-08-10)*
+- [[concepts/删除测试]] — 删除测试 *(created: 2026-08-10)*
+- [[concepts/审题不仔细-careless-reading]] — 审题不仔细 (careless reading) *(created: 2026-08-10)*
+- [[concepts/审题三步法]] — 审题三步法 *(created: 2026-08-10)*
+- [[concepts/十字交叉法]] — 十字交叉法 *(created: 2026-08-10)*
+- [[concepts/时间分配不当-poor-time-allocation]] — 时间分配不当 (poor time allocation) *(created: 2026-08-10)*
+- [[concepts/实验目的-vs-实验发现]] — 实验目的 vs 实验发现 *(created: 2026-08-10)*
+- [[concepts/顺差]] — 顺差 *(created: 2026-08-10)*
+- [[concepts/特殊分数法]] — 特殊分数法 *(created: 2026-08-10)*
+- [[concepts/特殊值法]] — 特殊值法 *(created: 2026-08-10)*
+- [[concepts/题型层]] — 题型层 *(created: 2026-08-10)*
+- [[concepts/同比]] — 同比 *(created: 2026-08-10)*
+- [[concepts/同比环比]] — 同比/环比 *(created: 2026-08-10)*
+- [[concepts/维护规则]] — 维护规则 *(created: 2026-08-10)*
+- [[concepts/尾数法]] — 尾数法 *(created: 2026-08-10)*
+- [[concepts/文段拆解三问]] — 文段拆解三问 *(created: 2026-08-10)*
+- [[concepts/无所不包]] — 无所不包 *(created: 2026-08-10)*
+- [[concepts/显性对应与隐性对应]] — 显性对应与隐性对应 *(created: 2026-08-10)*
+- [[concepts/现期]] — 现期 *(created: 2026-08-10)*
+- [[concepts/行测言语理解]] — 行测言语理解 *(created: 2026-08-10)*
+- [[concepts/削峰填谷]] — 削峰填谷 *(created: 2026-08-10)*
+- [[concepts/一搭多验]] — 一搭多验 *(created: 2026-08-10)*
+- [[concepts/一大一小看乘积]] — 一大一小看乘积 *(created: 2026-08-10)*
+- [[concepts/一应俱全]] — 一应俱全 *(created: 2026-08-10)*
+- [[concepts/因果目的型]] — 因果目的型 *(created: 2026-08-10)*
+- [[concepts/引号比喻型]] — 引号比喻型 *(created: 2026-08-10)*
+- [[concepts/隐性反推法]] — 隐性反推法 *(created: 2026-08-10)*
+- [[concepts/应有尽有]] — 应有尽有 *(created: 2026-08-10)*
+- [[concepts/语境对应]] — 语境对应 *(created: 2026-08-10)*
+- [[concepts/语境范围分析]] — 语境范围分析 *(created: 2026-08-10)*
+- [[concepts/增长贡献率与拉动增长率]] — 增长贡献率与拉动增长率 *(created: 2026-08-10)*
+- [[concepts/增长量]] — 增长量 *(created: 2026-08-10)*
+- [[concepts/增长率]] — 增长率 *(created: 2026-08-10)*
+- [[concepts/掌握等级-mastery-levels]] — 掌握等级 (Mastery levels) *(created: 2026-08-10)*
+- [[concepts/政策搭配型]] — 政策搭配型 *(created: 2026-08-10)*
+- [[concepts/知识点层]] — 知识点层 *(created: 2026-08-10)*
+- [[concepts/知识图谱可视化-knowledge-graph-visualization]] — 知识图谱可视化 (knowledge graph visualization) *(created: 2026-08-10)*
+- [[concepts/直除法]] — 直除法 *(created: 2026-08-10)*
+- [[concepts/转折关系型]] — 转折关系型 *(created: 2026-08-10)*
+- [[concepts/转折结构]] — 转折结构 *(created: 2026-08-10)*
+- [[concepts/资料分析]] — 资料分析 *(created: 2026-08-10)*
+- [[concepts/自媒体口播工作台]] — 自媒体口播工作台 *(created: 2026-08-31)*
+- [[concepts/自适应复习系统]] — 自适应复习系统 *(created: 2026-08-10)*
+- [[concepts/总分结构]] — 总分结构 *(created: 2026-08-10)*
+- [[concepts/做题检查流程-answer-checking-workflow]] — 做题检查流程 (Answer-Checking Workflow) *(created: 2026-08-10)*
+- [[concepts/automatic-categorization-via-backlinks]] — Automatic categorization via backlinks *(created: 2026-08-10)*
+- [[concepts/dashboard-数据总览]] — Dashboard (数据总览) *(created: 2026-08-10)*
+- [[concepts/error-type-indexing]] — Error-type indexing *(created: 2026-08-10)*
+- [[concepts/mastery-tracking]] — Mastery tracking *(created: 2026-08-10)*
+- [[concepts/spaced-repetition-review-stages]] — Spaced Repetition Review Stages *(created: 2026-08-10)*
+
+## Entitys
+
+- [[entities/标签注册表]] — 标签注册表 *(created: 2026-08-10)*
+- [[entities/词语辨析库]] — 词语辨析库 *(created: 2026-08-10)*
+- [[entities/错题索引wiki-链接笔记]] — 错题索引（wiki 链接笔记） *(created: 2026-08-10)*
+- [[entities/国考]] — 国考 *(created: 2026-08-10)*
+- [[entities/怀瑾]] — 怀瑾 *(created: 2026-08-10)*
+- [[entities/考公知识库]] — 考公知识库 *(created: 2026-08-10)*
+- [[entities/考官手法]] — 考官手法 *(created: 2026-08-10)*
+- [[entities/逻辑填空]] — 逻辑填空 *(created: 2026-08-10)*
+- [[entities/逻辑填空-坑点]] — 逻辑填空-坑点 *(created: 2026-08-10)*
+- [[entities/逻辑填空解题体系]] — 逻辑填空解题体系 *(created: 2026-08-10)*
+- [[entities/十四五]] — 十四五 *(created: 2026-08-10)*
+- [[entities/宋捏捏]] — 宋捏捏 *(created: 2026-08-10)*
+- [[entities/孙悟空]] — 孙悟空 *(created: 2026-08-10)*
+- [[entities/外交部]] — 外交部 *(created: 2026-08-10)*
+- [[entities/细节判断题-坑点]] — 细节判断题-坑点 *(created: 2026-08-10)*
+- [[entities/细节判断题解题体系]] — 细节判断题解题体系 *(created: 2026-08-10)*
+- [[entities/下文推断题-坑点]] — 下文推断题-坑点 *(created: 2026-08-10)*
+- [[entities/下文推断题解题体系]] — 下文推断题解题体系 *(created: 2026-08-10)*
+- [[entities/行测]] — 行测 *(created: 2026-08-10)*
+- [[entities/言语理解]] — 言语理解 *(created: 2026-08-10)*
+- [[entities/语句排序题-坑点]] — 语句排序题-坑点 *(created: 2026-08-10)*
+- [[entities/语句排序题解题体系]] — 语句排序题解题体系 *(created: 2026-08-10)*
+- [[entities/语句填空题-坑点]] — 语句填空题-坑点 *(created: 2026-08-10)*
+- [[entities/语句填空题解题体系]] — 语句填空题解题体系 *(created: 2026-08-10)*
+- [[entities/主旨题]] — 主旨题 *(created: 2026-08-10)*
+- [[entities/主旨题-坑点]] — 主旨题-坑点 *(created: 2026-08-10)*
+- [[entities/主旨题解题体系]] — 主旨题解题体系 *(created: 2026-08-10)*
+- [[entities/资料分析]] — 资料分析 *(created: 2026-08-10)*
+- [[entities/资料分析-材料分类]] — 资料分析-材料分类 *(created: 2026-08-10)*
+- [[entities/资料分析-坑点]] — 资料分析-坑点 *(created: 2026-08-10)*
+- [[entities/资料分析-知识点体系]] — 资料分析-知识点体系 *(created: 2026-08-10)*
+- [[entities/资料分析一本通]] — 《资料分析一本通》 *(created: 2026-08-10)*
+- [[entities/adderrorpy]] — add_error.py *(created: 2026-08-10)*
+- [[entities/addvocabpy]] — add_vocab.py *(created: 2026-08-10)*
+- [[entities/calendar]] — Calendar *(created: 2026-08-10)*
+- [[entities/chatgpt]] — ChatGPT *(created: 2026-08-10)*
+- [[entities/dataview]] — Dataview *(created: 2026-08-10)*
+- [[entities/deepseek]] — DeepSeek *(created: 2026-08-10)*
+- [[entities/ebbinghauspy]] — ebbinghaus.py *(created: 2026-08-10)*
+- [[entities/hermes]] — Hermes *(created: 2026-08-10)*
+- [[entities/kanban]] — Kanban *(created: 2026-08-10)*
+- [[entities/memory-mcp]] — Memory MCP *(created: 2026-08-10)*
+- [[entities/mimo]] — MiMo *(created: 2026-08-10)*
+- [[entities/minimal-theme]] — Minimal Theme *(created: 2026-08-10)*
+- [[entities/obsidian]] — Obsidian *(created: 2026-08-10)*
+- [[entities/obsidian-dataview]] — Obsidian Dataview *(created: 2026-08-10)*
+- [[entities/visualizegraphpy]] — visualize_graph.py *(created: 2026-08-10)*
+- [[entities/weeklyreviewpy]] — weekly_review.py *(created: 2026-08-10)*
+
+## Sources
+
+- [[sources/android-nodejs-binary-compatibility]] — Android Node.js 二进制兼容性要点 *(created: 2026-08-23)*
+- [[sources/android-nodejs-integration-lessons]] — Android Node.js 集成关键教训 *(created: 2026-08-23)*
+- [[sources/android-pi-agent-final-architecture]] — Android 运行 Pi Agent 的最终架构 *(created: 2026-08-23)*
+- [[sources/bilibili-old-player-endpoint-cid-only-resolution]] — 字幕张冠李戴真根因：老 player/v2 端点按 cid 单键解析（非B站偶发） *(created: 2026-09-29)*
+- [[sources/crlf-detection-and-invisible-chars]] — 行尾检测假阳性与字符串替换引入不可见字符的教训 *(created: 2026-09-27)*
+- [[sources/daily-movie-download-pipeline]] — 教父.com 磁力下载管线：无 tracker 磁力必须附加 tracker + 启动验证 *(created: 2026-10-10)*
+- [[sources/dropout-prediction-f2-pipeline]] — 辍学预测 F-beta(2) 管线的已验证做法 *(created: 2026-10-25)*
+- [[sources/emm-within-loop-refit-rules]] — EMM迭代内refit的三条硬规则（RIM实证） *(created: 2026-10-09)*
+- [[sources/generate-plain-text-and-system-prompt-json-trap]] — generate 纯文本化：system prompt 的"始终输出JSON"才是惯凶 *(created: 2026-09-30)*
+- [[sources/greeting-ai]] — Learned *(created: 2026-08-11)*
+- [[sources/gtx1650-7b-ram-offload-agent]] — 4GB 显卡内存借用方案跑 7B agent *(created: 2026-08-11)*
+- [[sources/gtx1650-llama-cpp-deployment]] — GTX 1650 4GB llama.cpp 本地部署路径 *(created: 2026-08-11)*
+- [[sources/hypit-caption-demo-film-track-order]] — Hypit 词锚字幕 demo 成功：film Track 先声明在顶层（层叠方向坑） *(created: 2026-09-30)*
+- [[sources/hypit-integration-first-light]] — Hypit 集成首战：零凭证全链路出片 + 词锚语法与接入路径 *(created: 2026-09-30)*
+- [[sources/hypit-local-whisperx-byok-setup]] — Hypit 拒绝 HypiHub：本地 WhisperX 全配置链（镜像/BUSY/超时三坑） *(created: 2026-09-30)*
+- [[sources/imitate-style-content-separation]] — 模仿生成内容/风格分离：事实隔离墙与裸key prompt根因 *(created: 2026-09-29)*
+- [[sources/kaogong-kb-restructure-2026-08-13]] — 考公知识库目录结构重构 *(created: 2026-08-13)*
+- [[sources/local-whisper-movie-subtitle-pipeline]] — 本地 Whisper 电影字幕管线：cublas PATH 注入与16倍实时基线 *(created: 2026-10-10)*
+- [[sources/motion-empty-keyframes-and-footage-first]] — 动效空帧根因（LLM引用animation不写@keyframes）与参考视频切片优先 *(created: 2026-09-30)*
+- [[sources/next16-turbopack-bracket-api-route-bug]] — Next 16.3.3 Turbopack 不加载 api 方括号目录的 route handler（Windows） *(created: 2026-09-27)*
+- [[sources/obs-2026-08-10-]] — Observation: 考公知识库更新工作流确认 *(created: 2026-08-10)*
+- [[sources/obs-2026-08-11-esp32]] — Observation: ESP32 桌面机器人项目架构讨论 *(created: 2026-08-11)*
+- [[sources/obs-2026-08-12-]] — Observation: 记录算法三段式与技能"非自动"真相 *(created: 2026-08-12)*
+- [[sources/obs-2026-08-12-ai-ai-portfolio-site]] — Observation: AI 作品集网站 ai-portfolio-site 建成 *(created: 2026-08-12)*
+- [[sources/obs-2026-08-12-pi-hermes-memory]] — Observation: pi-hermes-memory 原理书《记忆的工程学》 *(created: 2026-08-12)*
+- [[sources/obs-2026-08-13-]] — Observation: 考公知识库索引更新完成 *(created: 2026-08-13)*
+- [[sources/obs-2026-08-13-ai-a]] — Observation: AI陈列馆项目优化策略确定：方案A-陈列功能展示 *(created: 2026-08-13)*
+- [[sources/obs-2026-08-13-dataview]] — Observation: 考公知识库 Dataview 统计仪表板完成 *(created: 2026-08-13)*
+- [[sources/obs-2026-08-23-pi-agent-android]] — Observation: Pi Agent Android 模拟器测试成功 *(created: 2026-08-23)*
+- [[sources/obs-2026-08-23-pi-agent-android-apk]] — Observation: Pi Agent Android APK 构建方案 *(created: 2026-08-23)*
+- [[sources/obs-2026-08-23-pi-agent-apk-v3-nodejs-mobile-jni]] — Observation: Pi Agent APK v3: nodejs-mobile JNI 方案成功 *(created: 2026-08-23)*
+- [[sources/obs-2026-08-23-pi-agent-pi-web-chat-android]] — Observation: Pi Agent + pi-web-chat Android 完整运行成功 *(created: 2026-08-23)*
+- [[sources/obs-2026-08-27-javafx]] — Observation: JavaFX课程设计项目完成 *(created: 2026-08-27)*
+- [[sources/obs-2026-08-31-]] — Observation: 自媒体口播工作台设计概念完成 *(created: 2026-08-31)*
+- [[sources/obs-2026-08-31-pi-zip]] — Observation: Pi内容导出到桌面zip包 *(created: 2026-08-31)*
+- [[sources/obs-2026-09-01-gnn-rag-baseline]] — Observation: GNN-RAG baseline 实验环境搭建完成 *(created: 2026-09-01)*
+- [[sources/obs-2026-09-06-kgqa]] — Observation: KGQA研究第二阶段规划完成 *(created: 2026-09-06)*
+- [[sources/obs-2026-09-08-apimimo-flash-gemini-flash-0731-gpt-4o]] — Observation: apimimo 中转别名底模：flash=Gemini、flash-0731=GPT-4o *(created: 2026-09-08)*
+- [[sources/obs-2026-09-08-cc-switch-deepseek-429]] — Observation: cc-switch DeepSeek 中转：上游 429 限流导致间歇性卡住 *(created: 2026-09-08)*
+- [[sources/obs-2026-09-08-mimo-relay-anthropic-claude]] — Observation: mimo-relay 底模验证：实际运行在 Anthropic Claude 上 *(created: 2026-09-08)*
+- [[sources/obs-2026-09-09-webqsp]] — Observation: WebQSP原始数据与项目数据一致性验证完成 *(created: 2026-09-09)*
+- [[sources/obs-2026-09-10-mmap]] — Observation: MMAP 思维导图开源查看方案部署完成 *(created: 2026-09-10)*
+- [[sources/obs-2026-09-11-deepseek-r1-8b]] — Observation: DeepSeek-R1-8B 本地部署成功 *(created: 2026-09-11)*
+- [[sources/obs-2026-09-14-agent-kg]] — Observation: Agent+KG最新论文调研完成 *(created: 2026-09-14)*
+- [[sources/obs-2026-09-14-ai-agent]] — Observation: 农产品AI Agent论文写作任务启动 *(created: 2026-09-14)*
+- [[sources/obs-2026-09-16-geka-agent]] — Observation: GEKA农产品智能问答Agent系统项目完成 *(created: 2026-09-16)*
+- [[sources/obs-2026-09-20-cv5-vs-bic-full-experiment-launched]] — Observation: CV5 vs BIC full experiment launched *(created: 2026-09-20)*
+- [[sources/obs-2026-09-22-content-creator-ai-infrastructure-refactored-to-pi-agent-sdk]] — Observation: Content Creator AI Infrastructure Refactored to Pi Agent SDK *(created: 2026-09-22)*
+- [[sources/obs-2026-09-22-content-creator-backend-fully-rewritten-in-typescript]] — Observation: Content Creator Backend Fully Rewritten in TypeScript *(created: 2026-09-22)*
+- [[sources/obs-2026-09-22-content-creator-workspace-project-analysis]] — Observation: Content Creator Workspace Project Analysis *(created: 2026-09-22)*
+- [[sources/obs-2026-09-22-v4]] — Observation: 教学方案V4完成 *(created: 2026-09-22)*
+- [[sources/obs-2026-09-22-v5]] — Observation: V5主线从历史重构为应用能力 *(created: 2026-09-22)*
+- [[sources/obs-2026-09-23-]] — Observation: 可视化幻灯版演示页交付 *(created: 2026-09-23)*
+- [[sources/obs-2026-09-23-v8]] — Observation: V8体系结构主线方案完成 *(created: 2026-09-23)*
+- [[sources/obs-2026-09-23-v9]] — Observation: V9五游戏嵌入与改造完成 *(created: 2026-09-23)*
+- [[sources/obs-2026-09-28-emm-m-typei-m1]] — Observation: EMM第二M步修复验证：机制修复成功但TypeI根因在M1阈值 *(created: 2026-09-28)*
+- [[sources/obs-2026-09-28-qq-bot-7200-leader]] — Observation: QQ Bot 断连已修复：坏锁改名后 7200 接管 leader *(created: 2026-09-28)*
+- [[sources/obs-2026-09-29-]] — Observation: 三层日志系统（后端落盘+客户端上报+全局异常钩子）落地 *(created: 2026-09-29)*
+- [[sources/obs-2026-09-29-70-30]] — Observation: 素材入框协议+生成自检+70/30风格融合三项落地 *(created: 2026-09-29)*
+- [[sources/obs-2026-09-29-eta-100-typei-0-26-power-0-72]] — Observation: eta网格扩到100：TypeI减半至0.26但Power降至0.72 *(created: 2026-09-29)*
+- [[sources/obs-2026-09-29-upvideos-12-schema]] — Observation: 风格档案三通道（蒸馏/导入/upvideos拉取）+12字段统一schema落地 *(created: 2026-09-29)*
+- [[sources/obs-2026-09-30-emm-typei-0-495-0-135-power-0-894-0-934]] — Observation: EMM两轮修复完成：TypeI 0.495→0.135，Power 0.894→0.934 *(created: 2026-09-30)*
+- [[sources/obs-2026-09-30-github-dhcurry-content-creator-workspace]] — Observation: GitHub迁移完成：DHcurry/content-creator-workspace（密钥零泄漏） *(created: 2026-09-30)*
+- [[sources/obs-2026-09-30-html-llm-html-hypit]] — Observation: HTML动效管线闭环：LLM动态HTML→hypit录制→分镜卡展示 *(created: 2026-09-30)*
+- [[sources/obs-2026-09-30-kv]] — Observation: KV缓存命中率诊断：冷启动+新内容当轮不命中所致 *(created: 2026-09-30)*
+- [[sources/obs-2026-10-09-8-3100]] — Observation: 研究二阶段性汇报出具：8组实验3100次拟合全部完成 *(created: 2026-10-09)*
+- [[sources/obs-2026-10-10-loop-1-20-00]] — Observation: 每日电影自动下载系统上线（Loop #1 每天20:00） *(created: 2026-10-10)*
+- [[sources/obs-2026-10-10-uu-windows-wol-bios]] — Observation: UU远程开机诊断：Windows侧WOL全对，疑点在BIOS与校园网辅助设备 *(created: 2026-10-10)*
+- [[sources/obs-2026-10-10-windows-3]] — Observation: Windows两节课课件三件套+3新游戏全套交付 *(created: 2026-10-10)*
+- [[sources/obs-2026-10-10-windows-v2]] — Observation: Windows课件V2：手机类比+讲解/练习分工改版完成 *(created: 2026-10-10)*
+- [[sources/obs-2026-10-10-windows-v3-w1-w2]] — Observation: Windows课件V3：W1纯讲演、W2三场景对照练习 *(created: 2026-10-10)*
+- [[sources/obs-2026-10-10-windows-v4-top10]] — Observation: Windows课件V4：学会看设置三步法+高频Top10技能 *(created: 2026-10-10)*
+- [[sources/obs-2026-10-11-2026-10-gpu-v3-2]] — Observation: 2026-10 GPU算力行情与 V3.2 部署方案 *(created: 2026-10-11)*
+- [[sources/obs-2026-10-11-671b-deepseek]] — Observation: 671B 全量 DeepSeek 本地部署最低成本方案调研 *(created: 2026-10-11)*
+- [[sources/obs-2026-10-11-671b-ktransformers]] — Observation: 二手卡混合跑671B：价格与ktransformers实测 *(created: 2026-10-11)*
+- [[sources/obs-2026-10-14-r]] — Observation: R系列两节课：五幕角色扮演剧课件交付完成 *(created: 2026-10-14)*
+- [[sources/obs-2026-10-14-s]] — Observation: S系列设计定稿与课前准备包（含一键脚本实测） *(created: 2026-10-14)*
+- [[sources/obs-2026-10-14-s1-5]] — Observation: S1知识体系课交付：四域体系+本机真图5张嵌入 *(created: 2026-10-14)*
+- [[sources/obs-2026-10-14-s2]] — Observation: S2服务台课补齐：四委托单按四域验收，完整两课包已发 *(created: 2026-10-14)*
+- [[sources/obs-2026-10-15-]] — Observation: 研究二换机交接包与交接说明已发出 *(created: 2026-10-15)*
+- [[sources/obs-2026-10-15-ffmpeg-mtx]] — Observation: FFmpeg完整版含MTX 项目解压并运行成功 *(created: 2026-10-15)*
+- [[sources/obs-2026-10-15-lubot-tk-ffmpeg-mtx]] — Observation: LuBot(TK奥德彪)与FFmpeg+MTX为同一项目，已整合到桌面 *(created: 2026-10-15)*
+- [[sources/obs-2026-10-18-tk]] — Observation: TK直播可视化控制台(按钮)构建完成并全链路验证 *(created: 2026-10-18)*
+- [[sources/obs-2026-10-19-2026-10]] — Observation: 自媒体变现与信息差渠道调研（2026-10） *(created: 2026-10-19)*
+- [[sources/obs-2026-10-19-5-fast]] — Observation: 环境配置脚本+真实摄像头5%合层推流完成，fast档实现实时 *(created: 2026-10-19)*
+- [[sources/obs-2026-10-19-lubot-tk-cam-5-blend]] — Observation: LuBot TK Cam 取流+真实摄像头5%合层完成，blend方向坑修复 *(created: 2026-10-19)*
+- [[sources/obs-2026-10-20-ffmpeg-lubot-tk-cam-5]] — Observation: ffmpeg包装器注入LuBot内部管线成功：TK Cam自带5%摄像头合层 *(created: 2026-10-20)*
+- [[sources/obs-2026-10-21-lubot-txt-rtmp-tk-cam-fast-1-0x]] — Observation: LuBot底层已替换为txt脚本管线：RTMP双输出+TK Cam保住，fast档1.0x实时 *(created: 2026-10-21)*
+- [[sources/obs-2026-10-21-t]] — Observation: T系列练手两课交付：全员闯关+三幕角色扮演大戏 *(created: 2026-10-21)*
+- [[sources/obs-2026-10-21-t1]] — Observation: T1改版：我的电脑探索课，环境差异变宝藏零素材依赖 *(created: 2026-10-21)*
+- [[sources/obs-2026-10-22-rea-6-7-0-npm-pi-mcp-ghidra]] — Observation: REA 6.7.0 经 npm 装好并注册进 pi（MCP+技能），缺 Ghidra 引擎 *(created: 2026-10-22)*
+- [[sources/obs-2026-10-22-rea-ghidra-tkcore-5153-3266]] — Observation: REA+Ghidra系统完成：tkcore首析5153函数/3266字符串 *(created: 2026-10-22)*
+- [[sources/obs-2026-10-22-tgm2-c-lox-n-20]] — Observation: TGM2"C组低"不可证：LOX替代叙事+功效测算(n≈20/组仍翻不了方向) *(created: 2026-10-22)*
+- [[sources/obs-2026-10-22-tgm2-m1-run-c-ns-ppi]] — Observation: TGM2蛋白组分析：M1失败run剔除后C组略高(ns)，选题依据改走PPI/富集 *(created: 2026-10-22)*
+- [[sources/obs-2026-10-22-tkcore-exe-qt6-cuda-cpu-mediamtx]] — Observation: tkcore.exe 架构读取完成：Qt6六层结构+CUDA/CPU双管线+MediaMTX自管理 *(created: 2026-10-22)*
+- [[sources/obs-2026-10-23-ed25519-15]] — Observation: 自建卡密系统交付：Ed25519离线授权+网页面板，15项测试全过 *(created: 2026-10-23)*
+- [[sources/obs-2026-10-23-tk-photoimage-data-base64-ppm-png]] — Observation: 直播工坊预览黑屏修复：Tk PhotoImage data=不认base64 PPM，换PNG帧流 *(created: 2026-10-23)*
+- [[sources/obs-2026-10-23-v1-0-txt]] — Observation: 直播工坊v1.0交付：自有txt管线+卡密授权的原创桌面软件 *(created: 2026-10-23)*
+- [[sources/obs-2026-10-25-genai-4-e-genai-lab]] — Observation: GenAI实验课4实验完成，交付物在E:\GenAI_lab\实验报告 *(created: 2026-10-25)*
+- [[sources/obs-2026-10-25-hudk4050]] — Observation: HUDK4050 辍学预测挑战：数据结构与基线管线完成 *(created: 2026-10-25)*
+- [[sources/obs-2026-10-26-v1-1-12]] — Observation: 直播工坊v1.1交付：图层/摄像头/中继/持久化全对齐，12项测试过 *(created: 2026-10-26)*
+- [[sources/obs-2026-10-27-v1-1-1]] — Observation: 直播工坊v1.1.1：摄像头后台扫描+看门狗，设置改动防抖实时重启 *(created: 2026-10-27)*
+- [[sources/obs-2026-10-28-]] — Observation: 选片八路品类体系与闸门工程教训（黑名单勿用剧场版/裸词地球） *(created: 2026-10-28)*
+- [[sources/obs-2026-10-28-19]] — Observation: 希冀零代码图像分类实验自动化完成：三实验真实数据+19截图报告交付 *(created: 2026-10-28)*
+- [[sources/obs-2026-10-28-deepseek-llm]] — Observation: 字幕主链切换 DeepSeek LLM 意译（脱口秀人设+机翻兜底） *(created: 2026-10-28)*
+- [[sources/obs-2026-10-28-model-onnx-90]] — Observation: 实验一 model.onnx 本地训练导出并验证通过（识别率90%） *(created: 2026-10-28)*
+- [[sources/obs-2026-10-28-qq-pi-tui-peerdeps]] — Observation: QQ 链路验证通过；pi-tui 依赖声明改为 peerDeps *(created: 2026-10-28)*
+- [[sources/obs-2026-10-29-v1-2-307mb-exe-bat]] — Observation: 直播工坊v1.2打包交付：307MB全内置独立exe+安装bat，实测通过 *(created: 2026-10-29)*
+- [[sources/obs-2026-10-30-word]] — Observation: Word排版两节课重构：演示跟做+构图把关 *(created: 2026-10-30)*
+- [[sources/obs-2026-10-30-word-30]] — Observation: Word排版实操课教案完成（30个字高级审美训练） *(created: 2026-10-30)*
+- [[sources/obs-2026-10-30-word-v3-6]] — Observation: Word排版V3：诗词大会单一主题贯穿6页 *(created: 2026-10-30)*
+- [[sources/obs-2026-10-31-ubuntu-systemd-e2e]] — Observation: 卡密系统上云：Ubuntu systemd部署+远程签发本地验证E2E通过 *(created: 2026-10-31)*
+- [[sources/obs-2026-11-01-pta-69-1]] — Observation: PTA考试69题答案齐备但超时未交，仅第1题得分 *(created: 2026-11-01)*
+- [[sources/obs-2026-11-01-v2-0-e2e-v2]] — Observation: v2.0推进：卡密在线激活E2E过+城市环境助手+v2骨架+虚拟摄像头接口 *(created: 2026-11-01)*
+- [[sources/obs-2026-11-01-vbot-tkcore-exe-ffmpeg]] — Observation: VBot(天寅直播助手)tkcore.exe 内嵌与用户脚本同构的 ffmpeg 模板 *(created: 2026-11-01)*
+- [[sources/obs-2026-11-02-]] — Observation: 虚拟摄像头打通：接收端先行握手+分辨率限制+三次假阳性教训 *(created: 2026-11-02)*
+- [[sources/obs-2026-11-02-8]] — Observation: 科研文献字段抽取作业完成：8篇高熵氧化物论文结构化提取 *(created: 2026-11-02)*
+- [[sources/obs-2026-11-02-mit]] — Observation: 自研竖屏虚拟摄像头完成：MIT源码改造+表头插竖屏+两处换装坑 *(created: 2026-11-02)*
+- [[sources/obs-2026-11-02-vbot-v2-12-12]] — Observation: VBot取证v2：算法相似度量化12/12指纹，弃用本机文件时间 *(created: 2026-11-02)*
+- [[sources/obs-2026-11-03-v2-0-device-code-powershell-1-36-verdict-ok]] — Observation: v2.0卡顿根因：device_code每秒起PowerShell卡1.36秒，缓存后VERDICT=OK *(created: 2026-11-03)*
+- [[sources/obs-2026-11-03-vbot-v3]] — Observation: VBot证据包v3：第四代算法基准+逐文件哈希+★证据单独标注 *(created: 2026-11-03)*
+- [[sources/obs-2026-11-04-vbot1-7-7-lubot-77-2]] — Observation: VBot1.7.7↔LuBot相似度77.2%+痕迹清单+通路结论 *(created: 2026-11-04)*
+- [[sources/offline-license-system-design]] — 离线授权系统设计：非对称签名上限与吊销分发模型 *(created: 2026-10-23)*
+- [[sources/onnx-notebook-model-export-pitfalls]] — ONNX 模型本地导出给固定 notebook 用的 4 个坑 *(created: 2026-10-28)*
+- [[sources/prepackaged-venv-repair]] — 预打包venv异机修复：pyvenv.cfg+fp16复制+路径改写 *(created: 2026-10-25)*
+- [[sources/pta-exam-70-ac-full-score]] — PTA SQL考试70题全部AC满分700 *(created: 2026-11-02)*
+- [[sources/qbittorrent-webui-ini-and-exit-pitfalls]] — qBittorrent 5.x WebUI ini 键位与 GUI 退出三坑 *(created: 2026-10-10)*
+- [[sources/qq-integration-lock-zero-filled-outage]] — QQ Bot 全线断连根因：lock 文件被写零字节 *(created: 2026-09-28)*
+- [[sources/r1-kgqa-degradation-root-cause]] — R1推理模型在KGQA上无法提升的根因 *(created: 2026-09-13)*
+- [[sources/schema-driven-llm-lit-extraction]] — Schema 驱动 LLM 文献抽取：分模块 Prompt + 程序侧校验 + 断言回归 *(created: 2026-11-02)*
+- [[sources/session-json-bracket-repair]] — Session JSON 修复：模型漏闭合符与字符串内插补丁的位置陷阱 *(created: 2026-09-27)*
+- [[sources/SRC-2026-08-10-001]] — README.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-002]] — 首页.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-003]] — 标签注册表.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-004]] — 错题图谱.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-005]] — README.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-006]] — README.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-007]] — INDEX.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-008]] — 主旨题解题体系.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-009]] — 逻辑填空解题体系.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-010]] — 资料分析-知识点体系.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-011]] — 2026-07-02-AI重塑生活-煞有介事.md *(created: unknown)*
+- [[sources/SRC-2026-08-10-012]] — 一应俱全vs应有尽有vs无所不包vs包罗万象.md *(created: unknown)*
+- [[sources/static-courseware-assembly-pipeline]] — 静态课件组装流水线：切分旧幻灯+三道校验 *(created: 2026-10-10)*
+- [[sources/subtitle-wrong-video-and-force-whisper]] — 字幕张冠李戴事故：归属校验+强制转写双修复 *(created: 2026-09-29)*
+- [[sources/v1-pack-v2-align-four-blockers]] — V1备料+V2拍后对齐落地：whisperx 三坑与分镜/对齐双链路 *(created: 2026-09-30)*
+- [[sources/wbi-mixinkey-join-comma-bug]] — WBI mixinKey 的 join() 逗号 bug：搜索端点不校验 w_rid 掩盖了它数月 *(created: 2026-09-29)*
+
+---
+*Last updated: 2026-11-04T14:20:44.012Z* | *Total pages: 319*

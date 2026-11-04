@@ -1,0 +1,128 @@
+# concepts
+
+## Concepts
+
+- [Automatic categorization via backlinks](automatic-categorization-via-backlinks.md) — Linking each wrong question to a knowledge-system note so the index can classify it automatically.
+- [Dashboard (数据总览)](dashboard-%E6%95%B0%E6%8D%AE%E6%80%BB%E8%A7%88.md) — A Dataview-based overview page aggregating counts, recent entries, error types, and module breakdowns.
+- [Error-type indexing](error-type-indexing.md) — Organizing wrong questions by their error type so recurring mistake patterns become visible.
+- [Mastery tracking](mastery-tracking.md) — Using a mastery field (e.g., mastery = 0) to flag questions not yet mastered for review.
+- [Spaced Repetition Review Stages](spaced-repetition-review-stages.md) — A stage-based review system (stages below 6 are scheduled) that spaces reviews of each word group over time.
+- [一大一小看乘积](%E4%B8%80%E5%A4%A7%E4%B8%80%E5%B0%8F%E7%9C%8B%E4%B9%98%E7%A7%AF.md) — 现期量与增长率一大一小时，比较两者乘积，乘积大的增长量大
+- [一应俱全](%E4%B8%80%E5%BA%94%E4%BF%B1%E5%85%A8.md) — 强调'该有的都有'的齐备性，适用于商品、设施、物品齐全的场景。
+- [一搭多验](%E4%B8%80%E6%90%AD%E5%A4%9A%E9%AA%8C.md) — 用某一空与多个搭配对象逐一验证，以快速排除搭配不当选项。
+- [三层分析法](%E4%B8%89%E5%B1%82%E5%88%86%E6%9E%90%E6%B3%95.md) — 逻辑填空核心框架：语境分析（定方向）→逻辑关系（找线索）→词语辨析（锁答案）。
+- [三维度辨析法](%E4%B8%89%E7%BB%B4%E5%BA%A6%E8%BE%A8%E6%9E%90%E6%B3%95.md) — 从语义侧重、适用场景、程度三个维度区分近义成语的辨析方法，其中语义侧重维度最重要。
+- [两期比例变化](%E4%B8%A4%E6%9C%9F%E6%AF%94%E4%BE%8B%E5%8F%98%E5%8C%96.md) — a>b比例上升、a<b比例下降、a=b不变；比重变化量=(A/B)×(a-b)/(1+a)
+- [乘积增长率](%E4%B9%98%E7%A7%AF%E5%A2%9E%E9%95%BF%E7%8E%87.md) — r = r₁ + r₂ + r₁×r₂，用于总量=单价×数量情形
+- [二十大模型](%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%A8%A1%E5%9E%8B.md) — The book's framework of 20 canonical Data Analysis question models, each mapped to a dedicated page range.
+- [交叉验证](%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81.md) — 当两个独立技巧推导出同一答案时，该答案可靠性极高的验证方法。
+- [产销率](%E4%BA%A7%E9%94%80%E7%8E%87.md) — 销量 / 产量
+- [估算法](%E4%BC%B0%E7%AE%97%E6%B3%95.md) — 选项差距≥10%时，所有数值保留前2位有效数字
+- [倍数](%E5%80%8D%E6%95%B0.md) — Multiple ratio comparing one quantity to another.
+- [倍数特殊表述](%E5%80%8D%E6%95%B0%E7%89%B9%E6%AE%8A%E8%A1%A8%E8%BF%B0.md) — 「A是B的n倍」A/B=n，而「A比B多n倍」A/B=n+1，为易错点
+- [做题检查流程 (Answer-Checking Workflow)](%E5%81%9A%E9%A2%98%E6%A3%80%E6%9F%A5%E6%B5%81%E7%A8%8B-answer-checking-workflow.md) — The four-step process: identify question type, open the matching manual, eliminate traps per the manual, then reverse-derive the distractors.
+- [八大题型分类](%E5%85%AB%E5%A4%A7%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB.md) — 将逻辑填空错题划分为转折、并列递进、反义并列、解释对应、因果目的、成语辨析、政策搭配、引号比喻八类的分类索引体系。
+- [公式记错 (formula error)](%E5%85%AC%E5%BC%8F%E8%AE%B0%E9%94%99-formula-error.md) — Error type of inaccurate formula recall; improved by understanding derivations and periodic recitation.
+- [分总结构](%E5%88%86%E6%80%BB%E7%BB%93%E6%9E%84.md) — 前文铺垫背景/问题/原因，尾句用'因此/可见/总之/可以说'引出结论的结构，主旨看尾句。
+- [删除测试](%E5%88%A0%E9%99%A4%E6%B5%8B%E8%AF%95.md) — 把'此外'等补充部分删掉检验核心论证是否仍成立的方法，成立则说明其为补充而非主旨。
+- [利润率](%E5%88%A9%E6%B6%A6%E7%8E%87.md) — 资料分析口径为 利润总额/营业收入，非成本利润率
+- [削峰填谷](%E5%89%8A%E5%B3%B0%E5%A1%AB%E8%B0%B7.md) — Estimation technique that balances high and low values for easier mental calculation.
+- [包罗万象](%E5%8C%85%E7%BD%97%E4%B8%87%E8%B1%A1.md) — 强调内容丰富、门类多、覆盖广度大，适用于学科、内容、范围广的场景。
+- [十字交叉法](%E5%8D%81%E5%AD%97%E4%BA%A4%E5%8F%89%E6%B3%95.md) — Cross-multiplication method for solving mixed-rate and ratio problems.
+- [反义并列型](%E5%8F%8D%E4%B9%89%E5%B9%B6%E5%88%97%E5%9E%8B.md) — '不再A而是B'结构要求A与B严格反义，需先锁定反义更明确的一空。
+- [同比](%E5%90%8C%E6%AF%94.md) — 与上年同期相比
+- [同比/环比](%E5%90%8C%E6%AF%94%E7%8E%AF%E6%AF%94.md) — Year-over-year comparison vs. period-over-period (chain) comparison used to describe change in statistics.
+- [名义增长与实际增长](%E5%90%8D%E4%B9%89%E5%A2%9E%E9%95%BF%E4%B8%8E%E5%AE%9E%E9%99%85%E5%A2%9E%E9%95%BF.md) — Nominal growth vs. real (inflation-adjusted) growth distinction.
+- [因果目的型](%E5%9B%A0%E6%9E%9C%E7%9B%AE%E7%9A%84%E5%9E%8B.md) — 后文目的/结果要求前文手段必须能达成该目的，用于反向验证选词。
+- [坑点层](%E5%9D%91%E7%82%B9%E5%B1%82.md) — Tag layer mapping tags to examiner-trick (pitfall) files that describe common wrong-answer traps.
+- [坑点手册 (Pitfall Manual)](%E5%9D%91%E7%82%B9%E6%89%8B%E5%86%8C-pitfall-manual.md) — A per-question-type checklist of common traps with an answering/checking process used to eliminate options one by one.
+- [基期](%E5%9F%BA%E6%9C%9F.md) — 题目要求的早于现期的时间
+- [基期/现期](%E5%9F%BA%E6%9C%9F%E7%8E%B0%E6%9C%9F.md) — Base period (reference period) and current period (present period) used in growth calculations.
+- [增长率](%E5%A2%9E%E9%95%BF%E7%8E%87.md) — Growth rate, computed as growth amount divided by base period value.
+- [增长贡献率与拉动增长率](%E5%A2%9E%E9%95%BF%E8%B4%A1%E7%8C%AE%E7%8E%87%E4%B8%8E%E6%8B%89%E5%8A%A8%E5%A2%9E%E9%95%BF%E7%8E%87.md) — Metrics measuring how much a component contributes to overall growth.
+- [增长量](%E5%A2%9E%E9%95%BF%E9%87%8F.md) — Growth amount, equal to current period minus base period, or base period times growth rate.
+- [大大则大](%E5%A4%A7%E5%A4%A7%E5%88%99%E5%A4%A7.md) — 现期量大且增长率大时，增长量一定大
+- [存量指标](%E5%AD%98%E9%87%8F%E6%8C%87%E6%A0%87.md) — 某个时点的瞬时数值，如年末存款余额、月末库存
+- [实验目的 vs 实验发现](%E5%AE%9E%E9%AA%8C%E7%9B%AE%E7%9A%84-vs-%E5%AE%9E%E9%AA%8C%E5%8F%91%E7%8E%B0.md) — 实验目的是'为什么做实验'（探索/研究+宏观目标），实验发现是'结果说明什么'（如何/怎样+具体机制）。
+- [审题三步法](%E5%AE%A1%E9%A2%98%E4%B8%89%E6%AD%A5%E6%B3%95.md) — The book's three-step method for reviewing/analyzing question stems before solving.
+- [审题不仔细 (careless reading)](%E5%AE%A1%E9%A2%98%E4%B8%8D%E4%BB%94%E7%BB%86-careless-reading.md) — Error type of misreading question requirements; improved by circling keywords and reading questions twice.
+- [尾数法](%E5%B0%BE%E6%95%B0%E6%B3%95.md) — Addition/subtraction shortcut using the final digits of numbers.
+- [干扰项六大类型](%E5%B9%B2%E6%89%B0%E9%A1%B9%E5%85%AD%E5%A4%A7%E7%B1%BB%E5%9E%8B.md) — 片面、以偏概全、偷换重心、过程当结论、无中生有、偷换概念，用于排除选项陷阱。
+- [平均数](%E5%B9%B3%E5%9D%87%E6%95%B0.md) — Average value computed from a set of statistical figures.
+- [年均增长基期](%E5%B9%B4%E5%9D%87%E5%A2%9E%E9%95%BF%E5%9F%BA%E6%9C%9F.md) — 普通时间段基期=起始年；五年规划基期=规划前一年
+- [年均增长率](%E5%B9%B4%E5%9D%87%E5%A2%9E%E9%95%BF%E7%8E%87.md) — Average annual growth rate over multiple years.
+- [年均增长量](%E5%B9%B4%E5%9D%87%E5%A2%9E%E9%95%BF%E9%87%8F.md) — (现期量 - 基期量) / n，n为年份差
+- [并列结构](%E5%B9%B6%E5%88%97%E7%BB%93%E6%9E%84.md) — 用'一方面…另一方面'等标志或多角度展开的结构，无明确中心句，需自行概括共性。
+- [并列递进型](%E5%B9%B6%E5%88%97%E9%80%92%E8%BF%9B%E5%9E%8B.md) — 并列找近义、递进找程度加重的题型，含并列因果倒置、并列+转折组合、双向vs单向等陷阱。
+- [应有尽有](%E5%BA%94%E6%9C%89%E5%B0%BD%E6%9C%89.md) — 强调'没有遗漏'的齐备性，适用于设备、功能、种类齐全的场景。
+- [引号比喻型](%E5%BC%95%E5%8F%B7%E6%AF%94%E5%96%BB%E5%9E%8B.md) — 引号内比喻义/比喻实词的题型，引号仅放宽搭配限制而不改变词义核心侧重点。
+- [必要条件结构](%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6%E7%BB%93%E6%9E%84.md) — '只有A才B/必须…才能…'结构，A是核心对策/前提，B是结果，重点在A。
+- [总分结构](%E6%80%BB%E5%88%86%E7%BB%93%E6%9E%84.md) — 首句即观点、后文为解释/举例/原因的结构，主旨看首句，需从总起句中找主题词。
+- [感情色彩分析](%E6%84%9F%E6%83%85%E8%89%B2%E5%BD%A9%E5%88%86%E6%9E%90.md) — 语境分析第一层：根据褒义/贬义/中性标志词排除色彩不符的选项。
+- [感情色彩（褒义/贬义/中性）](%E6%84%9F%E6%83%85%E8%89%B2%E5%BD%A9%E8%A4%92%E4%B9%89%E8%B4%AC%E4%B9%89%E4%B8%AD%E6%80%A7.md) — 词语所附带的褒奖、贬抑或中立的情感倾向，用于逻辑填空的色彩排除
+- [成数/翻番](%E6%88%90%E6%95%B0%E7%BF%BB%E7%95%AA.md) — 1成=10%；翻n番=原数×2ⁿ
+- [成语辨析型](%E6%88%90%E8%AF%AD%E8%BE%A8%E6%9E%90%E5%9E%8B.md) — 四个选项全为成语、需区分近义成语差异的题型。
+- [成语辨析（煞有介事 vs 义正词严）](%E6%88%90%E8%AF%AD%E8%BE%A8%E6%9E%90%E7%85%9E%E6%9C%89%E4%BB%8B%E4%BA%8B-vs-%E4%B9%89%E6%AD%A3%E8%AF%8D%E4%B8%A5.md) — 辨析外观相似（态度严肃）但感情色彩相反的两个成语：前者假装正经含讽刺，后者理直气壮为褒义
+- [截位修正](%E6%88%AA%E4%BD%8D%E4%BF%AE%E6%AD%A3.md) — 选项差距<5%时，分母截位后反向修正误差
+- [截位计算](%E6%88%AA%E4%BD%8D%E8%AE%A1%E7%AE%97.md) — Truncation-based calculation that reduces digits to simplify multiplication/division.
+- [掌握等级 (Mastery levels)](%E6%8E%8C%E6%8F%A1%E7%AD%89%E7%BA%A7-mastery-levels.md) — Six-level ladder (新学/初识/熟悉/掌握/熟练/精通) mapping correct-answer counts to push intervals from 1 to 30 days.
+- [插件vs真Hermes-技能维护差异](%E6%8F%92%E4%BB%B6vs%E7%9C%9Fhermes-%E6%8A%80%E8%83%BD%E7%BB%B4%E6%8A%A4%E5%B7%AE%E5%BC%82.md)
+- [搭配检验](%E6%90%AD%E9%85%8D%E6%A3%80%E9%AA%8C.md) — 通过词语与宾语的典型搭配（如'煞有介事地标注'）判断选项是否成立的验证方法
+- [政策搭配型](%E6%94%BF%E7%AD%96%E6%90%AD%E9%85%8D%E5%9E%8B.md) — 政策类文段有固定官方表述（如'担纲主力''目标引领''XX驱动发展'），需专项积累。
+- [文段拆解三问](%E6%96%87%E6%AE%B5%E6%8B%86%E8%A7%A3%E4%B8%89%E9%97%AE.md) — 阅读任何文段先回答三问：讲什么（锁定话题）、怎么讲（判断结构）、想说什么（定位中心句），顺序不可乱。
+- [无所不包](%E6%97%A0%E6%89%80%E4%B8%8D%E5%8C%85.md) — 强调'全部包含'、完全没有遗漏，程度最重、表述绝对，适用于知识、内容范围极广的场景。
+- [时间分配不当 (poor time allocation)](%E6%97%B6%E9%97%B4%E5%88%86%E9%85%8D%E4%B8%8D%E5%BD%93-poor-time-allocation.md) — Error type of spending too long on one question; improved by strict timing and easy-first ordering.
+- [显性对应与隐性对应](%E6%98%BE%E6%80%A7%E5%AF%B9%E5%BA%94%E4%B8%8E%E9%9A%90%E6%80%A7%E5%AF%B9%E5%BA%94.md) — 显性对应靠关联词直接在前后文找反义/近义；隐性对应无明显信号，需结合句间逻辑推导。
+- [标签注册表](%E6%A0%87%E7%AD%BE%E6%B3%A8%E5%86%8C%E8%A1%A8.md) — Controlled-vocabulary registry of tags that must be used for tagging wrong questions, with strict no-invention rules.
+- [核心话题](%E6%A0%B8%E5%BF%83%E8%AF%9D%E9%A2%98.md) — 文段自始至终围绕展开的主体，通过反复出现的关键词识别，区别于背景信息和举例信息。
+- [概念混淆 (concept confusion)](%E6%A6%82%E5%BF%B5%E6%B7%B7%E6%B7%86-concept-confusion.md) — Error type where similar concepts are mixed up; improved by comparative memorization and concrete examples.
+- [母题汇总](%E6%AF%8D%E9%A2%98%E6%B1%87%E6%80%BB.md) — Compilation of 500 'mother' practice questions organized into 8 sections by test point.
+- [比值增长率](%E6%AF%94%E5%80%BC%E5%A2%9E%E9%95%BF%E7%8E%87.md) — r = (a-b)/(1+b)，用于平均数/比值的同比增速
+- [比重](%E6%AF%94%E9%87%8D.md) — Proportion/share of a part within a whole in statistical data.
+- [流量指标](%E6%B5%81%E9%87%8F%E6%8C%87%E6%A0%87.md) — 一段时期的累计发生额，如全年GDP、1-6月社零
+- [混合增长率](%E6%B7%B7%E5%90%88%E5%A2%9E%E9%95%BF%E7%8E%87.md) — Growth rate of a combined whole given growth rates of its parts.
+- [特殊值法](%E7%89%B9%E6%AE%8A%E5%80%BC%E6%B3%95.md) — Using convenient special values (fractions/percentages) to speed up calculations.
+- [特殊分数法](%E7%89%B9%E6%AE%8A%E5%88%86%E6%95%B0%E6%B3%95.md) — 增长率≈1/n时，增长量=现期/(n+1)，减少量=现期/(n-1)
+- [环比](%E7%8E%AF%E6%AF%94.md) — 与上一个相邻周期相比
+- [现期](%E7%8E%B0%E6%9C%9F.md) — 材料给出的统计时间
+- [百分点](%E7%99%BE%E5%88%86%E7%82%B9.md) — 两个百分数的差值，如增速从10%到12%上升2个百分点
+- [直除法](%E7%9B%B4%E9%99%A4%E6%B3%95.md) — 选项差距<10%时，分子不动、分母保留前3位，除到能区分
+- [知识图谱可视化 (knowledge graph visualization)](%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%8F%AF%E8%A7%86%E5%8C%96-knowledge-graph-visualization.md) — Graph view of notes where heavily connected knowledge point nodes indicate weakest areas.
+- [知识点层](%E7%9F%A5%E8%AF%86%E7%82%B9%E5%B1%82.md) — Tag layer mapping fine-grained tags to section headings in solution-system knowledge files.
+- [粗心 (carelessness)](%E7%B2%97%E5%BF%83-carelessness.md) — Error type of sloppiness; improved by slowing down and using checking mechanisms.
+- [维护规则](%E7%BB%B4%E6%8A%A4%E8%A7%84%E5%88%99.md) — Registry maintenance rule: new tags must be registered before use and propagated to knowledge/pitfall files.
+- [考公知识库-目录索引](%E8%80%83%E5%85%AC%E7%9F%A5%E8%AF%86%E5%BA%93-%E7%9B%AE%E5%BD%95%E7%B4%A2%E5%BC%95.md)
+- [考公错题本](%E8%80%83%E5%85%AC%E9%94%99%E9%A2%98%E6%9C%AC.md) — A personal civil service exam error notebook system combining an Obsidian vault, Memory MCP knowledge graph, and Python scripts.
+- [考官派生手法](%E8%80%83%E5%AE%98%E6%B4%BE%E7%94%9F%E6%89%8B%E6%B3%95.md) — 从正确答案反推干扰项生成方式：砍掉一半内涵、从单个问题反推对策、取递进尾句前半段当结论。
+- [考官派生法 (Examiner Derivation Method)](%E8%80%83%E5%AE%98%E6%B4%BE%E7%94%9F%E6%B3%95-examiner-derivation-method.md) — A reverse-thinking technique where, after answering, you explain every distractor option as a derivation of the correct answer to confirm your choice.
+- [自媒体口播工作台](%E8%87%AA%E5%AA%92%E4%BD%93%E5%8F%A3%E6%92%AD%E5%B7%A5%E4%BD%9C%E5%8F%B0.md)
+- [自适应复习系统](%E8%87%AA%E9%80%82%E5%BA%94%E5%A4%8D%E4%B9%A0%E7%B3%BB%E7%BB%9F.md) — A spaced-repetition style system that adjusts flashcard push frequency based on the learner's number of consecutive correct answers.
+- [色彩排除法](%E8%89%B2%E5%BD%A9%E6%8E%92%E9%99%A4%E6%B3%95.md) — 依据文段整体感情色彩（如讽刺）排除褒义词或贬义过重词项的解题技巧
+- [艾宾浩斯遗忘曲线 (Ebbinghaus Forgetting Curve)](%E8%89%BE%E5%AE%BE%E6%B5%A9%E6%96%AF%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF-ebbinghaus-forgetting-curve.md) — The memory model underlying the spaced-repetition review schedule implemented by the ebbinghaus.py script.
+- [艾宾浩斯间隔复习 (Ebbinghaus spaced repetition)](%E8%89%BE%E5%AE%BE%E6%B5%A9%E6%96%AF%E9%97%B4%E9%9A%94%E5%A4%8D%E4%B9%A0-ebbinghaus-spaced-repetition.md) — Review schedule with intervals of 1, 2, 4, 7, 15, and 30 days to reinforce learned material.
+- [行测言语理解](%E8%A1%8C%E6%B5%8B%E8%A8%80%E8%AF%AD%E7%90%86%E8%A7%A3.md) — Verbal comprehension section of the Chinese civil service exam, covered by six question-type tag families.
+- [补充结构](%E8%A1%A5%E5%85%85%E7%BB%93%E6%9E%84.md) — 明确的结论句（因此后）之后还有'此外/另外'补充另一角度，但补充部分只是强化结论而非并列主旨。
+- [解释对应型](%E8%A7%A3%E9%87%8A%E5%AF%B9%E5%BA%94%E5%9E%8B.md) — 空格前后的比喻、解释、冒号内容为直接语义提示的题型，优先匹配。
+- [计算失误 (calculation error)](%E8%AE%A1%E7%AE%97%E5%A4%B1%E8%AF%AF-calculation-error.md) — Error type where the approach is right but arithmetic is wrong; improved by tidy scratch work and verifying key steps.
+- [词义边界（混淆主脉络与核心）](%E8%AF%8D%E4%B9%89%E8%BE%B9%E7%95%8C%E6%B7%B7%E6%B7%86%E4%B8%BB%E8%84%89%E7%BB%9C%E4%B8%8E%E6%A0%B8%E5%BF%83.md) — 分总·词义边界型错题中常见的坑，需区分'主脉络'与'核心'的词义边界（来自社团流派错题）。
+- [词语辨析 (Word Discrimination)](%E8%AF%8D%E8%AF%AD%E8%BE%A8%E6%9E%90-word-discrimination.md) — The practice of accumulating and distinguishing subtle differences between similar Chinese word groups to answer fill-in-the-blank questions.
+- [语境对应](%E8%AF%AD%E5%A2%83%E5%AF%B9%E5%BA%94.md) — 根据文段关键词（如'假装''编造'）选择语义和色彩与之匹配词语的技巧
+- [语境范围分析](%E8%AF%AD%E5%A2%83%E8%8C%83%E5%9B%B4%E5%88%86%E6%9E%90.md) — 区分宏观（社会、国家、文明）与微观（个人、具体事物）语境以匹配用词。
+- [资料分析](%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90.md) — Data analysis section of the exam with its own question-type, knowledge, and pitfall tags.
+- [转折关系型](%E8%BD%AC%E6%8A%98%E5%85%B3%E7%B3%BB%E5%9E%8B.md) — 前后语义相反的题型，按'转折前后语义相反→选反义词'公式解题。
+- [转折结构](%E8%BD%AC%E6%8A%98%E7%BB%93%E6%9E%84.md) — '但是/然而/却'之后是作者真正想说的内容，主旨看转折词后。
+- [逆差](%E9%80%86%E5%B7%AE.md) — 出口<进口，逆差额=进口-出口
+- [递进结构](%E9%80%92%E8%BF%9B%E7%BB%93%E6%9E%84.md) — 无结论标志词但有程度加深词（大大地/空前/渐趋/超越）层层推进到尾句末段的结构，主旨看末句。
+- [逻辑填空 (Logical Fill-in-the-blank)](%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA-logical-fill-in-the-blank.md) — A Chinese exam question type whose core skill is word discrimination.
+- [逻辑填空解题体系](%E9%80%BB%E8%BE%91%E5%A1%AB%E7%A9%BA%E8%A7%A3%E9%A2%98%E4%BD%93%E7%B3%BB.md) — 行测言语理解中基于七大逻辑关系与词义/色彩辨析的填空题解题方法体系
+- [错题图谱](%E9%94%99%E9%A2%98%E5%9B%BE%E8%B0%B1.md) — An auto-generated atlas/index that groups wrong-answer questions by question type and error type.
+- [错题图谱 (Wrong-Question Map)](%E9%94%99%E9%A2%98%E5%9B%BE%E8%B0%B1-wrong-question-map.md) — A Dataview dynamically grouped index of verified wrong questions, linked as an index page.
+- [错题本 (Wrong question notebook)](%E9%94%99%E9%A2%98%E6%9C%AC-wrong-question-notebook.md) — A structured log for recording, analyzing, and conquering exam mistakes across modules and error types.
+- [错题模板 (error note template)](%E9%94%99%E9%A2%98%E6%A8%A1%E6%9D%BF-error-note-template.md) — A note template capturing question, wrong answer, correct answer, error reason, and linked knowledge points.
+- [错题系统](%E9%94%99%E9%A2%98%E7%B3%BB%E7%BB%9F.md) — Review system that records and tags incorrect practice questions using the registered tag vocabulary.
+- [间隔基期](%E9%97%B4%E9%9A%94%E5%9F%BA%E6%9C%9F.md) — 与现期间隔1个统计周期的基期
+- [间隔增长率](%E9%97%B4%E9%9A%94%E5%A2%9E%E9%95%BF%E7%8E%87.md) — Growth rate over an interval spanning two periods, accounting for compounding.
+- [隐性反推法](%E9%9A%90%E6%80%A7%E5%8F%8D%E6%8E%A8%E6%B3%95.md) — 核心新技法：转折+后文明确价值判断时，从后文价值结论反向推导前文被否定的维度。
+- [顺差](%E9%A1%BA%E5%B7%AE.md) — 出口>进口，顺差额=出口-进口
+- [题型层](%E9%A2%98%E5%9E%8B%E5%B1%82.md) — Top tag layer indicating the mandatory question type of each wrong question (e.g., 逻辑填空, 主旨题).
+- [高位叠加](%E9%AB%98%E4%BD%8D%E5%8F%A0%E5%8A%A0.md) — Addition technique that accumulates from the high-order digits.

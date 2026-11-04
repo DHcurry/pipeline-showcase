@@ -1,0 +1,393 @@
+{
+ "collections": [
+  {
+   "id": "stage-musical",
+   "name": "音乐剧·舞台经典",
+   "axis": "品类",
+   "rule": "百老汇/西区/剧院版音乐剧录播",
+   "platform_id": null,
+   "status": "pending_create"
+  },
+  {
+   "id": "concert-live",
+   "name": "演唱会·现场直击",
+   "axis": "品类",
+   "rule": "歌手巡演/演唱会完整现场",
+   "platform_id": null,
+   "status": "pending_create"
+  },
+  {
+   "id": "standup-special",
+   "name": "脱口秀·爆笑专场",
+   "axis": "品类",
+   "rule": "单口喜剧专场/巡演实录",
+   "platform_id": null,
+   "status": "pending_create"
+  },
+  {
+   "id": "animation-family",
+   "name": "动画·合家欢",
+   "axis": "品类",
+   "rule": "动画特辑/剧场版演出/合家欢内容",
+   "platform_id": null,
+   "status": "pending_create"
+  },
+  {
+   "id": "cn-original",
+   "name": "国产精选",
+   "axis": "品类",
+   "rule": "国产高分作品(戏曲/国漫/国产纪录片等)",
+   "platform_id": null,
+   "status": "pending_create"
+  },
+  {
+   "id": "docs-real",
+   "name": "纪录片·真实人生",
+   "axis": "品类",
+   "rule": "人物传记/自然人文纪录片",
+   "platform_id": null,
+   "status": "pending_create"
+  },
+  {
+   "id": "rock-energy",
+   "name": "高能音浪·摇滚现场",
+   "axis": "交叉视角",
+   "rule": "摇滚/乐队现场(与演唱会合集交叉)",
+   "platform_id": null,
+   "status": "pending_create"
+  },
+  {
+   "id": "easy-laugh",
+   "name": "轻松下饭·笑着看",
+   "axis": "交叉视角",
+   "rule": "轻松向脱口秀/合家欢(与品类合集交叉)",
+   "platform_id": null,
+   "status": "pending_create"
+  }
+ ],
+ "assignments": {
+  "Adele Live At The Royal Albert Hall (2011) [1080p] [BluRay] [5.1] [YTS.MX]": {
+   "collections": [
+    "concert-live"
+   ],
+   "date": "2026-11-03",
+   "state": "in-library"
+  },
+  "Hannah.Gadsby.Douglas.2020.1080p.WEBRip.x265-RARBG": {
+   "collections": [
+    "standup-special",
+    "easy-laugh"
+   ],
+   "date": "2026-11-03",
+   "state": "in-library"
+  },
+  "Memoir Of A Snail (2024) [1080p] [WEBRip] [5.1] [YTS.MX]": {
+   "collections": [
+    "docs-real"
+   ],
+   "date": "2026-11-03",
+   "state": "in-library"
+  },
+  "My.Little.Pony.Equestria.Girls-Legend.Of.Everfree.2016.1080p.BluRay.x265-RARBG": {
+   "collections": [
+    "animation-family"
+   ],
+   "date": "2026-11-03",
+   "state": "in-library"
+  },
+  "The World According To Kaleb On Tour (2024) [1080p] [WEBRip] [5.1] [YTS.BZ]": {
+   "collections": [
+    "concert-live",
+    "standup-special",
+    "easy-laugh"
+   ],
+   "date": "2026-11-03",
+   "state": "in-library"
+  },
+  "[YYQSUB] Zombie Land Saga - Yumeginga Paradise [BDRip][1080p][AVC_AAC][JPSC]": {
+   "collections": [
+    "animation-family"
+   ],
+   "date": "2026-11-03",
+   "state": "in-library"
+  },
+  "冰雪奇缘音乐剧 Broadway Frozen": {
+   "collections": [
+    "stage-musical"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "剧院魅影25周年 Phantom25th": {
+   "collections": [
+    "stage-musical"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "玛蒂尔达音乐剧 Matilda": {
+   "collections": [
+    "stage-musical"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "吉屋出租百老汇 Rent Filmed Live": {
+   "collections": [
+    "stage-musical"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "来自远方 Come From Away": {
+   "collections": [
+    "stage-musical"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "万世巨星2012 Jesus Christ Superstar Arena": {
+   "collections": [
+    "stage-musical"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "汉密尔顿 Hamilton": {
+   "collections": [
+    "stage-musical"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "泰勒名誉巡演 Reputation Tour": {
+   "collections": [
+    "concert-live"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "泰勒时代巡演 Eras Tour": {
+   "collections": [
+    "concert-live"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "泰勒时代终场秀 Eras Final Show": {
+   "collections": [
+    "concert-live"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "麦莉后院现场 Miley Backyard": {
+   "collections": [
+    "concert-live"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "GUTS世界巡演 Olivia Rodrigo": {
+   "collections": [
+    "concert-live"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "皇后蒙特利尔现场 Queen Rock Montreal": {
+   "collections": [
+    "concert-live",
+    "rock-energy"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "约翰梅尔洛杉矶现场 John Mayer": {
+   "collections": [
+    "concert-live"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "涅槃帕拉蒙现场 Nirvana Paramount": {
+   "collections": [
+    "concert-live",
+    "rock-energy"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "RAGE奥林匹克现场 Rage Olympic": {
+   "collections": [
+    "concert-live",
+    "rock-energy"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "夏奇拉巴黎现场 Shakira Paris": {
+   "collections": [
+    "concert-live"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "阿黛尔阿尔伯特堂 Adele Albert Hall": {
+   "collections": [
+    "concert-live"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "查普尔扭曲事实时代 Age Of Spin": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "查普尔鸟的启示 Bird Revelation": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "查普尔一笑置之 Sticks and Stones": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "诺亚说到哪了 Noah Where Was I": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "诺亚苦中作乐 Noah Joy In Trenches": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "路易CK荒谬到笑 Louis Ridiculous": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "路易CK重返麦迪逊 Louis Back To Garden": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "克里斯洛克选择性愤怒 Chris Rock Outrage": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "博伯翰隔离在家 Bo Burnham Inside": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "汉娜盖茨比道格拉斯 Hannah Douglas": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "汤姆林森我全都要 Tomlinson Have It All": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "汤姆林森浪女回头 Tomlinson Look At You": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "汤姆林森Prodigal Daughter": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "蓬松哥Iglesias专场": {
+   "collections": [
+    "standup-special"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "农场小霸王卡勒布 Kaleb On Tour": {
+   "collections": [
+    "standup-special",
+    "easy-laugh"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "佐贺偶像梦想银河乐园 Zombie Land Saga": {
+   "collections": [
+    "animation-family"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "超时空辉夜姬 Kaguya": {
+   "collections": [
+    "animation-family"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "登峰传奇丹增诺盖 Tenzing": {
+   "collections": [
+    "docs-real"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "艾维奇Tim原色 Avicii": {
+   "collections": [
+    "docs-real"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "罗小黑战记2 Legend of Hei2": {
+   "collections": [
+    "animation-family",
+    "cn-original"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  },
+  "彩虹小马森林传奇 MLP Everfree": {
+   "collections": [
+    "animation-family"
+   ],
+   "date": "2026-11-03",
+   "state": "uploaded"
+  }
+ }
+}

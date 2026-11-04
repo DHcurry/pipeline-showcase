@@ -1,0 +1,915 @@
+{
+  "concepts/automatic-categorization-via-backlinks": [
+    "sources/SRC-2026-08-10-004"
+  ],
+  "concepts/dashboard-数据总览": [
+    "sources/SRC-2026-08-10-002"
+  ],
+  "concepts/error-type-indexing": [
+    "sources/SRC-2026-08-10-004"
+  ],
+  "concepts/mastery-tracking": [
+    "sources/SRC-2026-08-10-004"
+  ],
+  "concepts/spaced-repetition-review-stages": [
+    "sources/SRC-2026-08-10-006"
+  ],
+  "concepts/一大一小看乘积": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/一应俱全": [
+    "sources/SRC-2026-08-10-012"
+  ],
+  "concepts/一搭多验": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/三层分析法": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/三维度辨析法": [
+    "sources/SRC-2026-08-10-012"
+  ],
+  "concepts/两期比例变化": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/乘积增长率": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/二十大模型": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/交叉验证": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/产销率": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/估算法": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/倍数": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/倍数特殊表述": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/做题检查流程-answer-checking-workflow": [
+    "sources/SRC-2026-08-10-005"
+  ],
+  "concepts/八大题型分类": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/公式记错-formula-error": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "concepts/分总结构": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/删除测试": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/利润率": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/削峰填谷": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/包罗万象": [
+    "sources/SRC-2026-08-10-012"
+  ],
+  "concepts/十字交叉法": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/反义并列型": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/同比": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/同比环比": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/名义增长与实际增长": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/因果目的型": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/坑点层": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "concepts/坑点手册-pitfall-manual": [
+    "sources/SRC-2026-08-10-005"
+  ],
+  "concepts/基期": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/基期现期": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/增长率": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/增长贡献率与拉动增长率": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/增长量": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/大大则大": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/存量指标": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/实验目的-vs-实验发现": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/审题三步法": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/审题不仔细-careless-reading": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "concepts/尾数法": [
+    "sources/SRC-2026-08-10-007",
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/干扰项六大类型": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/平均数": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/年均增长基期": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/年均增长率": [
+    "sources/SRC-2026-08-10-007",
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/年均增长量": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/并列结构": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/并列递进型": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/应有尽有": [
+    "sources/SRC-2026-08-10-012"
+  ],
+  "concepts/引号比喻型": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/必要条件结构": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/总分结构": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/感情色彩分析": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/感情色彩褒义贬义中性": [
+    "sources/SRC-2026-08-10-011"
+  ],
+  "concepts/成数翻番": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/成语辨析型": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/成语辨析煞有介事-vs-义正词严": [
+    "sources/SRC-2026-08-10-011"
+  ],
+  "concepts/截位修正": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/截位计算": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/掌握等级-mastery-levels": [
+    "sources/SRC-2026-08-10-002"
+  ],
+  "concepts/插件vs真hermes-技能维护差异": [
+    "sources/qq-integration-lock-zero-filled-outage"
+  ],
+  "concepts/搭配检验": [
+    "sources/SRC-2026-08-10-011"
+  ],
+  "concepts/政策搭配型": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/文段拆解三问": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/无所不包": [
+    "sources/SRC-2026-08-10-012"
+  ],
+  "concepts/时间分配不当-poor-time-allocation": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "concepts/显性对应与隐性对应": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/标签注册表": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "concepts/核心话题": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/概念混淆-concept-confusion": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "concepts/母题汇总": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/比值增长率": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/比重": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/流量指标": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/混合增长率": [
+    "sources/SRC-2026-08-10-007",
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/特殊值法": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/特殊分数法": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/环比": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/现期": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/百分点": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/直除法": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/知识图谱可视化-knowledge-graph-visualization": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "concepts/知识点层": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "concepts/粗心-carelessness": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "concepts/维护规则": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "concepts/考公知识库-目录索引": [
+    "entities/考公知识库",
+    "sources/kaogong-kb-restructure-2026-08-13"
+  ],
+  "concepts/考公错题本": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "concepts/考官派生手法": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/考官派生法-examiner-derivation-method": [
+    "sources/SRC-2026-08-10-005"
+  ],
+  "concepts/自媒体口播工作台": [],
+  "concepts/自适应复习系统": [
+    "sources/SRC-2026-08-10-002"
+  ],
+  "concepts/色彩排除法": [
+    "sources/SRC-2026-08-10-011"
+  ],
+  "concepts/艾宾浩斯遗忘曲线-ebbinghaus-forgetting-curve": [
+    "sources/SRC-2026-08-10-006"
+  ],
+  "concepts/艾宾浩斯间隔复习-ebbinghaus-spaced-repetition": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "concepts/行测言语理解": [
+    "sources/SRC-2026-08-10-003",
+    "sources/SRC-2026-08-10-012"
+  ],
+  "concepts/补充结构": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/解释对应型": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/计算失误-calculation-error": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "concepts/词义边界混淆主脉络与核心": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/词语辨析-word-discrimination": [
+    "sources/SRC-2026-08-10-006"
+  ],
+  "concepts/语境对应": [
+    "sources/SRC-2026-08-10-011"
+  ],
+  "concepts/语境范围分析": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/资料分析": [
+    "sources/SRC-2026-08-10-003",
+    "sources/SRC-2026-08-10-007"
+  ],
+  "concepts/转折关系型": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/转折结构": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/逆差": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/递进结构": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "concepts/逻辑填空-logical-fill-in-the-blank": [
+    "sources/SRC-2026-08-10-006"
+  ],
+  "concepts/逻辑填空解题体系": [
+    "sources/SRC-2026-08-10-011"
+  ],
+  "concepts/错题图谱": [
+    "sources/SRC-2026-08-10-004"
+  ],
+  "concepts/错题图谱-wrong-question-map": [
+    "sources/SRC-2026-08-10-005"
+  ],
+  "concepts/错题本-wrong-question-notebook": [
+    "sources/SRC-2026-08-10-002"
+  ],
+  "concepts/错题模板-error-note-template": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "concepts/错题系统": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "concepts/间隔基期": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/间隔增长率": [
+    "sources/SRC-2026-08-10-007",
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/隐性反推法": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "concepts/顺差": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "concepts/题型层": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "concepts/高位叠加": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "entities/adderrorpy": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "entities/addvocabpy": [
+    "sources/SRC-2026-08-10-006"
+  ],
+  "entities/calendar": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "entities/chatgpt": [
+    "sources/SRC-2026-08-10-011"
+  ],
+  "entities/dataview": [
+    "sources/SRC-2026-08-10-001",
+    "sources/SRC-2026-08-10-002",
+    "sources/SRC-2026-08-10-004",
+    "sources/SRC-2026-08-10-005",
+    "sources/SRC-2026-08-10-009"
+  ],
+  "entities/deepseek": [
+    "sources/SRC-2026-08-10-011"
+  ],
+  "entities/ebbinghauspy": [
+    "sources/SRC-2026-08-10-001",
+    "sources/SRC-2026-08-10-006"
+  ],
+  "entities/hermes": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "entities/kanban": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "entities/memory-mcp": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "entities/mimo": [
+    "sources/SRC-2026-08-10-002"
+  ],
+  "entities/minimal-theme": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "entities/obsidian": [
+    "sources/SRC-2026-08-10-001",
+    "sources/SRC-2026-08-10-002",
+    "sources/SRC-2026-08-10-004"
+  ],
+  "entities/obsidian-dataview": [
+    "sources/SRC-2026-08-10-006"
+  ],
+  "entities/visualizegraphpy": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "entities/weeklyreviewpy": [
+    "sources/SRC-2026-08-10-001"
+  ],
+  "entities/下文推断题-坑点": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/下文推断题解题体系": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/主旨题": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "entities/主旨题-坑点": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/主旨题解题体系": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/十四五": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "entities/国考": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "entities/外交部": [
+    "sources/SRC-2026-08-10-011"
+  ],
+  "entities/孙悟空": [
+    "sources/SRC-2026-08-10-011"
+  ],
+  "entities/宋捏捏": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "entities/怀瑾": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "entities/标签注册表": [
+    "sources/SRC-2026-08-10-004"
+  ],
+  "entities/细节判断题-坑点": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/细节判断题解题体系": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/考公知识库": [
+    "concepts/考公知识库-目录索引",
+    "sources/kaogong-kb-restructure-2026-08-13"
+  ],
+  "entities/考官手法": [
+    "sources/SRC-2026-08-10-004"
+  ],
+  "entities/行测": [
+    "sources/SRC-2026-08-10-008",
+    "sources/SRC-2026-08-10-009",
+    "sources/SRC-2026-08-10-010"
+  ],
+  "entities/言语理解": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "entities/词语辨析库": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "entities/语句填空题-坑点": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/语句填空题解题体系": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/语句排序题-坑点": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/语句排序题解题体系": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/资料分析": [
+    "sources/SRC-2026-08-10-010"
+  ],
+  "entities/资料分析-坑点": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/资料分析-材料分类": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/资料分析-知识点体系": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/资料分析一本通": [
+    "sources/SRC-2026-08-10-007"
+  ],
+  "entities/逻辑填空": [
+    "sources/SRC-2026-08-10-009"
+  ],
+  "entities/逻辑填空-坑点": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/逻辑填空解题体系": [
+    "sources/SRC-2026-08-10-003"
+  ],
+  "entities/错题索引wiki-链接笔记": [
+    "sources/SRC-2026-08-10-008"
+  ],
+  "sources/SRC-2026-08-10-001": [
+    "concepts/公式记错-formula-error",
+    "concepts/审题不仔细-careless-reading",
+    "concepts/时间分配不当-poor-time-allocation",
+    "concepts/概念混淆-concept-confusion",
+    "concepts/知识图谱可视化-knowledge-graph-visualization",
+    "concepts/粗心-carelessness",
+    "concepts/考公错题本",
+    "concepts/艾宾浩斯间隔复习-ebbinghaus-spaced-repetition",
+    "concepts/计算失误-calculation-error",
+    "concepts/错题模板-error-note-template",
+    "entities/adderrorpy",
+    "entities/calendar",
+    "entities/ebbinghauspy",
+    "entities/hermes",
+    "entities/kanban",
+    "entities/memory-mcp",
+    "entities/minimal-theme",
+    "entities/visualizegraphpy",
+    "entities/weeklyreviewpy"
+  ],
+  "sources/SRC-2026-08-10-002": [
+    "concepts/dashboard-数据总览",
+    "concepts/掌握等级-mastery-levels",
+    "concepts/自适应复习系统",
+    "concepts/错题本-wrong-question-notebook",
+    "entities/dataview",
+    "entities/mimo",
+    "entities/obsidian",
+    "entities/考公知识库"
+  ],
+  "sources/SRC-2026-08-10-003": [
+    "concepts/坑点层",
+    "concepts/标签注册表",
+    "concepts/知识点层",
+    "concepts/维护规则",
+    "concepts/行测言语理解",
+    "concepts/资料分析",
+    "concepts/错题系统",
+    "concepts/题型层",
+    "entities/下文推断题-坑点",
+    "entities/下文推断题解题体系",
+    "entities/主旨题-坑点",
+    "entities/主旨题解题体系",
+    "entities/细节判断题-坑点",
+    "entities/细节判断题解题体系",
+    "entities/考公知识库",
+    "entities/语句填空题-坑点",
+    "entities/语句填空题解题体系",
+    "entities/语句排序题-坑点",
+    "entities/语句排序题解题体系",
+    "entities/资料分析-坑点",
+    "entities/资料分析-材料分类",
+    "entities/资料分析-知识点体系",
+    "entities/逻辑填空-坑点",
+    "entities/逻辑填空解题体系"
+  ],
+  "sources/SRC-2026-08-10-004": [
+    "concepts/automatic-categorization-via-backlinks",
+    "concepts/error-type-indexing",
+    "concepts/mastery-tracking",
+    "concepts/错题图谱",
+    "entities/标签注册表",
+    "entities/考公知识库",
+    "entities/考官手法"
+  ],
+  "sources/SRC-2026-08-10-005": [
+    "concepts/做题检查流程-answer-checking-workflow",
+    "concepts/坑点手册-pitfall-manual",
+    "concepts/考官派生法-examiner-derivation-method",
+    "concepts/错题图谱-wrong-question-map",
+    "entities/考公知识库"
+  ],
+  "sources/SRC-2026-08-10-006": [
+    "concepts/spaced-repetition-review-stages",
+    "concepts/艾宾浩斯遗忘曲线-ebbinghaus-forgetting-curve",
+    "concepts/词语辨析-word-discrimination",
+    "concepts/逻辑填空-logical-fill-in-the-blank",
+    "entities/addvocabpy",
+    "entities/obsidian-dataview",
+    "entities/考公知识库"
+  ],
+  "sources/SRC-2026-08-10-007": [
+    "concepts/二十大模型",
+    "concepts/倍数",
+    "concepts/削峰填谷",
+    "concepts/十字交叉法",
+    "concepts/同比环比",
+    "concepts/名义增长与实际增长",
+    "concepts/基期现期",
+    "concepts/增长率",
+    "concepts/增长贡献率与拉动增长率",
+    "concepts/增长量",
+    "concepts/审题三步法",
+    "concepts/尾数法",
+    "concepts/平均数",
+    "concepts/年均增长率",
+    "concepts/截位计算",
+    "concepts/母题汇总",
+    "concepts/比重",
+    "concepts/混合增长率",
+    "concepts/特殊值法",
+    "concepts/间隔增长率",
+    "concepts/高位叠加",
+    "entities/国考",
+    "entities/宋捏捏",
+    "entities/怀瑾",
+    "entities/考公知识库",
+    "entities/资料分析一本通"
+  ],
+  "sources/SRC-2026-08-10-008": [
+    "concepts/分总结构",
+    "concepts/删除测试",
+    "concepts/实验目的-vs-实验发现",
+    "concepts/干扰项六大类型",
+    "concepts/并列结构",
+    "concepts/必要条件结构",
+    "concepts/总分结构",
+    "concepts/文段拆解三问",
+    "concepts/核心话题",
+    "concepts/考官派生手法",
+    "concepts/补充结构",
+    "concepts/词义边界混淆主脉络与核心",
+    "concepts/转折结构",
+    "concepts/递进结构",
+    "entities/主旨题",
+    "entities/行测",
+    "entities/错题索引wiki-链接笔记"
+  ],
+  "sources/SRC-2026-08-10-009": [
+    "concepts/一搭多验",
+    "concepts/三层分析法",
+    "concepts/交叉验证",
+    "concepts/八大题型分类",
+    "concepts/反义并列型",
+    "concepts/因果目的型",
+    "concepts/并列递进型",
+    "concepts/引号比喻型",
+    "concepts/感情色彩分析",
+    "concepts/成语辨析型",
+    "concepts/政策搭配型",
+    "concepts/显性对应与隐性对应",
+    "concepts/解释对应型",
+    "concepts/语境范围分析",
+    "concepts/转折关系型",
+    "concepts/隐性反推法",
+    "entities/言语理解",
+    "entities/词语辨析库",
+    "entities/逻辑填空"
+  ],
+  "sources/SRC-2026-08-10-010": [
+    "concepts/一大一小看乘积",
+    "concepts/两期比例变化",
+    "concepts/乘积增长率",
+    "concepts/产销率",
+    "concepts/估算法",
+    "concepts/倍数特殊表述",
+    "concepts/利润率",
+    "concepts/同比",
+    "concepts/基期",
+    "concepts/大大则大",
+    "concepts/存量指标",
+    "concepts/年均增长基期",
+    "concepts/年均增长量",
+    "concepts/成数翻番",
+    "concepts/截位修正",
+    "concepts/比值增长率",
+    "concepts/流量指标",
+    "concepts/特殊分数法",
+    "concepts/环比",
+    "concepts/现期",
+    "concepts/百分点",
+    "concepts/直除法",
+    "concepts/逆差",
+    "concepts/间隔基期",
+    "concepts/顺差",
+    "entities/十四五",
+    "entities/资料分析"
+  ],
+  "sources/SRC-2026-08-10-011": [
+    "concepts/感情色彩褒义贬义中性",
+    "concepts/成语辨析煞有介事-vs-义正词严",
+    "concepts/搭配检验",
+    "concepts/色彩排除法",
+    "concepts/语境对应",
+    "concepts/逻辑填空解题体系",
+    "entities/chatgpt",
+    "entities/deepseek",
+    "entities/外交部",
+    "entities/孙悟空"
+  ],
+  "sources/SRC-2026-08-10-012": [
+    "concepts/一应俱全",
+    "concepts/三维度辨析法",
+    "concepts/包罗万象",
+    "concepts/应有尽有",
+    "concepts/无所不包"
+  ],
+  "sources/android-nodejs-binary-compatibility": [],
+  "sources/android-nodejs-integration-lessons": [],
+  "sources/android-pi-agent-final-architecture": [],
+  "sources/bilibili-old-player-endpoint-cid-only-resolution": [
+    "sources/local-whisper-movie-subtitle-pipeline",
+    "sources/wbi-mixinkey-join-comma-bug"
+  ],
+  "sources/crlf-detection-and-invisible-chars": [],
+  "sources/daily-movie-download-pipeline": [
+    "sources/local-whisper-movie-subtitle-pipeline",
+    "sources/qbittorrent-webui-ini-and-exit-pitfalls"
+  ],
+  "sources/dropout-prediction-f2-pipeline": [],
+  "sources/emm-within-loop-refit-rules": [],
+  "sources/generate-plain-text-and-system-prompt-json-trap": [
+    "sources/hypit-integration-first-light"
+  ],
+  "sources/greeting-ai": [],
+  "sources/gtx1650-7b-ram-offload-agent": [],
+  "sources/gtx1650-llama-cpp-deployment": [
+    "sources/gtx1650-7b-ram-offload-agent"
+  ],
+  "sources/hypit-caption-demo-film-track-order": [
+    "sources/v1-pack-v2-align-four-blockers"
+  ],
+  "sources/hypit-integration-first-light": [
+    "sources/hypit-caption-demo-film-track-order",
+    "sources/hypit-local-whisperx-byok-setup"
+  ],
+  "sources/hypit-local-whisperx-byok-setup": [
+    "sources/hypit-caption-demo-film-track-order",
+    "sources/v1-pack-v2-align-four-blockers"
+  ],
+  "sources/imitate-style-content-separation": [
+    "sources/generate-plain-text-and-system-prompt-json-trap",
+    "sources/subtitle-wrong-video-and-force-whisper"
+  ],
+  "sources/kaogong-kb-restructure-2026-08-13": [],
+  "sources/local-whisper-movie-subtitle-pipeline": [],
+  "sources/motion-empty-keyframes-and-footage-first": [],
+  "sources/next16-turbopack-bracket-api-route-bug": [
+    "sources/imitate-style-content-separation",
+    "sources/subtitle-wrong-video-and-force-whisper"
+  ],
+  "sources/obs-2026-08-10-": [],
+  "sources/obs-2026-08-11-esp32": [],
+  "sources/obs-2026-08-12-": [],
+  "sources/obs-2026-08-12-ai-ai-portfolio-site": [],
+  "sources/obs-2026-08-12-pi-hermes-memory": [],
+  "sources/obs-2026-08-13-": [],
+  "sources/obs-2026-08-13-ai-a": [],
+  "sources/obs-2026-08-13-dataview": [],
+  "sources/obs-2026-08-23-pi-agent-android": [],
+  "sources/obs-2026-08-23-pi-agent-android-apk": [],
+  "sources/obs-2026-08-23-pi-agent-apk-v3-nodejs-mobile-jni": [],
+  "sources/obs-2026-08-23-pi-agent-pi-web-chat-android": [],
+  "sources/obs-2026-08-27-javafx": [],
+  "sources/obs-2026-08-31-": [],
+  "sources/obs-2026-08-31-pi-zip": [],
+  "sources/obs-2026-09-01-gnn-rag-baseline": [],
+  "sources/obs-2026-09-06-kgqa": [],
+  "sources/obs-2026-09-08-apimimo-flash-gemini-flash-0731-gpt-4o": [],
+  "sources/obs-2026-09-08-cc-switch-deepseek-429": [],
+  "sources/obs-2026-09-08-mimo-relay-anthropic-claude": [],
+  "sources/obs-2026-09-09-webqsp": [],
+  "sources/obs-2026-09-10-mmap": [],
+  "sources/obs-2026-09-11-deepseek-r1-8b": [],
+  "sources/obs-2026-09-14-agent-kg": [],
+  "sources/obs-2026-09-14-ai-agent": [],
+  "sources/obs-2026-09-16-geka-agent": [],
+  "sources/obs-2026-09-20-cv5-vs-bic-full-experiment-launched": [],
+  "sources/obs-2026-09-22-content-creator-ai-infrastructure-refactored-to-pi-agent-sdk": [],
+  "sources/obs-2026-09-22-content-creator-backend-fully-rewritten-in-typescript": [],
+  "sources/obs-2026-09-22-content-creator-workspace-project-analysis": [],
+  "sources/obs-2026-09-22-v4": [],
+  "sources/obs-2026-09-22-v5": [],
+  "sources/obs-2026-09-23-": [],
+  "sources/obs-2026-09-23-v8": [],
+  "sources/obs-2026-09-23-v9": [],
+  "sources/obs-2026-09-28-emm-m-typei-m1": [],
+  "sources/obs-2026-09-28-qq-bot-7200-leader": [],
+  "sources/obs-2026-09-29-": [],
+  "sources/obs-2026-09-29-70-30": [],
+  "sources/obs-2026-09-29-eta-100-typei-0-26-power-0-72": [],
+  "sources/obs-2026-09-29-upvideos-12-schema": [],
+  "sources/obs-2026-09-30-emm-typei-0-495-0-135-power-0-894-0-934": [],
+  "sources/obs-2026-09-30-github-dhcurry-content-creator-workspace": [],
+  "sources/obs-2026-09-30-html-llm-html-hypit": [
+    "sources/motion-empty-keyframes-and-footage-first"
+  ],
+  "sources/obs-2026-09-30-kv": [],
+  "sources/obs-2026-10-09-8-3100": [
+    "sources/emm-within-loop-refit-rules"
+  ],
+  "sources/obs-2026-10-10-loop-1-20-00": [],
+  "sources/obs-2026-10-10-uu-windows-wol-bios": [],
+  "sources/obs-2026-10-10-windows-3": [
+    "sources/static-courseware-assembly-pipeline"
+  ],
+  "sources/obs-2026-10-10-windows-v2": [],
+  "sources/obs-2026-10-10-windows-v3-w1-w2": [],
+  "sources/obs-2026-10-10-windows-v4-top10": [],
+  "sources/obs-2026-10-11-2026-10-gpu-v3-2": [],
+  "sources/obs-2026-10-11-671b-deepseek": [],
+  "sources/obs-2026-10-11-671b-ktransformers": [],
+  "sources/obs-2026-10-14-r": [],
+  "sources/obs-2026-10-14-s": [],
+  "sources/obs-2026-10-14-s1-5": [],
+  "sources/obs-2026-10-14-s2": [],
+  "sources/obs-2026-10-15-": [],
+  "sources/obs-2026-10-15-ffmpeg-mtx": [],
+  "sources/obs-2026-10-15-lubot-tk-ffmpeg-mtx": [],
+  "sources/obs-2026-10-18-tk": [],
+  "sources/obs-2026-10-19-2026-10": [],
+  "sources/obs-2026-10-19-5-fast": [],
+  "sources/obs-2026-10-19-lubot-tk-cam-5-blend": [],
+  "sources/obs-2026-10-20-ffmpeg-lubot-tk-cam-5": [],
+  "sources/obs-2026-10-21-lubot-txt-rtmp-tk-cam-fast-1-0x": [],
+  "sources/obs-2026-10-21-t": [],
+  "sources/obs-2026-10-21-t1": [],
+  "sources/obs-2026-10-22-rea-6-7-0-npm-pi-mcp-ghidra": [],
+  "sources/obs-2026-10-22-rea-ghidra-tkcore-5153-3266": [],
+  "sources/obs-2026-10-22-tgm2-c-lox-n-20": [],
+  "sources/obs-2026-10-22-tgm2-m1-run-c-ns-ppi": [],
+  "sources/obs-2026-10-22-tkcore-exe-qt6-cuda-cpu-mediamtx": [],
+  "sources/obs-2026-10-23-ed25519-15": [],
+  "sources/obs-2026-10-23-tk-photoimage-data-base64-ppm-png": [],
+  "sources/obs-2026-10-23-v1-0-txt": [],
+  "sources/obs-2026-10-25-genai-4-e-genai-lab": [
+    "sources/prepackaged-venv-repair"
+  ],
+  "sources/obs-2026-10-25-hudk4050": [],
+  "sources/obs-2026-10-26-v1-1-12": [],
+  "sources/obs-2026-10-27-v1-1-1": [],
+  "sources/obs-2026-10-28-": [],
+  "sources/obs-2026-10-28-19": [],
+  "sources/obs-2026-10-28-deepseek-llm": [],
+  "sources/obs-2026-10-28-model-onnx-90": [
+    "sources/onnx-notebook-model-export-pitfalls"
+  ],
+  "sources/obs-2026-10-28-qq-pi-tui-peerdeps": [],
+  "sources/obs-2026-10-29-v1-2-307mb-exe-bat": [],
+  "sources/obs-2026-10-30-word": [],
+  "sources/obs-2026-10-30-word-30": [],
+  "sources/obs-2026-10-30-word-v3-6": [],
+  "sources/obs-2026-10-31-ubuntu-systemd-e2e": [],
+  "sources/obs-2026-11-01-pta-69-1": [
+    "sources/pta-exam-70-ac-full-score"
+  ],
+  "sources/obs-2026-11-01-v2-0-e2e-v2": [],
+  "sources/obs-2026-11-01-vbot-tkcore-exe-ffmpeg": [],
+  "sources/obs-2026-11-02-": [],
+  "sources/obs-2026-11-02-8": [],
+  "sources/obs-2026-11-02-mit": [],
+  "sources/obs-2026-11-02-vbot-v2-12-12": [],
+  "sources/obs-2026-11-03-v2-0-device-code-powershell-1-36-verdict-ok": [],
+  "sources/obs-2026-11-03-vbot-v3": [],
+  "sources/obs-2026-11-04-vbot1-7-7-lubot-77-2": [],
+  "sources/offline-license-system-design": [],
+  "sources/onnx-notebook-model-export-pitfalls": [],
+  "sources/prepackaged-venv-repair": [],
+  "sources/pta-exam-70-ac-full-score": [],
+  "sources/qbittorrent-webui-ini-and-exit-pitfalls": [
+    "sources/daily-movie-download-pipeline"
+  ],
+  "sources/qq-integration-lock-zero-filled-outage": [],
+  "sources/r1-kgqa-degradation-root-cause": [],
+  "sources/schema-driven-llm-lit-extraction": [
+    "sources/schema-driven-llm-lit-extraction"
+  ],
+  "sources/session-json-bracket-repair": [
+    "sources/crlf-detection-and-invisible-chars",
+    "sources/generate-plain-text-and-system-prompt-json-trap",
+    "sources/imitate-style-content-separation",
+    "sources/next16-turbopack-bracket-api-route-bug"
+  ],
+  "sources/static-courseware-assembly-pipeline": [],
+  "sources/subtitle-wrong-video-and-force-whisper": [
+    "sources/bilibili-old-player-endpoint-cid-only-resolution"
+  ],
+  "sources/v1-pack-v2-align-four-blockers": [
+    "sources/motion-empty-keyframes-and-footage-first"
+  ],
+  "sources/wbi-mixinkey-join-comma-bug": []
+}

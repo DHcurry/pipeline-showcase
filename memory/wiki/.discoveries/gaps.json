@@ -1,0 +1,17 @@
+{
+  "gaps": [
+    {
+      "topic": "esp32-桌面机器人项目",
+      "mentionedBy": [
+        "sources/gtx1650-llama-cpp-deployment"
+      ]
+    },
+    {
+      "topic": "gtx1650-llama-cpp-deployment",
+      "mentionedBy": [
+        "sources/gtx1650-7b-ram-offload-agent"
+      ]
+    }
+  ],
+  "generated": "2026-08-13T05:32:36.277Z"
+}

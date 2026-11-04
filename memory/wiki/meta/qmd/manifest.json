@@ -1,0 +1,2558 @@
+{
+  "version": 1,
+  "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+  "entries": {
+    "documents/canonical/concepts/automatic-categorization-via-backlinks.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\automatic-categorization-via-backlinks.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/automatic-categorization-via-backlinks",
+      "contentHash": "a88269d89b10de6af5a9a439d108d52e271d80a10b19ed598e235321cc879f29",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/dashboard-数据总览.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\dashboard-数据总览.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/dashboard-数据总览",
+      "contentHash": "30955b03cb4b8032809c9066012516beba8f613bcdca16677ccedb18ee999d37",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/error-type-indexing.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\error-type-indexing.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/error-type-indexing",
+      "contentHash": "e40d9a123112b9634bbc45852a25c667080c9d93edca740af43f0742469c0ab3",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/mastery-tracking.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\mastery-tracking.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/mastery-tracking",
+      "contentHash": "eb6514e037911720f941b6126ca9b05ff7c8dc03209ce03906926cc84180ba38",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/spaced-repetition-review-stages.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\spaced-repetition-review-stages.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/spaced-repetition-review-stages",
+      "contentHash": "9a81e2c86d08de03655b517bb48264cab4d8b43a2dfe80b820cdde8d57841925",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/一大一小看乘积.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\一大一小看乘积.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/一大一小看乘积",
+      "contentHash": "b05902e0faf15b3f804d6f88203a4d47ec1290321ba36563039957e30711d013",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/一应俱全.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\一应俱全.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/一应俱全",
+      "contentHash": "b9606003c3eab0cc80650243f0a2099e176bdde78189ef1cb1823f08795e11d4",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/一搭多验.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\一搭多验.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/一搭多验",
+      "contentHash": "33f8e044883a9f948e2cbf6fe2660c25e6272aff255701a0ae76113cfeb09c46",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/三层分析法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\三层分析法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/三层分析法",
+      "contentHash": "51d4284d807c117f429062d7c1f9656f768c41e1ad7ce540c396853def80bd9e",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/三维度辨析法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\三维度辨析法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/三维度辨析法",
+      "contentHash": "78d6429962d0ca68b38a1ee3a757817e2e4d6802d17189517b819cf5f30ef20a",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/两期比例变化.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\两期比例变化.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/两期比例变化",
+      "contentHash": "bb56e2d6b1a5957fb513712510eb1e2ef171f11c9e2e75eabcd2ad12c54b0112",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/乘积增长率.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\乘积增长率.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/乘积增长率",
+      "contentHash": "a153c1803e095657031159eaf1fc397420c00b2a3b24a4bef5488439717fd836",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/二十大模型.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\二十大模型.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/二十大模型",
+      "contentHash": "45956b80a49b32156fd45231d2055133d765a1839ffe8117a4aa8864cbbac67d",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/交叉验证.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\交叉验证.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/交叉验证",
+      "contentHash": "514c286c49a032f7c749d3359b69af6c0b0d19a2fd10ee0c11744605b14a14bc",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/产销率.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\产销率.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/产销率",
+      "contentHash": "47f01198cebb35d7af7ff040f55eb2c30635cdbff9d83e0eff2108c141da4556",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/估算法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\估算法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/估算法",
+      "contentHash": "15ee20e90f3e6c23541eefcfbed32c45cef0bece62bd9c627068612fe3c8183d",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/倍数.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\倍数.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/倍数",
+      "contentHash": "350fd1405ccbfbee38b246ddbb878e04fcc966d0318f6d7e3b1d2ec3c1a4ad58",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/倍数特殊表述.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\倍数特殊表述.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/倍数特殊表述",
+      "contentHash": "4a1066190e9b8470e4324ce7181d3fdf77c93c9c7bf974dc3d6bf6e6539b029a",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/做题检查流程-answer-checking-workflow.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\做题检查流程-answer-checking-workflow.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/做题检查流程-answer-checking-workflow",
+      "contentHash": "5be38075281d47260f456bdabe19915478189cba52715afc5d1b5bae4f7816ef",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/八大题型分类.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\八大题型分类.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/八大题型分类",
+      "contentHash": "a74ec779385aa97a69034ed747b5f33c7c9172e1242aa16a5435de20d7ca5f98",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/公式记错-formula-error.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\公式记错-formula-error.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/公式记错-formula-error",
+      "contentHash": "33ec77c418b22a50a5b070db9e2da3d72bd92e97efaedbc8bbfecd7537078c51",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/分总结构.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\分总结构.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/分总结构",
+      "contentHash": "11f7c777a9d2217be4e00df80795dedd1b31c2130353cb27f94c01810b58ec11",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/删除测试.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\删除测试.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/删除测试",
+      "contentHash": "4c4f420b6a1d527d32bcca2efbe5abf3169bcd3830f1245e151fd781792afdc3",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/利润率.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\利润率.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/利润率",
+      "contentHash": "8ecdff06af6cf74edcca24bf634009669d3c7e5a0f175cbb1b3beacff89dba00",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/削峰填谷.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\削峰填谷.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/削峰填谷",
+      "contentHash": "997403075810ce2dfb56cb83369c22e0708bca0c3d4d53ea0dba439ac66e9883",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/包罗万象.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\包罗万象.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/包罗万象",
+      "contentHash": "7c800ac609a2ff269b4f03b1830a29c2c5d7dabf62ef60114dca53f79e570d8c",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/十字交叉法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\十字交叉法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/十字交叉法",
+      "contentHash": "a8632b546dfce24b6379577771d2b0416e86a3731e9d5da2009ae3fab9a3ca15",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/反义并列型.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\反义并列型.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/反义并列型",
+      "contentHash": "5a6fcbc7b354e7f8050d20fc45ad48f1c32f5d3be2a73e479f069d99b955a77d",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/同比.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\同比.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/同比",
+      "contentHash": "10b37b4ccde40d678137c42ddda149c58cdc1d8a5ab12abec954a05257ebd0d7",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/同比环比.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\同比环比.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/同比环比",
+      "contentHash": "b0207f32f045070532ac05831790a4376f078a9d127c16bb47def17f4f4e4a90",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/名义增长与实际增长.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\名义增长与实际增长.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/名义增长与实际增长",
+      "contentHash": "567660a6f7f84f9dcd1609740c21d669c2be91f52a96f426340fc0983548ce7f",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/因果目的型.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\因果目的型.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/因果目的型",
+      "contentHash": "eee8c343b6e0e6c2528ab6ddb7b2703f1b4e7abab591c144d0bd6e9171bae1b0",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/坑点层.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\坑点层.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/坑点层",
+      "contentHash": "78ced65c32021f4d61ddf6db1d1a29d747f11fe51e329b533e6c6c1e8304ade7",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/坑点手册-pitfall-manual.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\坑点手册-pitfall-manual.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/坑点手册-pitfall-manual",
+      "contentHash": "2402f18051bbdd2c29fd24f60e966bc9de898e14a249ab91cdea65bc9d5a0bea",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/基期.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\基期.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/基期",
+      "contentHash": "8ac47029a8941d3b03a20d608313f385ef1b83c7acaea6f4ba67db6c26289ebf",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/基期现期.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\基期现期.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/基期现期",
+      "contentHash": "50dd0188e2b96c6b3788f31a764d52cffe31247106020707f7d97655a7042978",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/增长率.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\增长率.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/增长率",
+      "contentHash": "6f465f157dc9ca2c09e4cb1c9b45979dd587d36382364d174e340fda16691482",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/增长贡献率与拉动增长率.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\增长贡献率与拉动增长率.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/增长贡献率与拉动增长率",
+      "contentHash": "e72e14d8b7ea66cf7c39f8669b72ca84923335a42b19c77ba810c5c87d2e3ea0",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/增长量.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\增长量.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/增长量",
+      "contentHash": "ebdc89f350980a753f1956e8d5f414c43177b7890ef2989236d47b8fa1d5ba62",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/大大则大.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\大大则大.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/大大则大",
+      "contentHash": "999ace0e546a5cb430516c8b686489aec024584d02a1fbc52816d7a1c9ac3052",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/存量指标.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\存量指标.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/存量指标",
+      "contentHash": "9d965fe48c683cd383aadda97b7cf452511f44fb5c11eb96debc1e87c9bc30bb",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/实验目的-vs-实验发现.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\实验目的-vs-实验发现.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/实验目的-vs-实验发现",
+      "contentHash": "33038b6d562f24953abbbed84fe3424e9aa6277bdb94e1fe6934457cb488b1a0",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/审题三步法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\审题三步法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/审题三步法",
+      "contentHash": "5cbe483e15e302717b1f27763926cb2b8aa55f698c79c34abd6b57e57531fea7",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/审题不仔细-careless-reading.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\审题不仔细-careless-reading.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/审题不仔细-careless-reading",
+      "contentHash": "0f45bbced283db755041af7d3e70f88f31fea5bfd7b1e7d6b765f7736a1c5d47",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/尾数法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\尾数法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/尾数法",
+      "contentHash": "3b061692e7e0f1ebe3898249392914cfd288d7a3808509a78ac53c07cffa8fe4",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/干扰项六大类型.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\干扰项六大类型.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/干扰项六大类型",
+      "contentHash": "5c5e63797328c7133955e7466d2ac0989396a9d0127b050dad5a7a8719ad42fb",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/平均数.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\平均数.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/平均数",
+      "contentHash": "be8446532099a6091e569564f4e0e4dfa45bf4c37f6159dfd7a3f5f8270dc439",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/年均增长基期.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\年均增长基期.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/年均增长基期",
+      "contentHash": "04325d57ce4d139d578a6dc85273b191dce42df181573b1cf4d8535f961a6b1e",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/年均增长率.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\年均增长率.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/年均增长率",
+      "contentHash": "548162965ed6130a67d5efc742a148edd55f1246ab4ded0804948b047aab4727",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/年均增长量.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\年均增长量.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/年均增长量",
+      "contentHash": "b36f74f79fd781760e59502ddb9e0a0d858b707269291da26d99ae522a275758",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/并列结构.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\并列结构.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/并列结构",
+      "contentHash": "c0a33d9799101a0454635e71e09a112c6e1a55c89bd87283fec4978be1766026",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/并列递进型.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\并列递进型.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/并列递进型",
+      "contentHash": "7b66cf22e4273d475d7cc856ed12a5ada19cbe0967bf566d0daff1620d9a64e1",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/应有尽有.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\应有尽有.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/应有尽有",
+      "contentHash": "cb736bc0c87ab5473e4c9469bb12297aff8944b0d09fe4f0ec36c1d0e5de6bc0",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/引号比喻型.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\引号比喻型.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/引号比喻型",
+      "contentHash": "18e4fd7e52e70235166b4763f4f5cf6ea76fd7225da58e787f6b42d540d74351",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/必要条件结构.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\必要条件结构.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/必要条件结构",
+      "contentHash": "95f323e842ebc86b3d7e219a8248fc689575aee2c5d3479cc4c327b2584dd91c",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/总分结构.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\总分结构.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/总分结构",
+      "contentHash": "afed9953837e24162b6b21b433c8d7867567ad69b434fcafed9806808dec56c5",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/感情色彩分析.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\感情色彩分析.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/感情色彩分析",
+      "contentHash": "3136cd0aa9b3fbbec0143786d03229fe66db0ca77978283bab0a2f45a9762aef",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/感情色彩褒义贬义中性.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\感情色彩褒义贬义中性.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/感情色彩褒义贬义中性",
+      "contentHash": "8d55ddf783d465f06d62374929f3ebb0fbcbb36d573462a2c59ef847621b7964",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/成数翻番.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\成数翻番.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/成数翻番",
+      "contentHash": "85ba73f94b2d6918a474bee9eb4cfadbe37cbb944fe1076a6f2b65023c3cf4d4",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/成语辨析型.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\成语辨析型.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/成语辨析型",
+      "contentHash": "262d5f71d35ad6ff469b5fef07f7efb262c8f6be6d9ee7d2fd13bb18f3a2f039",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/成语辨析煞有介事-vs-义正词严.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\成语辨析煞有介事-vs-义正词严.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/成语辨析煞有介事-vs-义正词严",
+      "contentHash": "16cf0870360ee037650a73aaad1292b97c601aeedc7d5a225485e825a20c82e0",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/截位修正.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\截位修正.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/截位修正",
+      "contentHash": "4cf4382f61995f52f637fbd58edb8f63c34c5f669c106888ec73e7e94e8377a1",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/截位计算.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\截位计算.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/截位计算",
+      "contentHash": "1ad905d0efafe17dccbe42b1dd4e32e8dd5583f30b8a065ac0a49853a2dc2777",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/掌握等级-mastery-levels.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\掌握等级-mastery-levels.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/掌握等级-mastery-levels",
+      "contentHash": "13bda66a46ea0d7ce6b3a91776cd9926861b473d2e0ae7154c3a2a90dff6ab24",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/插件vs真hermes-技能维护差异.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\插件vs真hermes-技能维护差异.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/插件vs真hermes-技能维护差异",
+      "contentHash": "023023b3d2f384a7b04b3b5564a08204418dcfcee905611190ce81c42e07af11",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/搭配检验.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\搭配检验.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/搭配检验",
+      "contentHash": "864cc7f961390e6a1b707861b044b3e6fd0d0dd4bc7e3f1edf4a8fb442b7a855",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/政策搭配型.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\政策搭配型.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/政策搭配型",
+      "contentHash": "ccc7466bc1b2809b3e1389fa7ac8ef85afc2489bb19a0ef186352037f977c889",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/文段拆解三问.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\文段拆解三问.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/文段拆解三问",
+      "contentHash": "f9e6085b27d26c538062bc7686002378b740bee6ed32fb8c76fe9a9a4cd628da",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/无所不包.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\无所不包.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/无所不包",
+      "contentHash": "c8b60b9e4ed62a19ce013f3235c5159fda4fc4721a14570285e594561c2dcd37",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/时间分配不当-poor-time-allocation.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\时间分配不当-poor-time-allocation.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/时间分配不当-poor-time-allocation",
+      "contentHash": "4d09a1c959e13e87149a3f2c7ea6c644d38946fb3bb7a92d33d1906ec85a06a6",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/显性对应与隐性对应.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\显性对应与隐性对应.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/显性对应与隐性对应",
+      "contentHash": "b923b688f31ae6494ebbd4d3da0c2f866476fed36174a586f5f211c39ccdaf1c",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/标签注册表.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\标签注册表.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/标签注册表",
+      "contentHash": "ebcd83dd5b4c40d1b35499eed2ec5f51e1ca6ae8b4b83cfac71840364e1ed101",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/核心话题.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\核心话题.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/核心话题",
+      "contentHash": "5fc2c4a965572ddd86fdc1d5bb5477b688dc53819d009188ffa0182e1e8342f5",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/概念混淆-concept-confusion.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\概念混淆-concept-confusion.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/概念混淆-concept-confusion",
+      "contentHash": "74ed2f8dd4c2ba2aa2b81c69824128ccb3e0991079a4bfc99b2a45f6c7ce437a",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/母题汇总.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\母题汇总.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/母题汇总",
+      "contentHash": "949a5117a02de8fa8b53d9b8139ed0d330ae6daf038ba848090ab0446204f762",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/比值增长率.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\比值增长率.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/比值增长率",
+      "contentHash": "7ae7dbee35b4238924ccfc15ea054469e1cf54107f9f0af7757517060f3a8795",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/比重.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\比重.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/比重",
+      "contentHash": "2127d5c05a002ca0ad6d3c2697313f16fe8d2f84e1a14b00909d8f687c714185",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/流量指标.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\流量指标.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/流量指标",
+      "contentHash": "fd336d6c0ae921cc84a3a5aaac6b970730be7c76246acbb170119194a6733824",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/混合增长率.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\混合增长率.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/混合增长率",
+      "contentHash": "c633299e827efae44bcfb61bf3826911b39e88ef523545ef8eb1fb56271f541e",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/特殊值法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\特殊值法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/特殊值法",
+      "contentHash": "33c949ca2ed41ad9536fba0dcb051e6e733f0c49856f685881b001270bea5166",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/特殊分数法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\特殊分数法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/特殊分数法",
+      "contentHash": "7e461a71cd754216b31cbb90f5087a51f9916f37605d461baf660f9c783c6d03",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/环比.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\环比.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/环比",
+      "contentHash": "af2d777c8c6bdbe328ff1756b0350413062f0142e4e39334e3107bdfb138a770",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/现期.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\现期.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/现期",
+      "contentHash": "edcb06380cfa5ec9f7a51040ff0310ae98fead345232171725abf2523af0ab1b",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/百分点.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\百分点.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/百分点",
+      "contentHash": "d73faae3c4127eba7bc2b2e291135e1682df4b51ad0d9ed721b231af5d664c7a",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/直除法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\直除法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/直除法",
+      "contentHash": "71e11f9d5a4f1b1b700ff5229ac0888c8d0323a9f6af4ef371dfe83911b2bbbc",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/知识图谱可视化-knowledge-graph-visualization.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\知识图谱可视化-knowledge-graph-visualization.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/知识图谱可视化-knowledge-graph-visualization",
+      "contentHash": "bb8fef231c42175c3cea78b3a8ce37675a846147e8bbd751b1ce60b60e3ada13",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/知识点层.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\知识点层.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/知识点层",
+      "contentHash": "a22657d999bd6929fd8729174734797943068875ced2b04ac283705962892378",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/粗心-carelessness.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\粗心-carelessness.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/粗心-carelessness",
+      "contentHash": "c5e58844f50c26e916af4a64c07a181986da2801f23bc8a0c58b52e3801071ce",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/维护规则.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\维护规则.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/维护规则",
+      "contentHash": "086c515b287f764a6824ca7e93bc8184a3b27f769639274789eecc982e0873bb",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/考公知识库-目录索引.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\考公知识库-目录索引.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/考公知识库-目录索引",
+      "contentHash": "6fe3ddd95aa3b3e4fade536fa443d02279337e0d72ee9e9a32a8fbc373d515e8",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/考公错题本.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\考公错题本.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/考公错题本",
+      "contentHash": "d1e0bcddba37302f1b6078fd5dca5c28dc1da47b89051a78c67269e78cc9e176",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/考官派生手法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\考官派生手法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/考官派生手法",
+      "contentHash": "2d864aa86671c1c46b88e58aa4c5f00efb301e43a77379672496fd2a70ed0553",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/考官派生法-examiner-derivation-method.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\考官派生法-examiner-derivation-method.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/考官派生法-examiner-derivation-method",
+      "contentHash": "4d95382be885393ff6d5774bb830f9e20006573e68c58627c8e52e5ed6faed52",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/自媒体口播工作台.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\自媒体口播工作台.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/自媒体口播工作台",
+      "contentHash": "695ac7b8711ec52f030f0f2731fec55c1a346b27750c5da2199ff692ed3baa31",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/自适应复习系统.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\自适应复习系统.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/自适应复习系统",
+      "contentHash": "26c1ccf1b7f6fdd08a4d0ac1fd4ed0ea86291198eccf93cc5a847bdfd70d31c0",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/色彩排除法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\色彩排除法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/色彩排除法",
+      "contentHash": "d8067995af48c322c453b0e4583a8afa9c68fc7def32df89ad94151b313721a6",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/艾宾浩斯遗忘曲线-ebbinghaus-forgetting-curve.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\艾宾浩斯遗忘曲线-ebbinghaus-forgetting-curve.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/艾宾浩斯遗忘曲线-ebbinghaus-forgetting-curve",
+      "contentHash": "9e0c78e559febc26a8dab8ddc2265c78213cf460396bbc621d99dc49d8e1f8c3",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/艾宾浩斯间隔复习-ebbinghaus-spaced-repetition.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\艾宾浩斯间隔复习-ebbinghaus-spaced-repetition.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/艾宾浩斯间隔复习-ebbinghaus-spaced-repetition",
+      "contentHash": "0a93b5ae693a4d6653fd9364f9c818f4059707e42a38cf76c2a0853642db081a",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/行测言语理解.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\行测言语理解.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/行测言语理解",
+      "contentHash": "52c49851fbef8013f395b797a48a306d75f675dca4652e02715ab04a08213f80",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/补充结构.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\补充结构.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/补充结构",
+      "contentHash": "c21016c52658ce4fc6ae011caca8a7a068a3295b6d5c91312e6c88179d84a163",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/解释对应型.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\解释对应型.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/解释对应型",
+      "contentHash": "ca1fe4d68e86981e299130eebf2b9db2b703eff585a0a5b0a7618f97e2d747c3",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/计算失误-calculation-error.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\计算失误-calculation-error.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/计算失误-calculation-error",
+      "contentHash": "002b44d7e97c16085e8acd65964edd1c772712e22e22b0be2ea33db291126565",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/词义边界混淆主脉络与核心.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\词义边界混淆主脉络与核心.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/词义边界混淆主脉络与核心",
+      "contentHash": "321c4c86f8808b2b5bc9b1e2408e6e5d2ff1f801e93d2ab8481d0c761e5c41fb",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/词语辨析-word-discrimination.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\词语辨析-word-discrimination.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/词语辨析-word-discrimination",
+      "contentHash": "eddef0d03dc6648d80b7861abe69faf0b58a21d4508e50e12c1d5ec1fd276d43",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/语境对应.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\语境对应.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/语境对应",
+      "contentHash": "563f2405de82262ae3061a3fae9bd043c97a02ce279ef9f03ccd4fd6792924b7",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/语境范围分析.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\语境范围分析.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/语境范围分析",
+      "contentHash": "2136728bf3a7191666aec4bcabbc10a3965162feed6f36b09ac5bd10283bbdf5",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/资料分析.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\资料分析.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/资料分析",
+      "contentHash": "b0d3ac54a2244928bc6ffa448db4d52270db8c1be5ba255b5228b6fe630d0629",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/转折关系型.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\转折关系型.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/转折关系型",
+      "contentHash": "9d49d25e8123ab53aa002f3f3ecd103149865e1ab471ab0d92668dccbddbed1e",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/转折结构.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\转折结构.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/转折结构",
+      "contentHash": "70f0cf295d7aef7eaa2aef90b4cf22fad9cc6cb63d26d0837e7bec87846b71f4",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/逆差.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\逆差.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/逆差",
+      "contentHash": "1e03d1feace3a0ecb3a0d58acc30833341a1a523d3f1dd08c4dfa986adfd6e9b",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/递进结构.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\递进结构.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/递进结构",
+      "contentHash": "e6072d3f49f35d65cbf0c11adf4460577f6e3c292e865c7a0384fdb18cd910b3",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/逻辑填空-logical-fill-in-the-blank.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\逻辑填空-logical-fill-in-the-blank.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/逻辑填空-logical-fill-in-the-blank",
+      "contentHash": "b2aa250ca83fb2d2517baea6557b4594e2afa2de2c271c110e1cab69b3efb4b9",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/逻辑填空解题体系.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\逻辑填空解题体系.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/逻辑填空解题体系",
+      "contentHash": "392a4a890a4175cef134d1fc2122da98f87f142c5822ff1cfa0ac237f57e5bac",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/错题图谱.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\错题图谱.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/错题图谱",
+      "contentHash": "d89549e92051b7ff5627bc64d2c87a5d5fd446a40973074c9626201426f61207",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/错题图谱-wrong-question-map.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\错题图谱-wrong-question-map.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/错题图谱-wrong-question-map",
+      "contentHash": "717d6d354cbacc024cd2ffe7131831bf1a25d41e3b6c5021da5c0e42af5d4e33",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/错题本-wrong-question-notebook.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\错题本-wrong-question-notebook.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/错题本-wrong-question-notebook",
+      "contentHash": "21d50c0abf7a6d1afb480e12f24fc5b45d809f596cd5d5ca24ae1f53539c0117",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/错题模板-error-note-template.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\错题模板-error-note-template.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/错题模板-error-note-template",
+      "contentHash": "670655ece3bf4ece3d6948874670bdc412ac1356e71839de82cbb8b59a7538c1",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/错题系统.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\错题系统.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/错题系统",
+      "contentHash": "79d2646c5fb237537cbbd94679681775524597198f848ece97604b2a275fda51",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/间隔基期.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\间隔基期.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/间隔基期",
+      "contentHash": "4541cf224f54105618d7548da5916ae9bd13c336028e826e95262814adaba20f",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/间隔增长率.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\间隔增长率.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/间隔增长率",
+      "contentHash": "d09ec37931b2b37f4d4ee11b8b712830ea1709d34314af96434038e36ff479d1",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/隐性反推法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\隐性反推法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/隐性反推法",
+      "contentHash": "17dea533ab0982226c0ca17c3318aac85c2d32782498353fe1f16ccf8353b18c",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/顺差.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\顺差.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/顺差",
+      "contentHash": "2fca54e52ebd681f660005d0412f07a015bd4d7bea78f6f1098eb7cf86947c5b",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/题型层.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\题型层.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/题型层",
+      "contentHash": "008d2256713102305598a43df730ee3b67d27ebc60f8c19e7a31e2e41d037d95",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/concepts/高位叠加.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\concepts\\高位叠加.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "concepts/高位叠加",
+      "contentHash": "9ab244156d7e099bf7398c31a6cf66e9f1395bb90e46a9a2ae3107ab2637b944",
+      "role": "canonical",
+      "type": "concept"
+    },
+    "documents/canonical/entities/adderrorpy.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\adderrorpy.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/adderrorpy",
+      "contentHash": "4c804637222f22ffcb61754561671d6702989fbb86d10768260e0cbc36b6a908",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/addvocabpy.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\addvocabpy.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/addvocabpy",
+      "contentHash": "e5dd18459a0114af620a410ac311e3a363917bf2d422be48758b4ae29d859b6d",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/calendar.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\calendar.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/calendar",
+      "contentHash": "44693537ed8cbc90bbf0eca3aee385e2e5c8c61e05053288c3113b759ce2da70",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/chatgpt.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\chatgpt.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/chatgpt",
+      "contentHash": "bf8feebb403e2c58b56a576ef6ba3f920c64597f998158f9d3b77581e093851f",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/dataview.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\dataview.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/dataview",
+      "contentHash": "35222c7e596f5a6a95c4276dcfd49ee89804dec4a00198eeb71bfb642a0e0771",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/deepseek.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\deepseek.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/deepseek",
+      "contentHash": "d5a24af670e2cd8d7735aa05265990431c1bb4c9f5ed0e4f103e203e807d1f21",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/ebbinghauspy.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\ebbinghauspy.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/ebbinghauspy",
+      "contentHash": "5f3df85c730959983ff2243b6107029e5d78c050588f5ae04541ecb3fc0986e3",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/hermes.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\hermes.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/hermes",
+      "contentHash": "d6459bb795c24efec4c634ad7420da0066a528cb85b6e6c2debb341599b3d596",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/kanban.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\kanban.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/kanban",
+      "contentHash": "1beb8ff1618ea608b978989d513ca4041af6fa7516e20ca91c207418ae09a267",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/memory-mcp.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\memory-mcp.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/memory-mcp",
+      "contentHash": "12dded39292dda93b07c2c40451618cece24bc603fc370aefa53c9e80aa83eed",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/mimo.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\mimo.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/mimo",
+      "contentHash": "eaa1534ac5d831be7e6d43039f0f6ad816742cd1bb73ba1b8a0979857701add8",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/minimal-theme.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\minimal-theme.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/minimal-theme",
+      "contentHash": "336d0da158406e36eb3f5b6b109d423a9b4e5ec2d39a0f9484a4c2701e58583c",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/obsidian.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\obsidian.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/obsidian",
+      "contentHash": "ba140e8cd1ab2d2b2170877076fa849b0b764ab8eab976ac9dd4a8ad879dc493",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/obsidian-dataview.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\obsidian-dataview.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/obsidian-dataview",
+      "contentHash": "9ad8186324d7059105f777973af9dcde0e7f33e3c60342dc614d9978de0d6f1c",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/visualizegraphpy.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\visualizegraphpy.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/visualizegraphpy",
+      "contentHash": "a342d05f4049983950588cac5218fb4738a94a64e220031ac29e7490b00309fb",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/weeklyreviewpy.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\weeklyreviewpy.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/weeklyreviewpy",
+      "contentHash": "8fdae92be7c831fe564608b8deceaa619ff325371d9363644008877fb42f81f8",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/下文推断题-坑点.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\下文推断题-坑点.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/下文推断题-坑点",
+      "contentHash": "001ffbada9906e144d1e2c6ea8a002a81fed2b0fdd2d97c77f909dd9ce3270f3",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/下文推断题解题体系.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\下文推断题解题体系.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/下文推断题解题体系",
+      "contentHash": "c3b39672bff6a07e753639aed7a17b0eea15c9743a31ef8cc192fdeaa29b046a",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/主旨题.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\主旨题.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/主旨题",
+      "contentHash": "accf14f799bebd7482b4a00f29e0a88507adbecc4a65f8c9db045843beecc2be",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/主旨题-坑点.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\主旨题-坑点.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/主旨题-坑点",
+      "contentHash": "1b3edea2a3e0bc8ba55eaef8b02c6908ce03c2c0d980f17f25f7be41dcde7f1c",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/主旨题解题体系.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\主旨题解题体系.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/主旨题解题体系",
+      "contentHash": "dd5a597e3d50d5368d9f13fd2755ec4e8325aa05fea9c96ff0c817466765046a",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/十四五.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\十四五.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/十四五",
+      "contentHash": "b553dea3d52e8ae4b9c4d98638177072e6c8072f317d17bfc2ef098f12a3b576",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/国考.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\国考.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/国考",
+      "contentHash": "6cb999c704d569dcd73e0fd1951c1d2c28cbf6bda78ddff3edaff5d7ba42fe27",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/外交部.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\外交部.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/外交部",
+      "contentHash": "63439c590e4e311a3e445746ed44920d71290fbe8ad4e9c89f785c33f2d6a394",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/孙悟空.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\孙悟空.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/孙悟空",
+      "contentHash": "f164a327bc2ae59934f6162589bc0094a7a8a651b5a1d6d8a5551178cc528182",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/宋捏捏.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\宋捏捏.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/宋捏捏",
+      "contentHash": "f52d66b93161abf366158e523b67c50f5107bf9d9a4e51330f84ffc556b2340e",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/怀瑾.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\怀瑾.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/怀瑾",
+      "contentHash": "04f0c2844d10a7c597fb234f1552e3c5a62f6070879b75f1e8c18126228071eb",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/标签注册表.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\标签注册表.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/标签注册表",
+      "contentHash": "eb3328e92afe0f14edc293e393c0faf20175f5faa0157524896a5c9314c4e559",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/细节判断题-坑点.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\细节判断题-坑点.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/细节判断题-坑点",
+      "contentHash": "d0a547e574d8b7ad4a6be205eee7e51a3cb4cf9926df96344a794f150909361e",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/细节判断题解题体系.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\细节判断题解题体系.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/细节判断题解题体系",
+      "contentHash": "4377ef9fa6b20dc283897b081956ac358f49b3ad9d8aafbf56c4d1c1f0691e7a",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/考公知识库.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\考公知识库.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/考公知识库",
+      "contentHash": "e53379cba80d607ddf1b55de877e7894d4b8441d1ca4d3060f84065cc307ea31",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/考官手法.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\考官手法.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/考官手法",
+      "contentHash": "73d280725dc1dbcd81a3b6df0651c588af0db885044cf4f0407010fe518a3067",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/行测.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\行测.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/行测",
+      "contentHash": "685900f14b4d614cbf416adb4ffe63458d0de463b0fcb65144f59a5d9dbec85e",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/言语理解.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\言语理解.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/言语理解",
+      "contentHash": "fa255fc8151a2bc5433a4a5c2d6190d4bd250ae84d9715a87901c7f2107d7b81",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/词语辨析库.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\词语辨析库.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/词语辨析库",
+      "contentHash": "bb1d6b68d346ad61b502d34b2bf37bcb79deee8521a522e78d5d81a2611e8daa",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/语句填空题-坑点.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\语句填空题-坑点.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/语句填空题-坑点",
+      "contentHash": "de2974c7786339f0575516f8b0cd0f181c9b5535124067d1d1cfc47c0ca89161",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/语句填空题解题体系.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\语句填空题解题体系.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/语句填空题解题体系",
+      "contentHash": "7f15f41888f9f7038ed3938e87ce43312b446cfb351e7a45e7f0784b58689d2f",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/语句排序题-坑点.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\语句排序题-坑点.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/语句排序题-坑点",
+      "contentHash": "7bcc48ac6a13eb33cee96485a9c08fafe61f4f85665ea58b71eee03c998a2417",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/语句排序题解题体系.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\语句排序题解题体系.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/语句排序题解题体系",
+      "contentHash": "79a12f4cc0148995db108d1dea308445ecac8c99ebc39b8e2f5c6e3710f5f4c5",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/资料分析.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\资料分析.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/资料分析",
+      "contentHash": "3ef84d1d610e416b65edcd9b541dcd31f62ca3025587a2861ce801abb55d9480",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/资料分析-坑点.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\资料分析-坑点.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/资料分析-坑点",
+      "contentHash": "18398c85c3165ee78f8b1da6a7d1a33979686e79b0728e5b72d39e7e7273b100",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/资料分析-材料分类.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\资料分析-材料分类.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/资料分析-材料分类",
+      "contentHash": "3b67f349fef3d08fae8b99babdb75a2cdfdd0e1788c3e3ef304b4636154d0f64",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/资料分析-知识点体系.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\资料分析-知识点体系.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/资料分析-知识点体系",
+      "contentHash": "8bf034dff1fc9ee07030278c452b5bdb288d3934d953fc95d6ec801247094ae2",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/资料分析一本通.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\资料分析一本通.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/资料分析一本通",
+      "contentHash": "217b6bee9ce5b53255379ed9cc710bbce853f32f1e88f8349a615d9f18d88909",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/逻辑填空.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\逻辑填空.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/逻辑填空",
+      "contentHash": "ed991ff6035cfbd0107b40f62ecbbb078baffff4d9d951a2b080d92d9cc3b096",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/逻辑填空-坑点.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\逻辑填空-坑点.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/逻辑填空-坑点",
+      "contentHash": "d24c5db8c21ae42a2273ea9472fc87cb28f545cca2596ece21fcd7bb45dd156d",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/逻辑填空解题体系.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\逻辑填空解题体系.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/逻辑填空解题体系",
+      "contentHash": "2df0f299284c7f198c549850f7768bae758a72795adcdaf614a9351f015e41dd",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/canonical/entities/错题索引wiki-链接笔记.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\entities\\错题索引wiki-链接笔记.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "entities/错题索引wiki-链接笔记",
+      "contentHash": "2ea84cc24e82b245e5587c1b05a3a11b2f05681912917d6c413f64506e2b4937",
+      "role": "canonical",
+      "type": "entity"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-001.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-001.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-001",
+      "contentHash": "eecc720c72b0d00ada1962acf35f150712303ce423e38ddb509ede5cebf629f3",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-002.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-002.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-002",
+      "contentHash": "bce3602d2bff441ac932a9a743199ce88aa45ca795befc942c33d9edd69bc79b",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-003.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-003.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-003",
+      "contentHash": "5c754d11ead16df8cdf77d650828eba83320703f54a60e6d8f0c037c0ef03dd4",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-004.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-004.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-004",
+      "contentHash": "485cd482e883f3451fc65f69139d21b8dde47d7fd6cf33636cc72e631498d4d9",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-005.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-005.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-005",
+      "contentHash": "36cf93b4ca6a753c4339d75501146ce2df1bf7f7171952b9d6cccc6bfdd1bbcd",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-006.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-006.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-006",
+      "contentHash": "b3ce98c24b18fe3ca639597085dc615200c08d0d086e7a4da0f4b3409c22d382",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-007.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-007.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-007",
+      "contentHash": "f46eab3861e0701d7f6ffb0f0c3bc4f13d0e5e114cfd6a69b1f48c5110d0d1c1",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-008.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-008.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-008",
+      "contentHash": "9cf5e95cbb6e75cf1a8c89289daec4075fce209e2e7a15dfb01b4c6373800faa",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-009.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-009.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-009",
+      "contentHash": "f8d4b007171d19300a90df15c6394766c83d033038eae8d06a23baa7b2aa38da",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-010.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-010.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-010",
+      "contentHash": "64e2d19aa9d748bd39735b841b56bdec6fbf1edbc012ad1998e17fe75f65d7d9",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-011.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-011.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-011",
+      "contentHash": "3219e7865df51a29746e4fc4a879afcac040a348b266e1fc27203f3c32a4d849",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/SRC-2026-08-10-012.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\SRC-2026-08-10-012.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/SRC-2026-08-10-012",
+      "contentHash": "0524ab302b5db4c3a0e98498e888f061476829eadd64ab5e488de9493495c288",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/android-nodejs-binary-compatibility.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\android-nodejs-binary-compatibility.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/android-nodejs-binary-compatibility",
+      "contentHash": "7e30a7a02871fad504830f67723ffef3d29d1ce59f66df568e35cee6ee57ac04",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/android-nodejs-integration-lessons.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\android-nodejs-integration-lessons.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/android-nodejs-integration-lessons",
+      "contentHash": "840492ba6bf1083e636bb5c9cb00d22c93af8938563cf2fe8605171f683ddb8f",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/android-pi-agent-final-architecture.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\android-pi-agent-final-architecture.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/android-pi-agent-final-architecture",
+      "contentHash": "8208d782e7b1ba39e06f8a5f73cd7de5c0d936749d94a3b0444cca699a3c4727",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/bilibili-old-player-endpoint-cid-only-resolution.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\bilibili-old-player-endpoint-cid-only-resolution.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/bilibili-old-player-endpoint-cid-only-resolution",
+      "contentHash": "1690328e732bf15654f70d4d564ffb0b42cb50b459d1c5c3b08adb82073ceccb",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/crlf-detection-and-invisible-chars.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\crlf-detection-and-invisible-chars.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/crlf-detection-and-invisible-chars",
+      "contentHash": "b63813ba1b8d25e72747fc63878cfe58fa06a826ad47fd142227731f8ed39eea",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/daily-movie-download-pipeline.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\daily-movie-download-pipeline.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/daily-movie-download-pipeline",
+      "contentHash": "447d79258745fa2db24c5d753cc3e1ce2fdb64847e7c6c01edc5991c53ce70e5",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/dropout-prediction-f2-pipeline.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\dropout-prediction-f2-pipeline.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/dropout-prediction-f2-pipeline",
+      "contentHash": "7b645694463bc46e1ca7b2e84096925e95b45ff96e3304e0c01b75e26ba29b7d",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/emm-within-loop-refit-rules.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\emm-within-loop-refit-rules.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/emm-within-loop-refit-rules",
+      "contentHash": "3c06c758ee700ad26e6289124851cf8a92ea21ab6e4e4164072bb7a5c2de18d7",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/generate-plain-text-and-system-prompt-json-trap.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\generate-plain-text-and-system-prompt-json-trap.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/generate-plain-text-and-system-prompt-json-trap",
+      "contentHash": "4bf56156a3b724ea99453a1cda2367a37ba0d80ade1ca15b73070d8bb02d830b",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/greeting-ai.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\greeting-ai.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/greeting-ai",
+      "contentHash": "7316b5c4d612235414120a7f718c9b5b9ae47780865a80a9811f0fd83d6311ea",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/gtx1650-7b-ram-offload-agent.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\gtx1650-7b-ram-offload-agent.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/gtx1650-7b-ram-offload-agent",
+      "contentHash": "e4c6182b044b4fd97920085c6f00c89ed2c7b173784355d899ead18f977f248a",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/gtx1650-llama-cpp-deployment.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\gtx1650-llama-cpp-deployment.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/gtx1650-llama-cpp-deployment",
+      "contentHash": "775573440ab7f8c16a304144cd3f628a43713148a8b46ced8b63fc345e2639d3",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/hypit-caption-demo-film-track-order.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\hypit-caption-demo-film-track-order.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/hypit-caption-demo-film-track-order",
+      "contentHash": "6efaf3a6265af1b2c2efa37324798a286d698556b3b39dcc72e76d8cfc438a88",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/hypit-integration-first-light.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\hypit-integration-first-light.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/hypit-integration-first-light",
+      "contentHash": "ba09a0ce9a8f58fa7e31fb4addc0c471160a64241862b1bff600b37fb24ea403",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/hypit-local-whisperx-byok-setup.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\hypit-local-whisperx-byok-setup.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/hypit-local-whisperx-byok-setup",
+      "contentHash": "afe407d06af500a6c89d1be3de51b57b3f8501bb573e57892404a4a7c8da46cd",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/imitate-style-content-separation.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\imitate-style-content-separation.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/imitate-style-content-separation",
+      "contentHash": "4e314122b419246a8d0f3f87f10ead6827b5e4e9411b2ae42c8e7fcff9100691",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/kaogong-kb-restructure-2026-08-13.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\kaogong-kb-restructure-2026-08-13.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/kaogong-kb-restructure-2026-08-13",
+      "contentHash": "628e150b6adbd37265205e8f75b6a3e301fc099172a3385b19a2b23bbe41acac",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/local-whisper-movie-subtitle-pipeline.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\local-whisper-movie-subtitle-pipeline.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/local-whisper-movie-subtitle-pipeline",
+      "contentHash": "5915da0b1399cd5f7cf55c1585d82aa539fd98c9781c33f7c438e2ce88dd1863",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/motion-empty-keyframes-and-footage-first.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\motion-empty-keyframes-and-footage-first.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/motion-empty-keyframes-and-footage-first",
+      "contentHash": "e120f413927c11be0a3fca3b7b49a869544a9046d8467838675ae028e50ee2ba",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/next16-turbopack-bracket-api-route-bug.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\next16-turbopack-bracket-api-route-bug.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/next16-turbopack-bracket-api-route-bug",
+      "contentHash": "506d2b42e3aee2e886473125235ffd7abf31abfb0c7aa12217cfcdc24b6e3990",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-10-.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-10-.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-10-",
+      "contentHash": "b8d979112e5db9e9d98dd5eb390cee14ece61fdef823695326dfe93bde347145",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-11-esp32.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-11-esp32.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-11-esp32",
+      "contentHash": "f5723dddc6c6567b3e5028ecf68bf35f16366482bd76f959a7f26576ba13dc28",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-12-.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-12-.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-12-",
+      "contentHash": "32e71bda28419019d0faf936dac17fc2600142da9efbf9ae05c96cebeea1eedc",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-12-ai-ai-portfolio-site.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-12-ai-ai-portfolio-site.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-12-ai-ai-portfolio-site",
+      "contentHash": "41705009e875dc42d431c171d4c4aaaadf3a38918113ffb8f98e950cd5012706",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-12-pi-hermes-memory.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-12-pi-hermes-memory.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-12-pi-hermes-memory",
+      "contentHash": "8c108fbcdcb7cafc94b3c297b27d81b6195e5096834381c6378d290288b865c2",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-13-.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-13-.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-13-",
+      "contentHash": "7fb034db2b06cde5ad32c85945218151f4c7218adcf0cac690e48e3b60a2e92d",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-13-ai-a.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-13-ai-a.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-13-ai-a",
+      "contentHash": "6e19afb41fcddc0f2a8a4de403b45a9c60d1860e00f6f9385b92906ab0696d48",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-13-dataview.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-13-dataview.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-13-dataview",
+      "contentHash": "ce19a086071beae930cd84e9e7600471508737a3384b18b675fa2653eee610af",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-23-pi-agent-android.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-23-pi-agent-android.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-23-pi-agent-android",
+      "contentHash": "440bf2dccb4b98c41c5c0c642135ad0c458a5de5dce8f1477a940b9c37347ec8",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-23-pi-agent-android-apk.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-23-pi-agent-android-apk.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-23-pi-agent-android-apk",
+      "contentHash": "302b85dee2e3b11babb4a1c85d41779b6294f267c4ae7decb8449e834a02fea6",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-23-pi-agent-apk-v3-nodejs-mobile-jni.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-23-pi-agent-apk-v3-nodejs-mobile-jni.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-23-pi-agent-apk-v3-nodejs-mobile-jni",
+      "contentHash": "eda7d863e6bf4ed8e80c28c86a1169df3d63c464556a4734fa28d19f815c6e78",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-23-pi-agent-pi-web-chat-android.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-23-pi-agent-pi-web-chat-android.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-23-pi-agent-pi-web-chat-android",
+      "contentHash": "f2c762e3585ee7952d708dd538edf60a39b367b1ec5c45607ac33609db6c6282",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-27-javafx.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-27-javafx.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-27-javafx",
+      "contentHash": "18e2958f1ff447ac08f5ee986e512ebe452350e5367e67e119f83027d685af39",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-31-.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-31-.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-31-",
+      "contentHash": "29ae5323bc04cdc89ff9c8ebaf0706cb09eb3fbbcfac153a4f7db7830a5be9d9",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-08-31-pi-zip.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-08-31-pi-zip.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-08-31-pi-zip",
+      "contentHash": "ed7668ced120a462137b144830172812ff648192078cab6a5bd25c8c3191ba45",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-01-gnn-rag-baseline.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-01-gnn-rag-baseline.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-01-gnn-rag-baseline",
+      "contentHash": "8a34bf64a6ae090c7274c399a44819113bd6b8ba54b31e7561115a11bba408ef",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-06-kgqa.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-06-kgqa.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-06-kgqa",
+      "contentHash": "8209373447bb3c43fee0c85b48c4a2b82d980e148aeb4da4951dd3d9335ea1a6",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-08-apimimo-flash-gemini-flash-0731-gpt-4o.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-08-apimimo-flash-gemini-flash-0731-gpt-4o.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-08-apimimo-flash-gemini-flash-0731-gpt-4o",
+      "contentHash": "7fcfe962a0b40c040d0a324f7297bfb6e1e9e65f99a6ad4253085349e334892f",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-08-cc-switch-deepseek-429.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-08-cc-switch-deepseek-429.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-08-cc-switch-deepseek-429",
+      "contentHash": "c318d799429e2c198dee670a81577b9e622b0b0768d1a58e23b73a0b5c189e81",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-08-mimo-relay-anthropic-claude.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-08-mimo-relay-anthropic-claude.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-08-mimo-relay-anthropic-claude",
+      "contentHash": "7c7166e0247a3144ba8a4e033988bdc79af646d76c0192fccd90c8ad0829320a",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-09-webqsp.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-09-webqsp.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-09-webqsp",
+      "contentHash": "5cff82ad6400af3eb91c274363f43949c7c249e2e98326f4c67557fa63804d2f",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-10-mmap.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-10-mmap.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-10-mmap",
+      "contentHash": "7d2db152bc93a43623a3542df4bddce4b8419778e936fbeb3014e52d681f349c",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-11-deepseek-r1-8b.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-11-deepseek-r1-8b.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-11-deepseek-r1-8b",
+      "contentHash": "c6ac41fdaf58073d382d5e0d2bfe492884cd6990a77cd136088ca9ecd8aa251e",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-14-agent-kg.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-14-agent-kg.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-14-agent-kg",
+      "contentHash": "1ab9384eb237cee1ad5844f866d76655808ad11e0cb25e83f6ccdf10fcea26c3",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-14-ai-agent.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-14-ai-agent.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-14-ai-agent",
+      "contentHash": "77d1b1a4fb964339d1435f4b02d779440530c0e87d2697f494d2b8c9062422f9",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-16-geka-agent.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-16-geka-agent.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-16-geka-agent",
+      "contentHash": "c0818ebb1168c3e65d11d233a09e64a06a5dc314a624af06f1f54a7d88e0e41f",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-20-cv5-vs-bic-full-experiment-launched.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-20-cv5-vs-bic-full-experiment-launched.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-20-cv5-vs-bic-full-experiment-launched",
+      "contentHash": "b43486879db4df3c2ae9cfd2fab02b4150e1953d145a6b99083e9a3b95d522b5",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-22-content-creator-ai-infrastructure-refactored-to-pi-agent-sdk.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-22-content-creator-ai-infrastructure-refactored-to-pi-agent-sdk.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-22-content-creator-ai-infrastructure-refactored-to-pi-agent-sdk",
+      "contentHash": "d867b8533c8b28965569eb0ebe4e26793b4620c326b9f61eb4075777d64d6404",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-22-content-creator-backend-fully-rewritten-in-typescript.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-22-content-creator-backend-fully-rewritten-in-typescript.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-22-content-creator-backend-fully-rewritten-in-typescript",
+      "contentHash": "fde9165bee2da8ef7c74d9fe8a20119d2a70a028b49b4d0db68dc9d622221936",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-22-content-creator-workspace-project-analysis.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-22-content-creator-workspace-project-analysis.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-22-content-creator-workspace-project-analysis",
+      "contentHash": "81e945e59277f5db0093cf80e6bfbb07290ed82f53a2fbfd6624549dc466fe54",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-22-v4.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-22-v4.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-22-v4",
+      "contentHash": "fb6074fb9991d53dae217f3b39e78c8af42685b29d1653447b3842aae498b8a0",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-22-v5.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-22-v5.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-22-v5",
+      "contentHash": "26a2ee33ba5cced90b712c83068cc6649796dcef581d7a7e07bdeea9b5c4d543",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-23-.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-23-.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-23-",
+      "contentHash": "f158ea1b1708892666087691d396839e82a1fd89bc0652e626ba3a42f5abd871",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-23-v8.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-23-v8.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-23-v8",
+      "contentHash": "3cc17a86bef199805bc9d5696e429cc1890dcf3153a3c664a20b3f91384845f5",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-23-v9.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-23-v9.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-23-v9",
+      "contentHash": "3aa434009b5835680dcc83705f0f9963f4edf98f981c277a0185f556f7647d53",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-28-emm-m-typei-m1.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-28-emm-m-typei-m1.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-28-emm-m-typei-m1",
+      "contentHash": "7b126e8f13adf3c4bb1896a8fe789b326701c824ad2107acbb7263a8fe640141",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-28-qq-bot-7200-leader.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-28-qq-bot-7200-leader.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-28-qq-bot-7200-leader",
+      "contentHash": "96d5cf5d0145219281a2b26e5086d0cd16e818d4e00fddb81e307244b0c3496a",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-29-.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-29-.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-29-",
+      "contentHash": "b3bd3b571a85e8e0a04eb6e794e28b28176b7c3679b70e57b94ec2c99926fa1a",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-29-70-30.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-29-70-30.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-29-70-30",
+      "contentHash": "cd1b32b3a020d435b49429efe631baf1a29182365846bd2047c7142307f47823",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-29-eta-100-typei-0-26-power-0-72.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-29-eta-100-typei-0-26-power-0-72.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-29-eta-100-typei-0-26-power-0-72",
+      "contentHash": "0e66ecbb04298a509c5596a31993897eac50eed1fc0ee51ac0eb531d8c355bc1",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-29-upvideos-12-schema.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-29-upvideos-12-schema.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-29-upvideos-12-schema",
+      "contentHash": "e869a3e61e87bc6743e268482b8591c6bb610d74176b129173ce74c340c6fd95",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-30-emm-typei-0-495-0-135-power-0-894-0-934.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-30-emm-typei-0-495-0-135-power-0-894-0-934.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-30-emm-typei-0-495-0-135-power-0-894-0-934",
+      "contentHash": "a908e8030b6c250ca2bf304e802ad0003c9ac3e878096c761a62c529ff2f4854",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-30-github-dhcurry-content-creator-workspace.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-30-github-dhcurry-content-creator-workspace.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-30-github-dhcurry-content-creator-workspace",
+      "contentHash": "45e0232e50efcb75d1e272e32b2857ae5c193a7ac73ba4fb907b3a111b89400a",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-30-html-llm-html-hypit.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-30-html-llm-html-hypit.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-30-html-llm-html-hypit",
+      "contentHash": "77d04f60075e49b2265fdf04def958b151f8f8a42446059dd16cef9b4f084a10",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-09-30-kv.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-09-30-kv.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-09-30-kv",
+      "contentHash": "055e5eaf354174d35a9aecafa2b2081861cfaebf2e71f43c42b52e8b69dc509d",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-09-8-3100.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-09-8-3100.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-09-8-3100",
+      "contentHash": "42cb7ebba535e737703977093d5e106a2ce477580e8386b0327927b012504112",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-10-loop-1-20-00.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-10-loop-1-20-00.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-10-loop-1-20-00",
+      "contentHash": "2d9ea7c9fdcfe958fb5bcc4b206f3934c44d60e9b8ad2effe952aea6ebdcc4bd",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-10-uu-windows-wol-bios.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-10-uu-windows-wol-bios.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-10-uu-windows-wol-bios",
+      "contentHash": "e7eb77aa8a481b4db7ef625c64489c325a38ec1889d55123d7b4f8479c8a70dc",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-10-windows-3.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-10-windows-3.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-10-windows-3",
+      "contentHash": "08d0a027655cf1a5c082c8a0657818d044f239c10f1baf47ea22378d5f4f898d",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-10-windows-v2.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-10-windows-v2.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-10-windows-v2",
+      "contentHash": "60aac30dd5bf872a77a113eb857256429ed880e41bcf7422e43adc86c2610dab",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-10-windows-v3-w1-w2.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-10-windows-v3-w1-w2.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-10-windows-v3-w1-w2",
+      "contentHash": "f9af1f96d009c1d6b5eac9c468851c2537b8490a7b2224fe86c0022ab325bd4e",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-10-windows-v4-top10.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-10-windows-v4-top10.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-10-windows-v4-top10",
+      "contentHash": "1ca376ad950c31813baba71e5cfe00f1812bd820812ac3bfa428f72ebdca3266",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-11-2026-10-gpu-v3-2.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-11-2026-10-gpu-v3-2.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-11-2026-10-gpu-v3-2",
+      "contentHash": "21e37d5f1f8f7423e30d82e6d0db05060ac29c40d41465295223ac0b75900890",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-11-671b-deepseek.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-11-671b-deepseek.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-11-671b-deepseek",
+      "contentHash": "d40c09ae1e97ac4fcb86131268af795eb24f10a9b23d82db0f80e817a6593b62",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-11-671b-ktransformers.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-11-671b-ktransformers.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-11-671b-ktransformers",
+      "contentHash": "f634c359dc4a845b028f72e49c78aa6b1b846ef8bb42fc307afbe2a9b29df965",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-14-r.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-14-r.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-14-r",
+      "contentHash": "6b19722c44974265e863dd9e72bc516cdcba28c63894fd958d62dd530016c8c1",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-14-s.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-14-s.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-14-s",
+      "contentHash": "3c8066a53fcf342f142a8dccd536c4e78caed72d763e149fdd328d3808186329",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-14-s1-5.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-14-s1-5.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-14-s1-5",
+      "contentHash": "1e614e3dcf622e17d8b5126a4c075ac5a2efb8ea704aedb6e521e0538eef8743",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-14-s2.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-14-s2.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-14-s2",
+      "contentHash": "e0fa197563a1b2ec6f0ffb8ecd72366333b51cacc93bfb9e8c2c2721d1810e41",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-15-.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-15-.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-15-",
+      "contentHash": "e93e2d7f88393c9018e0d3a1ee188cd5e94598001cd5bfd5dd0091f527452397",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-15-ffmpeg-mtx.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-15-ffmpeg-mtx.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-15-ffmpeg-mtx",
+      "contentHash": "6944bdaabe7d622aa32f5d432cceafd01bee666c3b977915275cf619233e98e6",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-15-lubot-tk-ffmpeg-mtx.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-15-lubot-tk-ffmpeg-mtx.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-15-lubot-tk-ffmpeg-mtx",
+      "contentHash": "fb43ae817daceb023a1d19b220a6d0ea1a9fccd5771a8f2b0a120fe91ee8f0dc",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-18-tk.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-18-tk.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-18-tk",
+      "contentHash": "f95e41b7eb32515ae52e87402019c743689fd1b8eb65ea1fbdad5ce5e931bedf",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-19-2026-10.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-19-2026-10.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-19-2026-10",
+      "contentHash": "b877e1338e1c9eb9fef4e7323d2f674bfa34097452098fd154c6d7b6eb9110ba",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-19-5-fast.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-19-5-fast.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-19-5-fast",
+      "contentHash": "36d81f965fc476b773f38a62bf3fc6eec88cb524171b97631ec1f15923f84ad3",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-19-lubot-tk-cam-5-blend.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-19-lubot-tk-cam-5-blend.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-19-lubot-tk-cam-5-blend",
+      "contentHash": "78e5249186139f3ba232766dab9ed8a05be76862d2096171906a4ff3a482d787",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-20-ffmpeg-lubot-tk-cam-5.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-20-ffmpeg-lubot-tk-cam-5.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-20-ffmpeg-lubot-tk-cam-5",
+      "contentHash": "884167ce794a51376e377abe888d231b58c4805c30a3b20caa114b6cc3cfdbbe",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-21-lubot-txt-rtmp-tk-cam-fast-1-0x.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-21-lubot-txt-rtmp-tk-cam-fast-1-0x.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-21-lubot-txt-rtmp-tk-cam-fast-1-0x",
+      "contentHash": "6198f8502648d103d7c37a73a96a849e83b1810b1d14f94360eca254007272e7",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-21-t.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-21-t.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-21-t",
+      "contentHash": "d883ae3f4a06695d10431f4f74574ebe93f4cafccdf2aab43f569dc698cdda7e",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-21-t1.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-21-t1.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-21-t1",
+      "contentHash": "af28144d063ce38213cd92a08aa88b8c24a25022a460faf2d037eeb6094d8fd4",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-22-rea-6-7-0-npm-pi-mcp-ghidra.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-22-rea-6-7-0-npm-pi-mcp-ghidra.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-22-rea-6-7-0-npm-pi-mcp-ghidra",
+      "contentHash": "a68fa5eed1ce48d1d479b4e8f9a85a7c1653967bdf2ec42bd73d27574db5412c",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-22-rea-ghidra-tkcore-5153-3266.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-22-rea-ghidra-tkcore-5153-3266.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-22-rea-ghidra-tkcore-5153-3266",
+      "contentHash": "2260603a46a9a7b859978ce51a10e32b2ad0ccca96b793fad505408c863c4fac",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-22-tgm2-c-lox-n-20.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-22-tgm2-c-lox-n-20.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-22-tgm2-c-lox-n-20",
+      "contentHash": "a20cc8f95f2c260029bc2a654599a61b3de58926d7fed8716c1a3575915079ea",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-22-tgm2-m1-run-c-ns-ppi.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-22-tgm2-m1-run-c-ns-ppi.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-22-tgm2-m1-run-c-ns-ppi",
+      "contentHash": "3cc78b57e514afa75f328a80214ee10345ac44608621d6f947651f00c581868a",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-22-tkcore-exe-qt6-cuda-cpu-mediamtx.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-22-tkcore-exe-qt6-cuda-cpu-mediamtx.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-22-tkcore-exe-qt6-cuda-cpu-mediamtx",
+      "contentHash": "f295fb52a0b449dcf14e0c5b46e6a6782e6797cc53f5a117ef3d416061ac8342",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-23-ed25519-15.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-23-ed25519-15.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-23-ed25519-15",
+      "contentHash": "c7c990ed5ee6cf5b11b40c837c692c16cb737dff6bc4bfdf65d0073120b2335a",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-23-tk-photoimage-data-base64-ppm-png.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-23-tk-photoimage-data-base64-ppm-png.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-23-tk-photoimage-data-base64-ppm-png",
+      "contentHash": "9f15dcb310dc4825056cf2fb00f4c36d9282f809bc3da743272d51508192f1c9",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-23-v1-0-txt.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-23-v1-0-txt.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-23-v1-0-txt",
+      "contentHash": "28d143079a0f9d7340bfa190dec8dc6f64e9dd4955457d121fea86b656ae6bb8",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-25-genai-4-e-genai-lab.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-25-genai-4-e-genai-lab.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-25-genai-4-e-genai-lab",
+      "contentHash": "19ef85cafb311020d24aa2e8365d537b833eafc75d06122437f000d64a16c7e2",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-25-hudk4050.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-25-hudk4050.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-25-hudk4050",
+      "contentHash": "67b6fb2b23b626cf0b8a34db496701741721e41335ac028dbd28f8b0cf5c811c",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-26-v1-1-12.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-26-v1-1-12.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-26-v1-1-12",
+      "contentHash": "a17a0a9fb5e1fe9e3ae65d8c5ea1005168e723539533dccea9fed64a5fcc4f25",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-27-v1-1-1.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-27-v1-1-1.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-27-v1-1-1",
+      "contentHash": "30b428ad4c69401368cc8312368ba4e125cee6699cf9c530f1b367f67390d27a",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-28-.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-28-.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-28-",
+      "contentHash": "4f34d0f59f1b5374660aa8e430a88703847b238ac3df9ddad525e59c3154923b",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-28-19.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-28-19.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-28-19",
+      "contentHash": "e0cfd291fdf202e46382a42ddaadc2f7e75beaa674d8f4dbbf8b5ee1a0bd4131",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-28-deepseek-llm.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-28-deepseek-llm.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-28-deepseek-llm",
+      "contentHash": "4e64d892dcd4875481baa891a60a603ed0adf39a4b7cc906ae27feaf546ceb73",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-28-model-onnx-90.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-28-model-onnx-90.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-28-model-onnx-90",
+      "contentHash": "3db87a526746c9812675d93298a2de22298c9687f246b9210ce1e41ea37b2d05",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-28-qq-pi-tui-peerdeps.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-28-qq-pi-tui-peerdeps.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-28-qq-pi-tui-peerdeps",
+      "contentHash": "786f1b93585753ca07c89e55c33eac2690eeb480805f0aa9b2b2ebedfdd1d17b",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-29-v1-2-307mb-exe-bat.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-29-v1-2-307mb-exe-bat.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-29-v1-2-307mb-exe-bat",
+      "contentHash": "ed1b4d5ea0dd1d707af1b05b998646c2d78ba81b876090eb1230279cba76eb49",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-30-word.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-30-word.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-30-word",
+      "contentHash": "2a0c6701d1d435b84b3d4a94a62c07d1bee2e30766bdce03937f219e6831f0a9",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-30-word-30.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-30-word-30.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-30-word-30",
+      "contentHash": "db837bc86a337d97c440ffbdf8cc6d061ece770b16ebf8692454f35e9fcc4af4",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-30-word-v3-6.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-30-word-v3-6.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-30-word-v3-6",
+      "contentHash": "ecb302d4890933f6a669300ccead5606d3c0161109a27891425b977be7b81a6b",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-10-31-ubuntu-systemd-e2e.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-10-31-ubuntu-systemd-e2e.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-10-31-ubuntu-systemd-e2e",
+      "contentHash": "a362fe7e3e452d2e2b6392ad9350a16011fa9aac195d9a2a3423d9d38558fbfe",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-11-01-pta-69-1.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-11-01-pta-69-1.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-11-01-pta-69-1",
+      "contentHash": "b45635e3669e53c697eb7fc2bf5d84e1d65903814d7c9933eb643b3e6649f92f",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-11-01-v2-0-e2e-v2.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-11-01-v2-0-e2e-v2.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-11-01-v2-0-e2e-v2",
+      "contentHash": "4f99c8abc60a899a46d2c236b093939741dbf9242fdd52787bdc637f15b6deee",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-11-01-vbot-tkcore-exe-ffmpeg.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-11-01-vbot-tkcore-exe-ffmpeg.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-11-01-vbot-tkcore-exe-ffmpeg",
+      "contentHash": "3f9b626992eeb0d9828b211a1bdff40c3c9e5a8a06591efe57be01caa6a734b2",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-11-02-.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-11-02-.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-11-02-",
+      "contentHash": "bdab883e69322b0ae17e33d04cd759c1e63e751eae44bb63ed0283302921ddf6",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-11-02-8.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-11-02-8.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-11-02-8",
+      "contentHash": "adb0eb56d9cd76988f8e09db3c638a096e69320fdeb6728ac967b8df2e354cdf",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-11-02-mit.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-11-02-mit.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-11-02-mit",
+      "contentHash": "fb98df61bdd8337ef82137f0173f5c103cf1c91df12c8d159e0c47353316d136",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-11-02-vbot-v2-12-12.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-11-02-vbot-v2-12-12.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-11-02-vbot-v2-12-12",
+      "contentHash": "2819a8fb02caa653d27d431cc260f88361389f79127bfe5843ea4cb42eff6b34",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-11-03-v2-0-device-code-powershell-1-36-verdict-ok.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-11-03-v2-0-device-code-powershell-1-36-verdict-ok.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-11-03-v2-0-device-code-powershell-1-36-verdict-ok",
+      "contentHash": "71185924f4450dd2a8aa8f7c8e10e5db7579bdfe5177127bfb665ca22c2dec8a",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-11-03-vbot-v3.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-11-03-vbot-v3.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-11-03-vbot-v3",
+      "contentHash": "c416c5caf3a702943539acd64726cbd69d6d3ad37df171780f56321e199910b5",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/obs-2026-11-04-vbot1-7-7-lubot-77-2.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\obs-2026-11-04-vbot1-7-7-lubot-77-2.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/obs-2026-11-04-vbot1-7-7-lubot-77-2",
+      "contentHash": "3ce0c16e4b4ce8f9f1609efafc8328a4a123392e56e84fe71ae2d609e751b59f",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/offline-license-system-design.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\offline-license-system-design.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/offline-license-system-design",
+      "contentHash": "b16c4b1b2e16e4e429871b2ba893872d7a3b7faa088036d0f86d85f60516eadf",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/onnx-notebook-model-export-pitfalls.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\onnx-notebook-model-export-pitfalls.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/onnx-notebook-model-export-pitfalls",
+      "contentHash": "5bd05b264651987195779a6a4767ed3d903e1581f1abfbc8da81f0088f21319c",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/prepackaged-venv-repair.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\prepackaged-venv-repair.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/prepackaged-venv-repair",
+      "contentHash": "ce505155bf0fe9eaf78d8618a65cd0906bb9f0928d9d08401079a4bd93ac7616",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/pta-exam-70-ac-full-score.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\pta-exam-70-ac-full-score.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/pta-exam-70-ac-full-score",
+      "contentHash": "42cfa633e1f66ab4195e5d14ab57e2a9db89c0340cac0a72e38b1cb8163ec157",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/qbittorrent-webui-ini-and-exit-pitfalls.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\qbittorrent-webui-ini-and-exit-pitfalls.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/qbittorrent-webui-ini-and-exit-pitfalls",
+      "contentHash": "666b483a7440e58d5f5588d7e7ac903d269602161c44dfd5dac21b56fc19c9b7",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/qq-integration-lock-zero-filled-outage.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\qq-integration-lock-zero-filled-outage.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/qq-integration-lock-zero-filled-outage",
+      "contentHash": "69ec5ad6db3e5a91578b308134e9514f228401bc280337b24d5748ac15bb2e95",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/r1-kgqa-degradation-root-cause.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\r1-kgqa-degradation-root-cause.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/r1-kgqa-degradation-root-cause",
+      "contentHash": "a12b84cf459afd28a902b059f648b7ab6361dd72cf7b122c3062cef56d91c8b9",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/schema-driven-llm-lit-extraction.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\schema-driven-llm-lit-extraction.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/schema-driven-llm-lit-extraction",
+      "contentHash": "f840f26d526e9093fd6c66c7fee9debc0805fb1498ea31d2f02d968709b8c5d6",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/session-json-bracket-repair.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\session-json-bracket-repair.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/session-json-bracket-repair",
+      "contentHash": "9d48011acf8c4603d4d4bae153820d692658aa4a4acb10943b6051805343aa59",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/static-courseware-assembly-pipeline.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\static-courseware-assembly-pipeline.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/static-courseware-assembly-pipeline",
+      "contentHash": "bb866a6a4d6a2f535f1fe4e4be96b5cfea0c3b9f0794bc047edcd080316453db",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/subtitle-wrong-video-and-force-whisper.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\subtitle-wrong-video-and-force-whisper.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/subtitle-wrong-video-and-force-whisper",
+      "contentHash": "14de5af0124735ae5671c4da596d406077da348380256dd6d4601d27ce5fc000",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/v1-pack-v2-align-four-blockers.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\v1-pack-v2-align-four-blockers.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/v1-pack-v2-align-four-blockers",
+      "contentHash": "f2abc0e838b3c09a82235cb618ab2d142edda9a82d523c495638a10cfd69dc64",
+      "role": "evidence",
+      "type": "source"
+    },
+    "documents/evidence/sources/wbi-mixinkey-join-comma-bug.md": {
+      "sourcePath": "C:\\Users\\16575\\.llm-wiki\\wiki\\sources\\wbi-mixinkey-join-comma-bug.md",
+      "vaultId": "b0281ac3-8e54-4a9e-844e-cd5bb73c2d17",
+      "pageId": "sources/wbi-mixinkey-join-comma-bug",
+      "contentHash": "abc8c81b45e1e39b3abd6be4eb61c5bf6aa5aca8c1db852db61e64d71f1d4c83",
+      "role": "evidence",
+      "type": "source"
+    }
+  }
+}
