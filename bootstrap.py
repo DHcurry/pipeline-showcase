@@ -81,11 +81,21 @@ def main():
         check(f'{d}/ ({n}文件)', os.path.isdir(p) and n > 0)
 
     print('\n[4/4] 启动演示')
-    print(f'  → python server.py  →  http://127.0.0.1:{PORT}')
-    ans = input('现在启动? [Y/n] ').strip().lower()
+    print(f'  → python server.py  →  http://127.0.0.1:{PORT}   (Windows 也可双击 start.bat)')
+    try:
+        ans = input('现在启动? [Y/n] ').strip().lower()
+    except EOFError:          # 非交互环境(双击/管道)默认启动, 不卡死
+        ans = ''
     if ans in ('', 'y', 'yes'):
-        os.execv(sys.executable, [sys.executable, os.path.join(ROOT, 'server.py')])
-    print('已退出。随时运行: python server.py')
+        # Windows 下用 subprocess 代替 os.execv(兼容性更好, 失败也不会静默闪退)
+        code = subprocess.call([sys.executable, os.path.join(ROOT, 'server.py')])
+        if os.name == 'nt':
+            try:
+                input('服务已停止, 回车关闭窗口...')
+            except EOFError:
+                pass
+        sys.exit(code)
+    print('已退出。随时运行: python server.py 或双击 start.bat')
 
 
 if __name__ == '__main__':

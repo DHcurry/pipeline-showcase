@@ -25,23 +25,30 @@ pipeline-showcase/
 └── data/                 # 台账样例 (history/append/collections/subtitles/site_catalog)
 ```
 
-## 🚀 异地运行
+## 🚀 在任何电脑上运行（三步开箱即用）
 
-```bash
-git clone git@github.com:DHcurry/pipeline-showcase.git
-cd pipeline-showcase
-python bootstrap.py          # 体检环境 + 交互式生成 env 配置 + 起服务
-# → http://127.0.0.1:8787
+**前置**：安装 [Python 3.9+](https://www.python.org/downloads/)（安装时勾选 **Add python.exe to PATH**）。无需 qB/ffmpeg/GPU——演示模式零依赖。
+
+```
+方式A（Windows）：双击  start.bat          ← 自动找 py/python 启动，报错不闪退
+方式B（任意平台）：python server.py        ← 端口被占自动顺延 8787→8791
+可选引导：python bootstrap.py              ← 环境体检 + 配置向导
 ```
 
-**必填配置**（bootstrap 会引导）：
-| 文件 | 来源 |
-|---|---|
-| `daily-movie/site.env` | 资源站账号（复制 config/*.example） |
-| `daily-movie/qbwebui.env` | qBittorrent WebUI 地址/账号 |
-| `~/.pi/agent/auth.json` | DeepSeek 等模型 key（**永不入库**） |
+启动后打开终端显示的地址（默认 **http://127.0.0.1:8787**）。
 
-**可选**：qBittorrent + ffmpeg + faster-whisper(GPU) 才能跑完整管线；仅演示模式（`pipeline-showcase/` 部分）零依赖。
+**异地自动演示模式**：仓库内没有本机管线时，`data/` 快照自动接管（77部作品/50条拼接/8合集 等真实导出数据），页面照常全量展示；连上真实管线时自动切【真实台账模式】。
+
+| 环境变量 | 作用 | 缺省 |
+|---|---|---|
+| `PORT` | 服务端口 | 8787（被占自动+1至8791） |
+| `PIPELINE_DIR` | 指向真实 daily-movie 目录 | 自动探测本机路径→否则 data/ 快照 |
+
+**故障排查**：
+- 窗口一闪而过 → 用方式A，或在仓库目录打开 CMD 运行 `python server.py` 看报错
+- 找不到 python → 安装并勾选 Add to PATH（或用 `py -3 server.py`）
+- 端口占用 → 服务会自动顺延；也可 `set PORT=9000 && python server.py`
+- 问答面板无回复 → 需本机装有 `pi` CLI（Pi Agent SDK），仅演示可忽略
 
 ## 🧠 Pi Agent SDK 角色
 

@@ -9,7 +9,11 @@
 import json, os, time, threading, subprocess, http.server, socketserver, urllib.parse, queue
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-DM = r'C:\Users\16575\daily-movie'          # 真实管线台账目录
+# 台账目录解析(异地兼容): PIPELINE_DIR环境变量 → 本机管线 → 仓库data/快照(演示模式)
+_cands = [os.environ.get('PIPELINE_DIR', ''), r'C:\Users\16575\daily-movie',
+          os.path.join(os.path.expanduser('~'), 'daily-movie')]
+DM = next((c for c in _cands if c and os.path.isdir(c)), None) or os.path.join(ROOT, 'data')
+REAL_MODE = os.path.exists(os.path.join(DM, 'daily_movie.py'))  # False=仓库快照演示模式
 PORT = int(os.environ.get('PORT', '8787'))
 
 # ---------------- 数据聚合 ----------------
@@ -56,7 +60,7 @@ def stats():
             l = l.strip()
             if l and not l.startswith('#') and '=' in l:
                 kk, vv = l.split('=', 1); env[kk.strip()] = vv.strip()
-        out = subprocess.run(['curl', '-s', '-b', 'C:/Users/16575/daily-movie/qb.cookie',
+        out = subprocess.run(['curl', '-s', '-b', os.path.join(DM, 'qb.cookie'),
                               env.get('QBT_URL', '') + '/api/v2/torrents/info'],
                              capture_output=True, timeout=8).stdout
         active = sum(1 for t in json.loads(out) if t.get('progress', 1) < 0.99)
@@ -196,5 +200,15 @@ class S(socketserver.ThreadingMixIn, http.server.HTTPServer):
     daemon_threads = True; allow_reuse_address = True
 
 if __name__ == '__main__':
-    print(f'Pipeline Command Center -> http://127.0.0.1:{PORT}')
-    S(('127.0.0.1', PORT), H).serve_forever()
+    mode = '真实台账模式' if REAL_MODE else '演示快照模式(data/)'
+    for p in range(PORT, PORT + 6):
+        try:
+            srv = S(('127.0.0.1', p), H)
+        except OSError:
+            print(f'  [i] 端口 {p} 被占用, 尝试 {p + 1}...')
+            continue
+        print(f'Pipeline Command Center [{mode}] -> http://127.0.0.1:{p}')
+        srv.serve_forever()
+        break
+    else:
+        raise SystemExit('端口 8787-8791 均被占用, 试: set PORT=9000 && python server.py')
